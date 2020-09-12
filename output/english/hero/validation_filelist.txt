@@ -1,0 +1,96 @@
+DUMMY/INFO_BAU_2_WASSER_15_00.wav|Lefty sent me. I've brought you some water.
+DUMMY/INFO_GRD_13_DASLAGER_WACHENBESTECHEN_15_05.wav|I was just curious, that's all.
+DUMMY/INFO_MINE_GRD_6_MINECRAWLER_15_00.wav|Tell me about the crawlers.
+DUMMY/INFO_MINE_ORG_6_MINE_15_00.wav|What goes on in the mine?
+DUMMY/INFO_MINE_VLK_2_MINECRAWLER_15_00.wav|What do you know about minecrawlers?
+DUMMY/INFO_MINE_VLK_2_DIELAGE_15_00.wav|How are you?
+DUMMY/INFO_NOV_5_DIELAGE_15_00.wav|How are things?
+DUMMY/INFO_ORG_6_DASLAGER_15_00.wav|Is there anything I should know about this place?
+DUMMY/INFO_ORG_7_EINERVONEUCHWERDEN_15_00.wav|What do I have to do to join the Camp?
+DUMMY/INFO_SFB_5_DIELAGE_15_00.wav|What's life like here?
+DUMMY/INFO_VLK_1_EINERVONEUCHWERDEN_15_00.wav|How do I join this camp?
+DUMMY/INFO_RUFUS_WASSER_15_00.wav|Lefty sent me. I've brought you some water.
+DUMMY/INFO_BARTHOLO_15_03.wav|Where is Stone?
+DUMMY/INFO_THORUS_BRIBEGUARD_15_00.wav|If I gave you a certain amount of ore, would you let me in the castle?
+DUMMY/INFO_THORUS_BRIBEGUARD_15_04.wav|1000 nuggets?
+DUMMY/DIA_CUTTER_BURG_15_04.wav|Are there dungeons under the castle then?
+DUMMY/DIA_SKIP_FIRST_15_00.wav|What do you do here?
+DUMMY/DIA_SKIP_FIRST_15_02.wav|D'you sell weapons?
+DUMMY/DIA_GRD_215_TORWACHE_FIRST_DIEGO_15_00.wav|Diego says I'm to meet him in the Camp.
+DUMMY/DIA_GRD_219_STONE7_15_01.wav|Make me something to increase my magic powers.
+DUMMY/INFO_BLOODWYN_HELLO_15_01.wav|Are you talking to me?
+DUMMY/INFO_BLOODWYN_PAYDAY_DEN_15_01.wav|Now what?
+DUMMY/INFO_KIRGO_CHARGE_NOW_15_00.wav|No! I want to fight. Now!
+DUMMY/INFO_KIRGO_CHARGE_BEER_15_04.wav|I'd like it to stay that way, too.
+DUMMY/DIA_ORRY_GUARDGATE_NO_15_00.wav|No.
+DUMMY/DIA_ORRY_GUARDGATE_YES_15_00.wav|Yes, I have.
+DUMMY/DIA_ORRY_SHORE_15_02.wav|Oh. Are all the guys like that in the Old Camp?
+DUMMY/INFO_FLETCHER_DIE_15_04.wav|Hey, what are you talking about, Fletcher?
+DUMMY/GRD_263_ASGHAN_OPEN_INFO_15_01.wav|Hey Asghan, you may open the gate now!
+DUMMY/GRD_271_ULBERT_ANGRY_INFO_15_02.wav|Oh... uh...... I guess I must have been mistaken! Have a good day!
+DUMMY/GUR_1202_CORANGAR_WHERE_INFO_15_01.wav|Where is the Orc cemetery?
+DUMMY/DIA_BAALTONDRAL_NEWMEMBER_15_00.wav|Where can I recruit new members for the Brotherhood?
+DUMMY/GUR_1208_BAALCADAR_KREIS3_INFO_15_01.wav|I am ready to enter the Third Circle.
+DUMMY/INFO_BAALLUKOR_TELEPORT_15_02.wav|And does the answer to the strange invocation of the Sleeper really lie here???
+DUMMY/INFO_BAALLUKOR_ALTAR_15_06.wav|That was it. Now he's gone completely crazy!
+DUMMY/KDF_402_CORRISTO_KDFTEST_INFO_15_01.wav|I'm up for it. Just test me.
+DUMMY/KDF_402_CORRISTO_KDFTEST_FIGHT_INFO_15_01.wav|A warrior's honor.
+DUMMY/INFO_XARDAS_BARRIER_15_06.wav|This arch demon, was it the Sleeper?
+DUMMY/INFO_XARDAS_LOADSWORD01_15_01.wav|URIZIEL possessed unbelievable powers?
+DUMMY/INFO_XARDAS_MAKERUNEDOIT_15_06.wav|NO, don't do it!
+DUMMY/DIA_TORREZ_BRIEFTAUSCH_15_02.wav|I've done that already.
+DUMMY/INFO_SATURAS_NEWS_15_01.wav|I have important news from the Brotherhood's camp!
+DUMMY/INFO_SATURAS_YBERION_15_07.wav|One of the Gurus nearly killed me under the influence of the Sleeper, although I had saved his life just briefly beforehand.
+DUMMY/KDW_600_SATURAS_NOMOREOC_INFO_15_01.wav|I have been exiled from the Old Camp because I have helped you!
+DUMMY/INFO_SATURAS_XARDASHELP_15_01.wav|I'll make my way to Xardas and ask him for help!
+DUMMY/NOV_1301_CAINE_CHEST_INFO_15_01.wav|How can I get Kalom's recipe?
+DUMMY/DIA_NYRAS_ORT_HOLY_15_00.wav|Tell me about the holy words of the great Sleeper.
+DUMMY/DIA_GHORIM_MISSINGHARLOK_15_04.wav|Why don't you just go there and give him a right kick in the butt?
+DUMMY/DIA_BAALTARAN_INTOCASTLE_15_00.wav|I need to get into the castle. Can you help me?
+DUMMY/DIA_BAALISIDRO_HELLO_15_00.wav|You don't look very happy.
+DUMMY/INFO_FREEMINEORC_CRAWLER_15_01.wav|What does GACH LUG mean?
+DUMMY/INFO_ORCSHAMAN_KRUSHAK_15_03.wav|You mean 'Sleeper'?
+DUMMY/ORG_801_LARES_YOUHERE_15_01.wav|He didn't feel like stopping me.
+DUMMY/ORG_801_LARES_GOTOKALOM_15_00.wav|And what am I supposed to do now?
+DUMMY/ORG_826_MORDRAG_TRADE_15_00.wav|Show me your goods.
+DUMMY/DIA_WEDGE_LEHRER_15_00.wav|What can you teach me?
+DUMMY/DIA_WEDGE_LEHRER_SCHLEICHEN_15_00.wav|I want to learn how to sneak around.
+DUMMY/DIA_WOLF_HELLO_15_00.wav|Who are you?
+DUMMY/DIA_WOLF_SELLARMOR_15_00.wav|I'm looking for better armor.
+DUMMY/DIA_GORN_HUT_15_03.wav|Us?
+DUMMY/INFO_GORN_KICKBUTT_15_01.wav|Okay, let's go and teach the unwelcome guests in the mine a lesson!
+DUMMY/DIA_MILTEN_LETTER_15_00.wav|I have a letter for the High Magician of the Circle of Fire.
+DUMMY/DIA_MILTEN_WOTORREZ_15_00.wav|Where can I find Torrez?
+DUMMY/DIA_MILTEN_NOCHEINBRIEF_15_00.wav|I have a letter from the Magicians of Water.
+DUMMY/INFO_MILTEN_SHYOU_15_01.wav|What are you doing here?
+DUMMY/INFO_MILTEN_SHACCEPT_15_05.wav|I see. Well, which way leads to the ring of stone?
+DUMMY/INFO_MILTEN_SHHEAL_15_01.wav|I'm wounded. Please help me.
+DUMMY/INFO_MILTEN_LOADSWORD4_15_01.wav|Xardas gave me this magic spell to carry out the transfer!
+DUMMY/PC_PSIONIC_NORMAL_INFO_15_01.wav|How did you manage to get past that living mountain?
+DUMMY/PC_PSIONIC_CHESTCLOSED_INFO_15_01.wav|Have you found anything?
+DUMMY/INFO_DIEGO_TEACHERS_15_00.wav|Who can teach me?
+DUMMY/INFO_DIEGO_OCSTORY_15_01.wav|Just tell me about it! It's not the first long story I've had to listen to!
+DUMMY/INFO_SWINEY_SCHUERFER_JA_15_00.wav|Yes.
+DUMMY/DIA_LEE_NOWREADY_15_00.wav|I'd like to become a mercenary of the mages - am I ready yet?
+DUMMY/DIA_LEE_FMTAKEN_15_00.wav|What do you think about the mine?
+DUMMY/DIA_JARVIS_MAGIER_15_00.wav|What do the mages do?
+DUMMY/INFO_KHARIM_CHARGE_INSULT_STUPID_15_00.wav|Let's think about it: No, there's nothing I can think of you'd actually understand.
+DUMMY/INFO_SLD_732_PAROLE_FALSE1_15_01.wav|The password is TETRIDANOCH.
+DUMMY/INFO_SLD_732_PAROLE_FALSE2_15_01.wav|The password is TERIANTROCH.
+DUMMY/DIA_SLD_752_OKYL_UMSEHEN_INFO_15_01.wav|I'll just have a look around here.
+DUMMY/DIA_SLD_753_BALORO_HABSDABEI_INFO_15_02.wav|Here you go!
+DUMMY/DIA_STT_315_LOSTNEKSUCCESS_PROOF_15_00.wav|I've found this amulet on him - here you go.
+DUMMY/STT_335_SANTINO_BUY_INFO_15_01.wav|Can I trade things with you?
+DUMMY/DIA_KALOMSGUARD_PERM_15_00.wav|I'm sure you won't mind me going in there...?
+DUMMY/TPL_1433_GORNAVID_HEALTH_SUC_INFO_15_01.wav|Here, maybe that'll help.
+DUMMY/TPL_1438_TEMPLER_EXIT_INFO_15_01.wav|See you later.
+DUMMY/DIA_GORNADRAK_GREET_15_00.wav|Hi! Where are you off to?
+DUMMY/DIA_GUY_ADOC_BACK_15_00.wav|I think I've heard enough about the Old Camp.
+DUMMY/DIA_VLK_534_LEAVEME_15_00.wav|Why are you here and not in the Camp?
+DUMMY/DIA_GRAHAM_SELLMAP_BACK_15_00.wav|I'll return.
+DUMMY/DIA_GRIM_YOURPDV_15_00.wav|What was YOUR test of faith?
+DUMMY/DIA_SNAF_HELLO_15_03.wav|Thanks.
+DUMMY/DIA_SNAF_WHEREMUSHROOMS_15_00.wav|Where can I find hell mushrooms?
+DUMMY/VLK_585_ALEPH_SCHUPPEN_50_15_01.wav|50 ore should be more than enough for you!
+DUMMY/VLK_586_GRIMES_KNOW_INFO_15_05.wav|I don't want to dig in the mine for the next ten years of my life!
+DUMMY/INFO_XARDASDEMON_NOHEART_15_01.wav|You're speaking in riddles!

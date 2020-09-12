@@ -1,0 +1,136 @@
+DUMMY/INFO_DIEGO_GAMESTART_11_00.wav|I'm Diego.
+DUMMY/INFO_DIEGO_GAMESTART_11_02.wav|I'm not interested in who you are. You've just arrived. I look after the new arrivals. That's all for now.
+DUMMY/INFO_DIEGO_GAMESTART_11_03.wav|If you plan to stay alive for a while, you should talk to me. But of course I won't keep you from choosing your own destruction. Well, what do you think?
+DUMMY/INFO_DIEGO_EXIT_GAMESTART_11_01.wav|It's your decision. It's been nice knowing you.
+DUMMY/INFO_DIEGO_EXIT_GAMESTART_11_02.wav|We'll meet in the Old Camp.
+DUMMY/INFO_DIEGO_EXIT_11_01.wav|Let's go on.
+DUMMY/INFO_DIEGO_BRIEF_11_01.wav|Really...?
+DUMMY/INFO_DIEGO_BRIEF_11_03.wav|You're lucky I can't afford to show my face around the mages any more. Anyone else would gladly slit your throat for that letter.
+DUMMY/INFO_DIEGO_BRIEF_11_04.wav|That's because the mages pay their couriers a lot and most people here don't have anything.
+DUMMY/INFO_DIEGO_BRIEF_11_05.wav|If I were you I'd shut up until I met one of the mages. Although, in your situation, that's not likely to happen.
+DUMMY/INFO_DIEGO_BRIEF_11_07.wav|The mages are in the castle in the Old Camp. Only Gomez' people are allowed to enter the castle.
+DUMMY/INFO_DIEGO_WARUMGEHOLFEN_11_01.wav|Because you needed help, otherwise Bullit and his boys might have killed you.
+DUMMY/INFO_DIEGO_WARUMGEHOLFEN_11_02.wav|And I couldn't just stand by and watch. 'Cos I came all this way to make a suggestion.
+DUMMY/INFO_DIEGO_WARUMGEHOLFEN_11_04.wav|Yes. After this little incident with Bullit and his guys, you should be aware now that you need protection.
+DUMMY/INFO_DIEGO_WARUMGEHOLFEN_11_05.wav|Everyone who arrives here has a choice. There are three camps in the colony, and you'll have to join one of them.
+DUMMY/INFO_DIEGO_WARUMGEHOLFEN_11_06.wav|I'm here to show the new ones that the Old Camp is the best place for them.
+DUMMY/INFO_DIEGO_BULLIT_11_03.wav|He and the others bring the goods from the outside world into the Camp. You'll find him there.
+DUMMY/INFO_DIEGO_BULLIT_11_04.wav|But if you plan to fight him, be careful. He's an experienced warrior.
+DUMMY/INFO_DIEGO_KOLONIE_11_01.wav|We call it the colony. You'll know already that we produce ore for the King.
+DUMMY/INFO_DIEGO_KOLONIE_11_02.wav|Well, at least we do - in the Old Camp.
+DUMMY/INFO_DIEGO_KOLONIE_11_03.wav|There are three camps within the Barrier. The Old Camp is the biggest, and it was the first.
+DUMMY/INFO_DIEGO_BARRIERE_11_01.wav|There isn't much to tell. It's impenetrable.
+DUMMY/INFO_DIEGO_BARRIERE_11_03.wav|The last one who tried that reached the other side a dead man. This damned Barrier let's you in, but you'll never get out of here.
+DUMMY/INFO_DIEGO_BARRIERE_11_05.wav|You're already in a rush to get out of here? But you've only just arrived!
+DUMMY/INFO_DIEGO_OTHERCAMPS_11_02.wav|There's the New Camp in the west of the colony, where the mages think they can just detonate the Barrier as soon as they've scraped enough ore together.
+DUMMY/INFO_DIEGO_OTHERCAMPS_11_03.wav|And then there's the sect loonies in the east. Their camp is in the middle of the swamp, and they're praying to their idol to set them free.
+DUMMY/INFO_DIEGO_OTHERCAMPS_11_04.wav|He hasn't responded so far.
+DUMMY/INFO_DIEGO_OTHERCAMPS_11_05.wav|If I were you, I wouldn't waste my time on those madcaps.
+DUMMY/INFO_DIEGO_OLDCAMP_11_01.wav|It's the biggest and most powerful of the three camps. Gomez and his guys control the Camp and thereby the whole ore trade.
+DUMMY/INFO_DIEGO_OLDCAMP_11_02.wav|Once a month, the King sends us everything we need. We've got the old guy in our grip, you understand?
+DUMMY/INFO_DIEGO_OLDCAMP_11_03.wav|He sends us wine, bread, meat, weapons... everything.
+DUMMY/INFO_DIEGO_OLDCAMP_11_04.wav|You can also get some of it. All you have to do is join Gomez' people.
+DUMMY/INFO_DIEGO_WHOSGOMEZ_11_01.wav|Gomez is the most powerful Ore Baron. He's the boss of the Old Camp - the most powerful man in the colony.
+DUMMY/INFO_DIEGO_JOINOLDCAMP_11_01.wav|At the gate of the castle you'll find a man called Thorus. Tell him Diego sent you.
+DUMMY/INFO_DIEGO_WAYTOOLDCAMP_11_01.wav|You just follow this path. The Old Camp is the next reasonably safe-looking place you'll come across.
+DUMMY/INFO_DIEGO_WAYTOOLDCAMP_11_02.wav|There are a lot of wild beasts between the camps. You'd  be mad to walk around without a weapon.
+DUMMY/INFO_DIEGO_WOWAFFE_11_01.wav|When you get to the Old Mine, have a look around. I'm sure you'll find something useful.
+DUMMY/INFO_DIEGO_WOWAFFE_11_02.wav|The mine is easy to find, it's just a few meters along the canyon.
+DUMMY/INFO_DIEGO_THORUSSAYS_11_01.wav|And what did he say?
+DUMMY/INFO_DIEGO_THORUSSAYS_11_03.wav|Looks like I have myself a new job.
+DUMMY/INFO_DIEGO_THORUSSAYS_11_05.wav|First there are a few things you should know.
+DUMMY/INFO_DIEGO_RULES_11_01.wav|If you want to join the Camp you'll have to earn some brownie points.
+DUMMY/INFO_DIEGO_RULES_11_03.wav|Then you'll have to stand the test of faith.
+DUMMY/INFO_DIEGO_RULES_11_04.wav|Besides there are a lot of skills every new arrival has to learn. The more you learn, the more valuable you'll be for us.
+DUMMY/INFO_DIEGO_CELEBS_11_01.wav|Well, you're looking at one of them. Then there's Thorus... you already know him.
+DUMMY/INFO_DIEGO_CELEBS_11_02.wav|As for the others... you'll have to find that out by yourself. If you don't manage to do that, you don't belong here anyway.
+DUMMY/INFO_DIEGO_CELEBS_11_03.wav|Just go through the Outer Ring and talk to people, then you'll find out who's important.
+DUMMY/INFO_DIEGO_TEACHERS_11_01.wav|Start with Fingers. He's the most skillful among us.
+DUMMY/INFO_DIEGO_TEACHERS_11_02.wav|If you keep your eyes peeled, you'll find other people who can teach you.
+DUMMY/INFO_DIEGO_TEACHERS_11_04.wav|His hut's kind of hidden. It's next to the castle wall. Just start out here and go towards the arena.
+DUMMY/INFO_DIEGO_TEACHERS_11_05.wav|When you're at the castle gate, go down to the left and you'll be heading for the arena.
+DUMMY/INFO_DIEGO_TEACH_11_01.wav|Yes. I can teach you to improve your dexterity or your strength.
+DUMMY/INFO_DIEGO_TEACH_BACK_11_00.wav|Your strength has increased a lot.
+DUMMY/INFO_DIEGO_TEACH_BACK_11_01.wav|Your skills in using the bow and the crossbow have improved.
+DUMMY/INFO_DIEGO_BRINGLIST_OFFER_11_01.wav|You have to go to the Old Mine. There you'll meet a guy called Ian. He'll give you a list.
+DUMMY/INFO_DIEGO_BRINGLIST_OFFER_11_02.wav|This list is important. It contains all the items the guys in the mine need from us.
+DUMMY/INFO_DIEGO_BRINGLIST_OFFER_11_03.wav|They'll get the stuff with the next convoy!
+DUMMY/INFO_DIEGO_BRINGLIST_OFFER_11_05.wav|Yes, there is a problem! The New Camp must not get that list!
+DUMMY/INFO_DIEGO_BRINGLIST_OFFER_11_06.wav|Like I said: The list is important. If you do it right, you'll get much further.
+DUMMY/INFO_DIEGO_IANPASSWORD_INFO_11_02.wav|Because you're going to tell him Diego sent you.
+DUMMY/INFO_DIEGO_MAPTOOLDMINE_INFO_11_01.wav|Go to Graham. He's a cartographer. Tell him that I sent you and that you need a map. It'll show you the way to the mine.
+DUMMY/INFO_DIEGO_MAPTOOLDMINE_INFO_11_02.wav|He lives to the left of the north gate.
+DUMMY/INFO_DIEGO_BRINGLIST_SUCCESS_11_01.wav|Well done! That'll get you a few brownie points!
+DUMMY/INFO_DIEGO_JOINANALYZE_11_01.wav|I've talked to a few people...
+DUMMY/INFO_DIEGO_JOINANALYZE_SCATTY_11_01.wav|Scatty told me you defeated Kirgo.
+DUMMY/INFO_DIEGO_JOINANALYZE_SCATTY_11_02.wav|Scatty told me you let Kirgo beat you. He didn't seem to be very enthusiastic.
+DUMMY/INFO_DIEGO_JOINANALYZE_SCATTY_11_04.wav|But he was impressed by you having the courage to fight against Kharim, even though you've been defeated.
+DUMMY/INFO_DIEGO_JOINANALYZE_SCATTY_11_05.wav|But he was greatly impressed that you defeated Kharim - he wouldn't stop talking about you at all.
+DUMMY/INFO_DIEGO_JOINANALYZE_SCATTY_11_06.wav|And he's anxious to see if you'll challenge Kharim.
+DUMMY/INFO_DIEGO_JOINANALYZE_WHISTLER_11_01.wav|Whistler told me the story about Fisk... Well, if I was you I would have taken the ore and cleared off. But anyway - he thinks a great deal of you.
+DUMMY/INFO_DIEGO_JOINANALYZE_WHISTLER_11_02.wav|I've talked to Whistler. You took his ore, you clever bastard! I must admit, you're quite brave!
+DUMMY/INFO_DIEGO_JOINANALYZE_WHISTLER_11_03.wav|Whistler is waiting for his sword. You should make up your mind whether to bring it to him or not, otherwise he'll think that you've cleared off with his ore!
+DUMMY/INFO_DIEGO_JOINANALYZE_SLY_11_01.wav|Sly told me that you've found Nek. He seemed to be really content.
+DUMMY/INFO_DIEGO_JOINANALYZE_SLY_11_02.wav|I think Sly's wrong about Nek. He was a real pain, that's true, but I don't think he went to the New Camp.
+DUMMY/INFO_DIEGO_JOINANALYZE_FINGERS_11_01.wav|I've already sent you to Fingers - he could really teach you something!
+DUMMY/INFO_DIEGO_JOINANALYZE_FINGERS_11_02.wav|Fingers told me that you've already learned a bit, but he thinks you can still improve your skills.
+DUMMY/INFO_DIEGO_JOINANALYZE_DEXTER_11_01.wav|I really need to talk to Dexter. He's using you for his own business.
+DUMMY/INFO_DIEGO_JOINANALYZE_DEXTER_11_02.wav|But there aren't any rules for the test. If you manage THAT you'll be making a big step.
+DUMMY/INFO_DIEGO_JOINANALYZE_DEXTER_11_03.wav|You've really managed to get the recipe from Kalom. Dexter is very impressed, and so am I.
+DUMMY/INFO_DIEGO_JOINANALYZE_THORUS_11_01.wav|The business with Mordrag is really quite a job. He's not bad as a warrior. You should exercise if you really want to defeat him.
+DUMMY/INFO_DIEGO_JOINANALYZE_THORUS_11_02.wav|Thorus says we could make use of someone like you - that's very good for you.
+DUMMY/INFO_DIEGO_JOINANALYZE_THORUS_11_03.wav|Thorus's head nearly burst because he was raging mad - how dare you screw up the job LIKE THIS?
+DUMMY/INFO_DIEGO_JOINANALYZE_FISK_11_01.wav|Fisk told me you surprised him. In any case he'll be on your side.
+DUMMY/INFO_DIEGO_JOINANALYZE_FISK_11_02.wav|Fisk is really pissed off with you. If I were you I'd look for someone to replace Mordrag.
+DUMMY/INFO_DIEGO_POINTS_11_00.wav|You've found enough people to speak in your favor.
+DUMMY/INFO_DIEGO_POINTS_11_01.wav|You also passed the test of faith. Go to Thorus. I've already told him everything. He'll let you go to see Gomez.
+DUMMY/INFO_DIEGO_POINTS_11_10.wav|All things considered, that's not too bad for a newcomer.
+DUMMY/INFO_DIEGO_POINTS_11_20.wav|Get on with it! There are still many things to do if you wanna get anywhere here in the Camp.
+DUMMY/INFO_DIEGO_WHATTOSAYTOGOMEZ_INFO_11_01.wav|Gomez' decisions are made from gut instinct. He'll look at your mug and then he'll make up his mind if you can join.
+DUMMY/INFO_DIEGO_WHATTOSAYTOGOMEZ_INFO_11_02.wav|From now on you'll have to get by on your own - make the best of it! Good luck.
+DUMMY/PC_THIEF_ARMOR_INFO_11_02.wav|Do you have enough ore?
+DUMMY/PC_THIEF_ARMOR_INFO_11_03.wav|Get the ore, then you'll get the armor.
+DUMMY/PC_THIEF_MEETAGAIN_INFO_11_00.wav|Hey, I thought you were dead.
+DUMMY/PC_THIEF_MEETAGAIN_INFO_11_02.wav|A lot of things have happened since we last met. I hear you've contributed a great deal to the final invocation.
+DUMMY/PC_THIEF_MEETAGAIN_INFO_11_04.wav|Better than you think... Now you're looking for the focus?
+DUMMY/PC_THIEF_MEETAGAIN_INFO_11_06.wav|I know where to find one. There's just one problem.
+DUMMY/PC_THIEF_MEETAGAIN_INFO_11_10.wav|It's three tons of a problem.
+DUMMY/PC_THIEF_MEETAGAIN_INFO_11_11.wav|Let's go. You'll understand in a moment.
+DUMMY/PC_THIEF_SHOWFOCUS_INFO_11_01.wav|On the left side of this canyon lies the entrance to a cave that leads to the location of the focus.
+DUMMY/PC_THIEF_SHOWFOCUS_INFO_11_03.wav|Try to find a weak point or another possibility to defeat the troll.
+DUMMY/PC_THIEF_SHOWFOCUS_INFO_11_04.wav|I'll attract his attention.
+DUMMY/PC_THIEF_AFTERTROLL_INFO_11_01.wav|That was fantastic. You're really good. And now, go get the focus.
+DUMMY/PC_THIEF_AFTERTROLL_INFO_11_02.wav|I'll make sure that there won't be any other awkward surprises.
+DUMMY/PC_THIEF_WHEEL_INFO_11_01.wav|The winch seems to be jammed.
+DUMMY/PC_THIEF_WHEEL_INFO_11_02.wav|Let me see, maybe I can fix it!
+DUMMY/PC_THIEF_FIXWHEEL_INFO_11_01.wav|Well, it ought to work now.
+DUMMY/PC_THIEF_WAITATFOCUS_INFO_11_01.wav|Get the focus and I'll wait for you here!
+DUMMY/PC_THIEF_GOTIT_INFO_11_01.wav|Hey, you've found the focus. Very good.
+DUMMY/PC_THIEF_GOTIT_INFO_11_02.wav|I think it's time for me to stop by at the Old Camp again. Good luck.
+DUMMY/PC_THIEF_GOTIT_INFO_11_04.wav|We'll meet again.
+DUMMY/INFO_DIEGO_OCWARN_11_01.wav|Hey... Shhh... Be quiet!
+DUMMY/INFO_DIEGO_OCWARN_11_03.wav|Okay, so you already know what happened.
+DUMMY/INFO_DIEGO_OCWARN_11_04.wav|But did you also hear about the planned raid on the Free Mine?
+DUMMY/INFO_DIEGO_OCWARN_11_08.wav|The Old Mine caved in, the fire mages were assassinated and there are plans to raid the Free Mine.
+DUMMY/INFO_DIEGO_OCMINE_11_02.wav|One of the diggers who survived it told us that they were digging, and they hit an underground river on the bottom level.
+DUMMY/INFO_DIEGO_OCMINE_11_03.wav|When the water gushed into the mine, one of the supports broke and the entire upper section collapsed.
+DUMMY/INFO_DIEGO_OCMINE_11_04.wav|Only a handful of people managed to escape from the mine.
+DUMMY/INFO_DIEGO_OCKDF_11_02.wav|That's a long story.
+DUMMY/INFO_DIEGO_OCFM_11_02.wav|That's a long story.
+DUMMY/INFO_DIEGO_OCSTORY_11_02.wav|Well then. Luckily, I was in the Ore Barons' house when they got the news that the mine had collapsed.
+DUMMY/INFO_DIEGO_OCSTORY_11_03.wav|Gomez was hopping mad when he heard about the accident and he was afraid that his position could be at stake.
+DUMMY/INFO_DIEGO_OCSTORY_11_05.wav|That's right. Since he has no source of income any more, the goods from the outside world won't come in any more, either.
+DUMMY/INFO_DIEGO_OCSTORY_11_06.wav|Nobody will work for him if he doesn't get another source of income soon.
+DUMMY/INFO_DIEGO_OCSTORY_11_08.wav|To be honest, that's Gomez' only chance to maintain his power.
+DUMMY/INFO_DIEGO_OCSTORY_11_09.wav|Two hours ago two dozen guards set out for the Free Mine.
+DUMMY/INFO_DIEGO_OCWARNNC_11_02.wav|Then you must hurry up! They'll have almost reached the Free Mine.
+DUMMY/INFO_DIEGO_OCWARNNC_11_04.wav|They don't need to get through them. A few months ago, they found a path that leads over the mountains and right to the Free Mine - and nobody else knows about it.
+DUMMY/INFO_DIEGO_OCGUARDS_11_02.wav|Stay away from them. They'll attack anybody approaching the Camp.
+DUMMY/INFO_DIEGO_OCMURDER_11_02.wav|Corristo and the other mages were the only people in the Camp to remain rational.
+DUMMY/INFO_DIEGO_OCMURDER_11_03.wav|They forbad the raid and demanded a settlement with the two other camps.
+DUMMY/INFO_DIEGO_OCMURDER_11_05.wav|Well, yes, Corristo and the others shouldn't have been so self-confident. Gomez didn't trust them any more and had them perfidiously assassinated.
+DUMMY/INFO_DIEGO_OCRETREAT_11_02.wav|We'll stay here for a while to warn some more friends so they don't bump straight into the guards.
+DUMMY/INFO_DIEGO_OCRETREAT_11_03.wav|But you could do us a favor.
+DUMMY/INFO_DIEGO_OCFAVOR_11_02.wav|Look out for Lester and Gorn. They need to know what happened here.
+DUMMY/INFO_DIEGO_OCFAVOR_11_03.wav|Tell them that the four of us will meet at the same place as always.
+DUMMY/INFO_DIEGO_OCFAVOR_11_05.wav|Thanks, my friend. You really seem to be an alright guy. Go now, we'll meet again later.

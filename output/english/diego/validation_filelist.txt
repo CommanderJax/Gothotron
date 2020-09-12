@@ -1,0 +1,8 @@
+DUMMY/INFO_DIEGO_OTHERCAMPS_11_01.wav|The two other camps split up to pursue their crazy escape plans.
+DUMMY/INFO_DIEGO_RULES_11_02.wav|There're a few influential people in the Outer Ring. Most of them are Shadows. If you manage to impress them, it'll earn you a few brownie points.
+DUMMY/INFO_DIEGO_TEACH_BACK_11_02.wav|Come back soon - there are many things you need to learn!
+DUMMY/INFO_DIEGO_JOINANALYZE_SCATTY_11_03.wav|Scatty has told me he's anxious to see how you come off against Kirgo.
+DUMMY/INFO_DIEGO_POINTS_11_02.wav|But you still have to pass the test of faith.
+DUMMY/PC_THIEF_MEETAGAIN_INFO_11_08.wav|You've really learnt your lesson, but that's not what I meant.
+DUMMY/INFO_DIEGO_OCWARN_11_06.wav|Haven't you heard?
+DUMMY/INFO_DIEGO_OCGUARDS_11_03.wav|They are afraid of somebody avenging the raid on the Free Mine.

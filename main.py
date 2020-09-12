@@ -5,4 +5,4 @@ if __name__ == '__main__':
     ouinfo_path = ''
     data_path = ''
     dc = EnglishDataCurator(ouinfo_path, data_path)
-    dc.process_ouinfo()
+    dc.generate_test_and_validation_datasets()
