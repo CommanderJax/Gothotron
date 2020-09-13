@@ -1,0 +1,85 @@
+DUMMY/INFO_XARDAS_DISTURB_14_01.wav|WHO DARES TO DISTURB ME IN MY STUDIES?
+DUMMY/INFO_XARDAS_DISTURB_14_03.wav|I don't wish to know your name. It is insignificant.
+DUMMY/INFO_XARDAS_DISTURB_14_04.wav|All that matters is that you are the first person in years to have solved my Golem's riddles.
+DUMMY/INFO_XARDAS_OTHERS_14_02.wav|Not many, and when they began to annoy me I confronted them with one of my supernatural creatures.
+DUMMY/INFO_XARDAS_SATURAS_14_03.wav|The ore mound is NOT the solution!
+DUMMY/INFO_XARDAS_SATURAS_14_05.wav|NO!
+DUMMY/INFO_XARDAS_KDW_14_03.wav|That does not surprise me. Those foolish barbarian butchers in the castle, especially Gomez, were never to be trusted.
+DUMMY/INFO_XARDAS_KDW_14_04.wav|Corristo and the other magicians elected their own hangman when they helped Gomez to usurp the power.
+DUMMY/INFO_XARDAS_SLEEPER_14_04.wav|There is a greater danger than anyone within the Barrier could possibly imagine.
+DUMMY/INFO_XARDAS_DANGER_14_02.wav|... Forget the ore mound! Its power won't open the Barrier.
+DUMMY/INFO_XARDAS_DANGER_14_03.wav|If Corristo and Saturas hadn't wasted their time fighting over foolish and vain issues throughout the past years, they'd all know what I know now.
+DUMMY/INFO_XARDAS_DANGER_14_05.wav|None of the twelve magicians ever stopped to wonder why the formation of the Barrier got beyond their control, or why it assumed such gigantic proportions.
+DUMMY/INFO_XARDAS_BARRIER_14_02.wav|Well, one thing is certain: The answer lies deep beneath the Orc town.
+DUMMY/INFO_XARDAS_BARRIER_14_04.wav|Orcs are not animals, as many people think. Their culture is as old as the human culture.
+DUMMY/INFO_XARDAS_BARRIER_14_05.wav|A few centuries ago, five Orc shamen invoked a very old arch demon which they hoped would give their clan the power to defeat their enemies.
+DUMMY/INFO_XARDAS_BARRIER_14_07.wav|The Orcs gave him that name much later. But I won't tell you why they did it, or why they are now terrified by this supernatural creature!
+DUMMY/INFO_XARDAS_EVENT_14_02.wav|I believe you could be... NO, to be really sure, you'll have to perform another task!
+DUMMY/INFO_XARDAS_EVENT_14_04.wav|Listen carefully: The Orcs have exiled one of their shamen from the town.
+DUMMY/INFO_XARDAS_EVENTWHY_14_02.wav|The dying Orc warrior was no longer able to answer that question when he was interrogated by one of my demons.
+DUMMY/INFO_XARDAS_EVENTHOW_14_02.wav|He'll tell you the rest of the story about the Sleeper.
+DUMMY/INFO_XARDAS_EVENTHOW_14_04.wav|Do you want me to help you or do you not?
+DUMMY/INFO_XARDAS_EVENTHOW_14_06.wav|Then never question my words again!
+DUMMY/INFO_XARDAS_EVENTHOW_14_07.wav|Find the shaman. He's not on good terms with his brothers in the Orc town, so he may listen to you before turning you into a living torch!
+DUMMY/INFO_XARDAS_EVENTWHERE_14_02.wav|Go the old citadel in the east. You can't miss it, it's on top of a high mountain which can be seen from a distance.
+DUMMY/INFO_XARDAS_EVENTWHERE_14_04.wav|They call it the old citadel but there's hardly anything left of it other than the foundation walls. It's been a ruin for many decades.
+DUMMY/INFO_XARDAS_ACCEPT_14_02.wav|My servant has already given you a teleportation rune for the pentagram one floor below.
+DUMMY/INFO_XARDAS_ACCEPT_14_03.wav|That will make it easier for you to get back here later.
+DUMMY/INFO_XARDAS_RETURN_14_02.wav|Well, then report!
+DUMMY/INFO_XARDAS_RETURN_14_04.wav|That's right!
+DUMMY/INFO_XARDAS_RETURN_14_06.wav|Very good, very good!
+DUMMY/INFO_XARDAS_RETURN_14_08.wav|Have you found a way to enter the temple?
+DUMMY/INFO_XARDAS_RETURN_14_10.wav|No details! Go to the underground temple! There you'll find the only way to destroy the Barrier!
+DUMMY/INFO_XARDAS_RETURN_14_12.wav|Didn't you call on me to help with the destruction of the Barrier?
+DUMMY/INFO_XARDAS_RETURN_14_14.wav|THEN GO! A lot of time has already been wasted! Go into the underground temple to find the answer!
+DUMMY/INFO_XARDAS_FOUNDTEMPLE_14_02.wav|YOU HAVE... That's remarkable!
+DUMMY/INFO_XARDAS_FOUNDTEMPLE_14_03.wav|You have become very powerful! Stronger than anybody else inside the Barrier.
+DUMMY/INFO_XARDAS_PROPHECY_14_02.wav|Ancient Orcish documents written shortly after the sealing of the underground temple mention a 'Holy Foe'.
+DUMMY/INFO_XARDAS_PROPHECY_14_04.wav|Someone who shall come to drive the SLEEPER from our world forever!
+DUMMY/INFO_XARDAS_PROPHECY_14_06.wav|Maybe... Maybe not!
+DUMMY/INFO_XARDAS_LOADSWORD_14_03.wav|That's interesting... It has 'URIZIEL' written on it.
+DUMMY/INFO_XARDAS_LOADSWORD_14_04.wav|I've heard of this sword. It's a weapon from the olden days, when the human race was still young.
+DUMMY/INFO_XARDAS_LOADSWORD_14_05.wav|The weapon was forged from an unknown material. And there's nothing written about who created it!
+DUMMY/INFO_XARDAS_LOADSWORD_14_06.wav|This blade was said to possess unbelievable powers, but I don't notice any magical aura!
+DUMMY/INFO_XARDAS_LOADSWORD01_14_02.wav|It was written that the owner of the weapon was able to pierce the strongest armor and to overcome even the most powerful of protection spells.
+DUMMY/INFO_XARDAS_LOADSWORD01_14_04.wav|It's claimed that the Orcs took it from a powerful warlord. They didn't know how to use it, but they did hide it!
+DUMMY/INFO_XARDAS_LOADSWORD02_14_04.wav|About that strong...
+DUMMY/INFO_XARDAS_LOADSWORD02_14_05.wav|Besides, you'll need a very special magic formula in order to transfer the power.
+DUMMY/INFO_XARDAS_LOADSWORD02_14_06.wav|Give me some time and I'll create the magic formula.
+DUMMY/INFO_XARDAS_BETTERARMOR_14_05.wav|You should go to my old tower.
+DUMMY/INFO_XARDAS_BETTERARMOR_14_07.wav|It sank below one of the eastern lakes during one of the earthquakes. The spires are still visible above the surface.
+DUMMY/INFO_XARDAS_BETTERARMOR_14_08.wav|There are still some artefacts inside it. I never made any effort to salvage them.
+DUMMY/INFO_XARDAS_BETTERARMOR_14_10.wav|I haven't been there since the earthquake, which means you'll have to find a way to enter it yourself.
+DUMMY/INFO_XARDAS_OREARMOR_14_01.wav|I see! You're wearing the ore armor.
+DUMMY/INFO_XARDAS_OREARMOR_14_02.wav|As I can see, you've found the ore armor.
+DUMMY/INFO_XARDAS_OREARMOR_14_04.wav|It belonged to the general who wielded URIZIEL in the battle against the Orcs.
+DUMMY/INFO_XARDAS_FORMULA_14_02.wav|It's done. But you won't be able to use it by yourself.
+DUMMY/INFO_XARDAS_FORMULA_14_04.wav|It has to be spoken by a magician while you touch the power source with the sword.
+DUMMY/INFO_XARDAS_FORMULA_14_06.wav|Take the formula and restore the sword's former power. You'll need it!
+DUMMY/INFO_XARDAS_ALTRUNE_14_02.wav|There is a solution...
+DUMMY/INFO_XARDAS_ALTRUNE_14_03.wav|But first you have to restore the blade's former powers! Then come back!
+DUMMY/INFO_XARDAS_SWORDLOADED_14_02.wav|It's incredible, the sword has regained its former powers. Now you have a really powerful weapon!
+DUMMY/INFO_XARDAS_MAKERUNE_14_02.wav|Look closely at URIZIEL. You'll notice the big blue jewel in the blade.
+DUMMY/INFO_XARDAS_MAKERUNE_14_03.wav|It contains the magical powers of the blade.
+DUMMY/INFO_XARDAS_MAKERUNE_14_04.wav|If I remove the jewel, I'll be able to create a magic rune which contains the attributes of URIZIEL itself.
+DUMMY/INFO_XARDAS_MAKERUNE_14_06.wav|In battle, the rune will be as powerful as the sword!
+DUMMY/INFO_XARDAS_MAKERUNE_14_07.wav|But don't forget that only a Magician of the Sixth Circle will be able to control such a powerful magic rune!
+DUMMY/INFO_XARDAS_MAKERUNEDOIT_14_02.wav|But you have not yet mastered the Sixth Circle of Magic!
+DUMMY/INFO_XARDAS_MAKERUNEDOIT_14_05.wav|Since it's what you want... Here, take the empty sword and the rune!
+DUMMY/INFO_XARDAS_MAKERUNEDOIT_14_07.wav|As you wish. The blade shall keep its magic powers!
+DUMMY/INFO_XARDAS_LOADSWORD09_14_02.wav|I shall raise you into the Sixth Circle of Magic.
+DUMMY/INFO_XARDAS_LOADSWORD09_14_03.wav|Notice that only the most powerful magicians may join the Sixth Circle. It's reserved to those whose life is a sign.
+DUMMY/INFO_XARDAS_LOADSWORD09_14_04.wav|Your sign is the unification of the elements.
+DUMMY/INFO_XARDAS_LOADSWORD09_14_05.wav|The Sixth Circle enables you to use the magic of any rune.
+DUMMY/INFO_XARDAS_LOADSWORD09_14_06.wav|And don't forget: Do not claim the power, but serve it.
+DUMMY/INFO_XARDAS_LOADSWORD09_14_07.wav|Not yet. You have the skill, but you're not experienced enough. Let Saturas train you first, I shall instruct you afterwards.
+DUMMY/INFO_XARDAS_OT_14_01.wav|We don't have much time, so listen carefully!
+DUMMY/INFO_XARDAS_OT_14_03.wav|The Sleeper is not far. I had to use all my powers to get here.
+DUMMY/INFO_XARDAS_OT_14_04.wav|I have translated the Orcish prophecies and discovered what the five hearts are about.
+DUMMY/INFO_XARDAS_OT_14_05.wav|The five hearts of the priests you defeated were placed in five shrines.
+DUMMY/INFO_XARDAS_OT_14_06.wav|These shrines may be opened, but only the ancient blades carried by the priests can harm the hearts.
+DUMMY/INFO_XARDAS_OT_14_07.wav|Now you must pierce the hearts with the five blades. Only thus will you be able to drive the Sleeper from this world.
+DUMMY/INFO_XARDAS_OT_14_09.wav|Hurry, for the awakening of the arch demon is nigh, the crazed Cor Kalom and his misled disciples are here.
+DUMMY/INFO_XARDAS_OT_14_10.wav|They have gathered in the hall of the Sleeper.
+DUMMY/INFO_XARDAS_OT_14_12.wav|The might of the Sleeper is growing stronger and stronger, I cannot...
+DUMMY/INFO_XARDAS_OT_14_14.wav|I... must...

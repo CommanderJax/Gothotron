@@ -1,0 +1,73 @@
+DUMMY/KDF_402_CORRISTO_EXPLAINMAGE_INFO_14_03.wav|Our magic is a gift from the gods. We've been chosen to act as priests, tutors and judges.
+DUMMY/KDF_402_CORRISTO_EXPLAINMAGE_INFO_14_04.wav|It is a gift which is a constant burden to us. A task which determines our lives.
+DUMMY/KDF_402_CORRISTO_WANNBEKDF_INFO_14_02.wav|So you want to become a Magician of the Circle of Fire? Hm...
+DUMMY/KDF_402_CORRISTO_WANNBEKDF_INFO_14_04.wav|You are not ready yet. Come back when you've learned more.
+DUMMY/KDF_402_CORRISTO_WANNBEKDF_INFO_14_05.wav|Your spirit is mature and ready to join us. If you want to become a magician, I must test you first. Let me know when you're ready for the test.
+DUMMY/KDF_402_CORRISTO_KDFTEST_INFO_14_02.wav|Good. You have served the Brotherhood in the swamp, have you not?
+DUMMY/KDF_402_CORRISTO_KDFTEST_JA_INFO_14_02.wav|Hmm...
+DUMMY/KDF_402_CORRISTO_KDFTEST_JA_INFO_14_03.wav|What is the name of our god?
+DUMMY/KDF_402_CORRISTO_KDFTEST_NO_INFO_14_02.wav|Hmmm...
+DUMMY/KDF_402_CORRISTO_KDFTEST_NO_INFO_14_03.wav|We have no use for a man who denies his deeds.
+DUMMY/KDF_402_CORRISTO_KDFTEST_NO_INFO_14_04.wav|Make yourself useful as a fighter or digger. The path of magic will remain forever closed to you.
+DUMMY/KDF_402_CORRISTO_KDFTEST_ADANOS_INFO_14_02.wav|Hmmm...
+DUMMY/KDF_402_CORRISTO_KDFTEST_ADANOS_INFO_14_03.wav|That is incorrect. Maybe the Guards can make use of you.
+DUMMY/KDF_402_CORRISTO_KDFTEST_SLEEPER_INFO_14_02.wav|Hmmm...
+DUMMY/KDF_402_CORRISTO_KDFTEST_SLEEPER_INFO_14_03.wav|Looks like you've been spending too much time among the swamp brothers. Maybe you'd better stay there.
+DUMMY/KDF_402_CORRISTO_KDFTEST_INNOS_INFO_14_02.wav|Hmmm...
+DUMMY/KDF_402_CORRISTO_KDFTEST_INNOS_INFO_14_03.wav|Which is the highest virtue of all?
+DUMMY/KDF_402_CORRISTO_KDFTEST_GOMEZ_INFO_14_02.wav|Hmmm...
+DUMMY/KDF_402_CORRISTO_KDFTEST_GOMEZ_INFO_14_03.wav|I believe the Guards would be just right for you! Speak to Thorus!
+DUMMY/KDF_402_CORRISTO_KDFTEST_FIGHT_INFO_14_02.wav|Hmmm...
+DUMMY/KDF_402_CORRISTO_KDFTEST_FIGHT_INFO_14_03.wav|I believe the Guards would be just right for you! Speak to Thorus!
+DUMMY/KDF_402_CORRISTO_KDFTEST_DEMUT_INFO_14_02.wav|Hmmm...
+DUMMY/KDF_402_CORRISTO_KDFTEST_DEMUT_INFO_14_03.wav|You have replied well and rightly. I shall teach you the art of magic.
+DUMMY/KDF_402_CORRISTO_KDFTEST_DEMUT_INFO_14_04.wav|Follow me to the Hall of Magic, where you will take the ancient vow.
+DUMMY/KDF_402_CORRISTO_KDFTEST_DISZIPLIN_INFO_14_02.wav|Hmmm...
+DUMMY/KDF_402_CORRISTO_KDFTEST_DISZIPLIN_INFO_14_03.wav|You have replied well and rightly. I shall teach you the art of magic.
+DUMMY/KDF_402_CORRISTO_KDFTEST_DISZIPLIN_INFO_14_04.wav|Follow me to the Hall of Magic, where you will take the ancient vow.
+DUMMY/KDF_402_CORRISTO_KDFTEST_EHRFURCHT_INFO_14_02.wav|Hmmm...
+DUMMY/KDF_402_CORRISTO_KDFTEST_EHRFURCHT_INFO_14_03.wav|You have replied well and rightly. I shall teach you the art of magic.
+DUMMY/KDF_402_CORRISTO_KDFTEST_EHRFURCHT_INFO_14_04.wav|Follow me to the Hall of Magic, where you will take the ancient vow.
+DUMMY/KDF_402_CORRISTO_AUFNAHME_INFO_14_01.wav|We are gathered here today to ordain a servant of Fire.
+DUMMY/KDF_402_CORRISTO_AUFNAHME_INFO_14_02.wav|Now take the oath of Fire.
+DUMMY/KDF_402_CORRISTO_AUFNAHME_INFO_14_03.wav|I swear by the might of the gods...
+DUMMY/KDF_402_CORRISTO_AUFNAHME_INFO_14_05.wav|... I swear by the force of the holy Fire...
+DUMMY/KDF_402_CORRISTO_AUFNAHME_INFO_14_07.wav|... that my knowledge and my deeds from now on and forever shall be one with the flame...
+DUMMY/KDF_402_CORRISTO_AUFNAHME_INFO_14_09.wav|... until my body shall return to the realm of Beliar and the fire of my life be extinguished.
+DUMMY/KDF_402_CORRISTO_ROBE_INFO_14_01.wav|By uttering the words of the oath you have now entered into a bond with the Fire.
+DUMMY/KDF_402_CORRISTO_ROBE_INFO_14_02.wav|Wear this robe as a sign of the eternal bond.
+DUMMY/KDF_402_CORRISTO_MANA_INFO_14_02.wav|I can help you to increase your power. What use you make of it is your affair.
+DUMMY/KDF_402_CORRISTO_EXPLAINCIRCLES_INFO_14_02.wav|Of course. The Circles symbolize your share of the magic.
+DUMMY/KDF_402_CORRISTO_EXPLAINCIRCLES_INFO_14_03.wav|They stand for knowledge, skill and the learning of new magic spells.
+DUMMY/KDF_402_CORRISTO_EXPLAINCIRCLES_INFO_14_04.wav|You must pass through each Circle before you can join the next.
+DUMMY/KDF_402_CORRISTO_EXPLAINCIRCLES_INFO_14_06.wav|But your efforts to reach them will be rewarded with new and powerful spells each time. However, the Circles of magic are more than that.
+DUMMY/KDF_402_CORRISTO_EXPLAINCIRCLES_INFO_14_07.wav|They are part of your life. They will always be with you. Make them part of you.
+DUMMY/KDF_402_CORRISTO_EXPLAINCIRCLES_INFO_14_08.wav|To understand their might, you need to recognize your own.
+DUMMY/KDF_402_CORRISTO_KREIS1_INFO_14_02.wav|To enter the first of the magic Circles means learning to use magic runes.
+DUMMY/KDF_402_CORRISTO_KREIS1_INFO_14_03.wav|Each rune contains the structure of a special magic spell.
+DUMMY/KDF_402_CORRISTO_KREIS1_INFO_14_04.wav|By using your own magic powers, you'll be able to cast the magic of the rune.
+DUMMY/KDF_402_CORRISTO_KREIS1_INFO_14_05.wav|But in contrast to the magic scrolls, which are magic formulas as well, the magic power of the rune ensures that the structure of the spell endures.
+DUMMY/KDF_402_CORRISTO_KREIS1_INFO_14_06.wav|Every rune is a source of magic power which you can fall back on anytime.
+DUMMY/KDF_402_CORRISTO_KREIS1_INFO_14_07.wav|Your own magic power is used up when you use a rune, just as with a spell scroll.
+DUMMY/KDF_402_CORRISTO_KREIS1_INFO_14_09.wav|Use the power of the runes to recognize yourself.
+DUMMY/KDF_402_CORRISTO_KREIS2_INFO_14_02.wav|You have learned to understand the runes. Now is the time to deepen this understanding.
+DUMMY/KDF_402_CORRISTO_KREIS2_INFO_14_03.wav|When you join the Second Circle you will learn the foundations of stronger battle spells, and above all the secret of healing.
+DUMMY/KDF_402_CORRISTO_KREIS2_INFO_14_04.wav|But you need to learn much if you want to recognize the true secrets of magic.
+DUMMY/KDF_402_CORRISTO_KREIS2_INFO_14_05.wav|You know that you can use every rune as often as you like until you've used up all of your own powers.
+DUMMY/KDF_402_CORRISTO_KREIS2_INFO_14_06.wav|But before you act, think about the point of your actions. You have obtained powers with which you may easily conjure up death and destruction.
+DUMMY/KDF_402_CORRISTO_KREIS2_INFO_14_07.wav|But a true magician only uses magic when it is necessary.
+DUMMY/KDF_402_CORRISTO_KREIS2_INFO_14_08.wav|Understand the situation, then you'll recognize the power of the runes.
+DUMMY/KDF_402_CORRISTO_KREIS3_INFO_14_02.wav|The Third Circle of Magic is one of the most important steps in the life of a magician. Once you've reached it, you cease to be a seeker.
+DUMMY/KDF_402_CORRISTO_KREIS3_INFO_14_03.wav|You have already come far on the path of magic. You have learned to use the runes.
+DUMMY/KDF_402_CORRISTO_KREIS3_INFO_14_04.wav|This knowledge is the foundation for your further path. Use the runes with deliberation.
+DUMMY/KDF_402_CORRISTO_KREIS3_INFO_14_05.wav|You may use a rune or not. But you must decide on one of these possibilities.
+DUMMY/KDF_402_CORRISTO_KREIS3_INFO_14_06.wav|Do not hesitate to use your powers as soon as you've made your choice.
+DUMMY/KDF_402_CORRISTO_KREIS3_INFO_14_07.wav|Understand your path, then you'll recognize the power of the decision.
+DUMMY/KDF_402_CORRISTO_KREIS4_INFO_14_02.wav|You have completed the first three Circles. Now is the time for you to learn the secrets of magic.
+DUMMY/KDF_402_CORRISTO_KREIS4_INFO_14_03.wav|The magic of the runes is based on the stone. They are magic stones, created out of magic ore.
+DUMMY/KDF_402_CORRISTO_KREIS4_INFO_14_04.wav|It's the same ore which is collected in the mines. This ore is endowed with magic formulas in the temples. There the runes are converted to the instruments of our power.
+DUMMY/KDF_402_CORRISTO_KREIS4_INFO_14_05.wav|With the runes you control now, you have the entire knowledge of the temples of the realm at your fingertips.
+DUMMY/KDF_402_CORRISTO_KREIS4_INFO_14_06.wav|You have now learned everything I can teach you.
+DUMMY/KDF_402_CORRISTO_KREIS4_INFO_14_07.wav|Understand the magic, then you'll discover the secret of power.
+DUMMY/KDF_402_CORRISTO_HEAVYARMOR_INFO_14_03.wav|You don't own enough ore.
+DUMMY/KDF_402_CORRISTO_HEAVYARMOR_INFO_14_04.wav|The time has come. You are worthy of wearing the high robe of Fire.

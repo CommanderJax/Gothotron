@@ -1,0 +1,3 @@
+DUMMY/INFO_MINE_VLK_1_MINE_01_01.wav|Mushrooms and herbs grow in caves. That stuff's easy to digest, but it don't fill you up as good as a nice, decent chunk of meat.
+DUMMY/INFO_VLK_1_EINERVONEUCHWERDEN_01_02.wav|The prices Gomez asks for his supplies are usury. Still, it's better than munching rice all day like they do in the New Camp.
+DUMMY/INFO_VLK_3_DIELAGE_03_01.wav|You'll learn soon enough. Be on your guard at all times. Especially at night.

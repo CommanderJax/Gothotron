@@ -1,0 +1,7 @@
+DUMMY/DIA_KYLE_HUTRAGE_10_00.wav|How often have I told you bastards not to run through my hut!
+DUMMY/DIA_KYLE_PROBLEM_10_01.wav|Leave me alone, man! Everyone's a problem with ME!
+DUMMY/DIA_KYLE_PROBLEM_10_02.wav|It all started when I built my hut.
+DUMMY/DIA_KYLE_PROBLEM_10_03.wav|Don't build your hut close to the ditch, they said.
+DUMMY/DIA_KYLE_PROBLEM_10_04.wav|But none of these bastards told me what would happen if I still did it.
+DUMMY/DIA_KYLE_PROBLEM_10_06.wav|Those pigs. I hate them. I can't tell you how much I hate them.
+DUMMY/DIA_KYLE_PROBLEM_10_07.wav|Now everybody runs through my hut. Every idiot.

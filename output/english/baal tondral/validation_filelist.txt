@@ -1,0 +1,2 @@
+DUMMY/DIA_BAALTONDRAL_FANATICTEACHER_13_00.wav|You don't look like one who's submitted to slavery under the Ore Barons.
+DUMMY/DIA_BAALTONDRAL_YOUTALKED_13_03.wav|I have spoken to you because I wanted to give you a chance to prove your loyalty.

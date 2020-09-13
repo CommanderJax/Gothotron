@@ -1,0 +1,19 @@
+DUMMY/DIA_VIRAN_WHAT_07_01.wav|We're picking the swampweed to be processed by our brothers, so it can be smoked later on.
+DUMMY/DIA_VIRAN_WHAT_07_02.wav|It's quite dangerous to pick it in the swamp, but the stuff only grows here. Actually, that's a good thing.
+DUMMY/DIA_VIRAN_WHAT_07_04.wav|Because then the other two camps won't get it. We're the only ones in the colony who are able to pick swampweed.
+DUMMY/DIA_VIRAN_WHAT_07_05.wav|We can trade it with the other two camps - and WE can set the price.
+DUMMY/DIA_VIRAN_FETCHWEED_07_02.wav|Anybody could turn up like that. 'Baal Orun sent me' - and whoosh - the whole lot of the weeds were gone.
+DUMMY/DIA_VIRAN_FETCHWEED_REALLY_07_01.wav|Sure.
+DUMMY/DIA_VIRAN_FETCHWEED_GOTOHIM_07_01.wav|I have a better idea. You prove your loyalty by doing a little job for us!
+DUMMY/DIA_VIRAN_BLOODFLIES_07_01.wav|It's really nothing. Work in the swamp, it's a bit risky, and then there's those damn bloodflies.
+DUMMY/DIA_VIRAN_BLOODFLIES_07_02.wav|Work would be much easier without them! Do you follow?
+DUMMY/DIA_VIRAN_RUNNING_07_00.wav|But there are some more bugs within twenty paces!
+DUMMY/DIA_VIRAN_RUNNING_07_01.wav|You won't get off that easily!
+DUMMY/DIA_VIRAN_RUNNING_07_02.wav|No more bugs to be seen. That was a good job you did!
+DUMMY/DIA_VIRAN_RUNNING_07_04.wav|An idiot would be too stupid to fool me, right?
+DUMMY/DIA_VIRAN_RUNNING_07_05.wav|Here, take the harvest and take it to Cor Kalom.
+DUMMY/DIA_VIRAN_RUNNING_07_06.wav|If he complains and says it's not enough, tell him to move his butt here himself, to give him an idea of how much hard work it is.
+DUMMY/DIA_VIRAN_PERM_07_01.wav|Yeah, yeah, just take make fun of me. I'm sure you're getting better jobs from the Gurus.
+DUMMY/DIA_VIRAN_PERM_07_02.wav|Well, at least I don't need to do the dirty work myself. The 'infantry' do that - he, he, he.
+DUMMY/DIA_VIRAN_RIPOFF_07_01.wav|Again?
+DUMMY/DIA_VIRAN_RIPOFF_07_03.wav|Okay okay! Here, take the bloody weeds!

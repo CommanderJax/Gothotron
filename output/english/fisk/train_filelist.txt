@@ -1,0 +1,21 @@
+DUMMY/STT_311_FISK_WHISTLERSSWORD_12_01.wav|I have one you'll like. The Shadow who wanted to collect it won't be coming any more.
+DUMMY/STT_311_FISK_WHISTLERSSWORD_12_02.wav|That'll be 110 ore. Interested?
+DUMMY/STT_311_FISK_WHISTLERSSWORD_FAULT_12_01.wav|Ah! Just wait... that's right, I nearly charged you too little! Of course I meant 500.
+DUMMY/STT_311_FISK_WHISTLERSSWORD_FAULT_12_03.wav|Too little? You prefer 1000? Fine by me. Well, now that I think about it - I'd rather keep it!
+DUMMY/STT_311_FISK_WHISTLERSSWORD_TAKEIT_12_01.wav|You got a good deal here!
+DUMMY/STT_311_FISK_WHISTLERSSWORD_TAKEIT_12_02.wav|I fear you don't have enough ore. I'll hold the sword back for some time, but don't wait too long!
+DUMMY/STT_311_FISK_FORGETSWORD_12_01.wav|You can tell him that he'll never get his sword.
+DUMMY/STT_311_FISK_MORDRAGKO_12_00.wav|Hey, you!
+DUMMY/STT_311_FISK_MORDRAGKO_12_01.wav|Mordrag was one of my most important suppliers, you idiot!
+DUMMY/STT_311_FISK_MORDRAGKO_12_02.wav|If you want to join this camp it'll be very hard for you to get MY vote!
+DUMMY/STT_311_FISK_MORDRAGKO_RELAX_12_01.wav|I wouldn't know how you're gonna do that. Unless you get me a new fence from the New Camp!
+DUMMY/STT_311_FISK_MORDRAGKO_RELAX_12_03.wav|I just told you, I don't believe that you'll ever be on good terms with me.
+DUMMY/STT_311_FISK_HEHLERSUCCESS_12_01.wav|No! Who would've thought that. Looks like you're trying to get popular around here...
+DUMMY/STT_311_FISK_HEHLERSUCCESS_12_02.wav|Seems like you managed it, too! Who is it?
+DUMMY/STT_311_FISK_HEHLERSUCCESS_12_04.wav|Sharky? He's even worse than Mordrag.
+DUMMY/STT_311_FISK_HEHLERSUCCESS_12_05.wav|About Diego... you don't need to worry any more.
+DUMMY/STT_311_FISK_ARMOR_INFO_12_02.wav|Well, I'm sure that I can satisfy you.
+DUMMY/STT_311_FISK_ARMOR_L_INFO_12_02.wav|Come back as soon as you have enough ore!
+DUMMY/STT_311_FISK_ARMOR_L_INFO_12_03.wav|A good choice!
+DUMMY/STT_311_FISK_ARMOR_M_INFO_12_02.wav|Come back as soon as you have enough ore!
+DUMMY/STT_311_FISK_ARMOR_M_INFO_12_03.wav|A good choice!

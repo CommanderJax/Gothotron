@@ -1,0 +1,17 @@
+DUMMY/DIA_WHISTLER_IAMNEW_11_01.wav|What do you want from me?
+DUMMY/DIA_WHISTLER_IAMNEW_11_03.wav|Looking for people to support you, eh?
+DUMMY/DIA_WHISTLER_IAMNEW_11_04.wav|If you want me to have a word with Diego about you, you need to do me a favor.
+DUMMY/DIA_WHISTLER_FAVOUR_11_01.wav|I want one of Fisk's weapons. He's one of the traders at the market place.
+DUMMY/DIA_WHISTLER_FAVOUR_11_02.wav|He won't sell it to me. It's a broadsword with ornaments.
+DUMMY/DIA_WHISTLER_FAVOUR_11_03.wav|I'll give you 100 ore to collect the weapon for me. But don't tell him about me.
+DUMMY/DIA_WHISTLER_FAVOUR_OK_11_01.wav|Here you go. Come straight back to me!
+DUMMY/DIA_WHISTLER_FAVOUR_OREAWAY_11_01.wav|Don't forget: The colony is small! If you run off with my ore, I'll find you!
+DUMMY/DIA_WHISTLER_FAVOUR_WHYNOTSELL_11_01.wav|We had a little argument.
+DUMMY/DIA_WHISTLER_FAVOUR_WHYNOTSELL_11_03.wav|And that's all you need to know!
+DUMMY/DIA_WHISTLER_RUNNING110_11_01.wav|And you want me to give you the 10 ore now...
+DUMMY/DIA_WHISTLER_RUNNING110_11_03.wav|Here, take it, and now hurry!
+DUMMY/DIA_WHISTLER_RUNNINGPAYBACK_11_02.wav|I don't see any 100 ore though - you'd better get them as fast as you can, else you'll be in trouble!
+DUMMY/DIA_WHISTLER_MYSWORD_TOOLATE_11_00.wav|Here you are! Wanted to run off with my ore, eh? Come here, sonny!
+DUMMY/DIA_WHISTLER_MYSWORD_SUCCESS_11_01.wav|Wasn't too hard, was it. Whatever - you do me a favor and I'll do you one.
+DUMMY/DIA_WHISTLER_MYSWORD_SUCCESS_11_02.wav|If Diego should ask after you, I'll speak in your favor. Until then - have a good time!
+DUMMY/DIA_WHISTLER_STANDARDKAP1_11_01.wav|Good! You've done me a favor, I'll do you one. I'll tell Diego that you're a reliable man.

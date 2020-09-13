@@ -1,0 +1,4 @@
+DUMMY/INFO_GRD_13_DIELAGE_13_01.wav|It's quiet. You get the odd brawl with the New Camp or a couple of the sect loonies.
+DUMMY/INFO_GRD_6_DASLAGER_WASISTAERGER_06_01.wav|Most diggers pay us to protect 'em.
+DUMMY/INFO_GRD_7_DASLAGER_BUDDLER_07_01.wav|That's a good question! We shouldn't even really let those mudeaters out of the mine.
+DUMMY/INFO_GRD_7_DASLAGER_BUDDLER_07_04.wav|You look like you're cut out for more than just swinging a pickaxe. You should have a word with Thorus, if you haven't already.

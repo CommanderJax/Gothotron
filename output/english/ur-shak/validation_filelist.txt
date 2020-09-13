@@ -1,0 +1,4 @@
+DUMMY/INFO_ORCSHAMAN_WHO_17_02.wav|Name Ur-Shak.
+DUMMY/INFO_ORCSHAMAN_SLEEPER_17_02.wav|Be five brothers. Be many winters ago!
+DUMMY/INFO_ORCSHAMAN_MAP_17_02.wav|Home of Ur-Shak be where map empty.
+DUMMY/INFO_ORCSHAMAN_ORCCITY_17_04.wav|Friend have no ULU-MULU! No good!

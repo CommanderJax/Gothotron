@@ -1,0 +1,7 @@
+DUMMY/DIA_HEREK_BULLY_01_00.wav|Hang on! I hear you've spoken to Bloodwyn?
+DUMMY/DIA_HEREK_BULLY_01_03.wav|It means we're all gonna have to pay your share as well!
+DUMMY/DIA_HEREK_BULLY_01_04.wav|I'll make sure you remember next time he asks you.
+DUMMY/DIA_HEREK_MOTZ_01_01.wav|There ain't enough room in this camp for the two of us!
+DUMMY/DIA_HEREK_MOTZ_01_03.wav|If it was up to me, you wouldn't last out here for long!
+DUMMY/DIA_HEREK_MOTZ_01_04.wav|D'you know why I'm here? I killed a dozen people in one night, just like that... He he he!
+DUMMY/DIA_HEREK_ANLEGEN_01_01.wav|You wanna get whacked? Alright, if that's what you want!!

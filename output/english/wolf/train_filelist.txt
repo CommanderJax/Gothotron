@@ -1,0 +1,39 @@
+DUMMY/DIA_WOLF_HELLO_09_01.wav|I'm Wolf. I make armor.
+DUMMY/ORG_855_WOLF_TRADE_09_01.wav|I buy furs and skins from the hunters. If you get something like that, I'll buy it.
+DUMMY/ORG_855_WOLF_WHEREHUNTER_09_01.wav|On the way to the New Camp you'll come across Aidan. He can teach you how to skin animals.
+DUMMY/ORG_855_WOLF_WHEREHUNTER_09_02.wav|Ratford and Drax are hanging around in the north of the Old Camp. It's on the way to the trading square.
+DUMMY/DIA_WOLF_SELLARMOR_09_01.wav|Since you're one of us now, I can sell you one.
+DUMMY/DIA_WOLF_SELLARMOR_WRONGGUILD_09_00.wav|I can't sell you anything. Lares would kill me if I sold armor to strangers.
+DUMMY/DIA_WOLF_SELLARMOR_M_09_02.wav|No ore, no armor.
+DUMMY/DIA_WOLF_SELLARMOR_M_09_03.wav|It's good armor. Still not as good as what I wear, but it protects you well enough.
+DUMMY/DIA_WOLF_SELLARMOR_H_09_02.wav|No ore, no armor.
+DUMMY/DIA_WOLF_SELLARMOR_H_09_03.wav|This armor will protect you from any dangers! I wear it myself, and I've survived so far. Not least thanks to the armor.
+DUMMY/ORG_855_WOLF_TRAINOFFER_INFO_09_02.wav|I can teach you. But I can't do it as a favor. After all, I have to eat as well.
+DUMMY/ORG_855_WOLF_TRAIN_INFO_09_02.wav|Your hits depend on your dexterity. The more dexterous you become, the more accurately your arrows will hit their targets.
+DUMMY/ORG_855_WOLF_TRAIN_INFO_09_03.wav|Your skill determines the distance from which you can hit your targets. In order to become a good marksman, you should improve both equally.
+DUMMY/ORG_855_WOLF_TRAINAGAIN_INFO_09_02.wav|You're a good hunter already. Now acquire the remaining knowledge.
+DUMMY/ORG_855_WOLF_TRAINAGAIN_INFO_09_03.wav|To become a good marksman, you need to stop trying to be one.
+DUMMY/ORG_855_WOLF_TRAINAGAIN_INFO_09_04.wav|Discover the laws of the eye, tension, trajectory and target. Always watch out and be prepared at all times.
+DUMMY/ORG_855_WOLF_TRAINAGAIN_INFO_09_05.wav|You've mastered the technique very well now. Now go and apply your knowledge and skill.
+DUMMY/ORG_855_WOLF_TEACH_09_01.wav|Your dexterity determines the success of your hunt.
+DUMMY/INFO_WOLF_GOOD_09_02.wav|I'm glad you dropped by before you left!
+DUMMY/INFO_WOLF_GOOD_09_04.wav|Before you go to visit the Not-So-Free Mine.
+DUMMY/INFO_WOLF_SPEAK_09_02.wav|I've had an idea how to produce a completely new armor.
+DUMMY/INFO_WOLF_SPEAK_09_04.wav|The minecrawlers' armor plates are the hardest material I know.
+DUMMY/INFO_WOLF_SPEAK_09_05.wav|I don't mean the small, harmless specimens found in Gomez' buried mine...
+DUMMY/INFO_WOLF_SPEAK_09_07.wav|The armor of these beasts is nearly impenetrable!
+DUMMY/INFO_WOLF_SPEAK_09_08.wav|If you could bring me some of these armor plates, I could try to make armor from them.
+DUMMY/INFO_WOLF_SKIN_09_02.wav|That's quite easy. The back plates are only joined to the body around the edges.
+DUMMY/INFO_WOLF_SKIN_09_03.wav|Just take a razor blade and 'cut along the dotted line'.
+DUMMY/INFO_WOLF_PROFIT_09_02.wav|Not exactly... If I manage to make good armor from these plates, I will... very quickly ... very much ... oh, forget it!
+DUMMY/INFO_WOLF_MCPLATESFEW_09_02.wav|Not enough! That's not enough for a whole armor!
+DUMMY/INFO_WOLF_MCPLATESFEW_09_03.wav|Bring me more of these plates!
+DUMMY/INFO_WOLF_MCPLATESENOUGH_09_02.wav|Fantastic!!! I'll get to work immediately!
+DUMMY/INFO_WOLF_MCPLATESENOUGH_09_04.wav|I haven't the faintest idea. This is a completely new development, man!
+DUMMY/INFO_WOLF_MCPLATESENOUGH_09_05.wav|Just drop by now and then when you're in the area!
+DUMMY/INFO_WOLF_ARMORINWORK_09_02.wav|It's gonna take some time, man! Those plates are really heavy stuff. I still haven't found a way yet to fix them together!
+DUMMY/INFO_WOLF_ARMORINWORK_09_03.wav|Gimme some more time, I'll get there!
+DUMMY/INFO_WOLF_ARMORFINISHED_09_02.wav|I've finally found a way to fix those armor plates to each other!
+DUMMY/INFO_WOLF_ARMORFINISHED_09_04.wav|Yeah, man. Here it is. Really seems to be harder than  any other armor in our camp.
+DUMMY/INFO_WOLF_ARMORFINISHED_09_06.wav|That's alright! I always find ways of covering my expenses!
+DUMMY/ORG_855_WOLF_SELLBOW_INFO_09_02.wav|You've come to the right address for that. I offer good value for good ore.

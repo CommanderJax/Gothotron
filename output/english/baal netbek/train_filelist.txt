@@ -1,0 +1,3 @@
+DUMMY/NOV_1371_BAALNETBEK_CRAZY_INFO_03_02.wav|I'm the Guru, the Guru of the swamp. My servants call me Baal Netbek.
+DUMMY/NOV_1371_BAALNETBEK_CRAZY_INFO_03_04.wav|They're everywhere. The trees! They walk and skip and dance...
+DUMMY/NOV_1371_BAALNETBEK_AGAIN_INFO_03_02.wav|Mind you don't hurt my trees!

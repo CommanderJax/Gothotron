@@ -1,0 +1,15 @@
+DUMMY/DIA_LEFTY_FIRST_07_00.wav|Hey! Just arrived? We need somebody to take some water to the peasants in the rice fields.
+DUMMY/DIA_LEFTY_FIRST_07_01.wav|This way you can make friends with a few people. What do you think?
+DUMMY/DIA_LEFTY_FIRST_YES_07_01.wav|Great! Go to the Rice Lord. He'll give you the water and tell you everything you need to know.
+DUMMY/DIA_LEFTY_FIRST_NEVER_07_01.wav|That's no good way of treating friends! I think I'll have to teach you some manners!
+DUMMY/DIA_LEFTY_FIRST_LATER_07_01.wav|But I won't need anybody later. I need your help right NOW. Do you want to help me or not?
+DUMMY/DIA_LEFTY_WORKDAY_07_00.wav|Hey, you!
+DUMMY/DIA_LEFTY_WORKDAY_NEXTCHANCE_07_00.wav|You're in luck! I'll give you a second chance.
+DUMMY/DIA_LEFTY_WORKDAY_NEXTCHANCE_07_01.wav|Try not to mess it up this time! Well, go to the Rice Lord and then take water to all the peasants. Got it?
+DUMMY/DIA_LEFTY_WORKDAY_STILLRUNNING_07_00.wav|I told you to take some water to the peasants!
+DUMMY/DIA_LEFTY_WORKDAY_STILLRUNNING_07_01.wav|I don't like people who make promises and then don't keep them!
+DUMMY/DIA_LEFTY_WORKDAY_SUCCESS_07_01.wav|I think this is exactly the right task for you. From now on, you'll do it every day. Go on with it right now.
+DUMMY/DIA_LEFTY_NEVERAGAIN_07_01.wav|Oh? Have you got better plans?
+DUMMY/DIA_LEFTY_NEVERAGAIN_07_02.wav|I think I'll have to remind you who's the boss!
+DUMMY/DIA_LEFTY_PERM_07_01.wav|Oh, man! What do you want?
+DUMMY/DIA_LEFTY_PERM_DURSTIG_07_01.wav|I'll see to it... don't worry.

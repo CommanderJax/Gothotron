@@ -1,0 +1,5 @@
+DUMMY/STT_302_VIPER_GREET_INFO_11_02.wav|You're a smart boy indeed.
+DUMMY/STT_302_VIPER_MELT_INFO_11_03.wav|They hung around here for weeks to examine the ore and everything else.
+DUMMY/STT_302_VIPER_MELT_INFO_11_04.wav|They fiddled about and stuck their noble noses in things they didn't have a clue about.
+DUMMY/STT_302_VIPER_MELT_INFO_11_05.wav|Finally we only smelted a part of the ore. The mages never came back here.
+DUMMY/STT_302_VIPER_BUY_INFO_11_02.wav|If you can give me any goods.

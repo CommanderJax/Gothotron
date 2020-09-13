@@ -1,0 +1,11 @@
+DUMMY/INFO_KHARIM_WHAT_09_01.wav|I'm Kharim! You must have just been booted in here - or else you'd have heard of me!
+DUMMY/INFO_KHARIM_WHAT_09_02.wav|I'm the best fighter this damned camp has ever seen.
+DUMMY/INFO_KHARIM_CHARGE_09_01.wav|YOU?! I'll have you for breakfast, kid!
+DUMMY/INFO_KHARIM_CHARGE_INSULT_09_01.wav|Don't you have any better ideas, boy?
+DUMMY/INFO_KHARIM_CHARGE_INSULT_GOATS_09_01.wav|Yeah, I guess she is...
+DUMMY/INFO_KHARIM_CHARGE_INSULT_GOMEZASS_09_01.wav|WHAT!?! You worm! You know nothing about us! The New Camp is INDEPENDENT from all that shit!
+DUMMY/INFO_KHARIM_CHARGE_INSULT_GOMEZASS_09_02.wav|And apart from that there's only one reason why I'm here: So I can beat the brains out of smart asses like you.
+DUMMY/INFO_KHARIM_CHARGE_INSULT_GOMEZASS_09_03.wav|It'll be my pleasure to do the same to YOU! Your destiny is awaiting you in the arena!
+DUMMY/INFO_KHARIM_CHARGE_INSULT_STUPID_09_01.wav|Maybe you should give it a try.
+DUMMY/INFO_KHARIM_CHARGE_INSULT_FACE_09_01.wav|I think this is your last chance to finally GET LOST!
+DUMMY/INFO_KHARIM_INARENA_09_00.wav|Pain is a question of willpower!

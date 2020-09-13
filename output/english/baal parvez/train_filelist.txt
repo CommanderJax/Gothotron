@@ -1,0 +1,26 @@
+DUMMY/DIA_BAALPARVEZ_GREET_10_00.wav|The Sleeper be with you, stranger!
+DUMMY/DIA_BAALPARVEZ_GREET_10_01.wav|I'm here to guide you onto the right path.
+DUMMY/DIA_BAALPARVEZ_RIGHTWAY_10_01.wav|The path of the Sleeper. He alone has the power to set us free.
+DUMMY/DIA_BAALPARVEZ_RIGHTWAY_10_02.wav|The Gurus are preparing a great invocation in our camp - they want to get in contact with the Sleeper.
+DUMMY/DIA_BAALPARVEZ_RIGHTWAY_10_04.wav|We'll need as many supporters as possible for that. By focusing our spiritual power, we'll get through to him.
+DUMMY/DIA_BAALPARVEZ_RIGHTWAY_10_05.wav|Our camp is some distance away, in the swamp - I can take you there though, if you want.
+DUMMY/DIA_BAALPARVEZ_MYADVANTAGE_10_01.wav|Maybe you're one of the chosen people who receive the gift of magic from the Sleeper.
+DUMMY/DIA_BAALPARVEZ_MYADVANTAGE_10_02.wav|Or you might obtain the highest honors and become a templar. Only the best fighters among us can obtain that position.
+DUMMY/DIA_BAALPARVEZ_MYADVANTAGE_10_03.wav|If the Sleeper is with you, you can even combine both - the best of the templars receive the gift of magic as well.
+DUMMY/DIA_BAALPARVEZ_MYADVANTAGE_10_04.wav|You see, our Brotherhood has a lot of possibilities for you.
+DUMMY/DIA_BAALPARVEZ_MYADVANTAGE_10_05.wav|You should be aware of that before you decide on joining any other camp!
+DUMMY/DIA_BAALPARVEZ_SLEEPER_10_01.wav|The Sleeper speaks to us through dreams and visions.
+DUMMY/DIA_BAALPARVEZ_SLEEPER_10_02.wav|He has been leading us ever since he first made contact with Y'Berion five years ago.
+DUMMY/DIA_BAALPARVEZ_SLEEPER_10_03.wav|All the followers of the Brotherhood have renounced the three gods. We pray only to the Sleeper for salvation.
+DUMMY/DIA_BAALPARVEZ_SLEEPER_10_05.wav|From this goddamn place, of course! The Sleeper will show us the way to freedom!
+DUMMY/DIA_BAALPARVEZ_SLEEPERSAID_10_02.wav|He gave us independence - none of us need to labor in the mines.
+DUMMY/DIA_BAALPARVEZ_SLEEPERSAID_10_03.wav|He showed us what swampweed can do. We sell it to the other camps, and in exchange we get everything we need.
+DUMMY/DIA_BAALPARVEZ_SLEEPERSAID_10_04.wav|And he gave some of us the gift of magic. Of an old and powerful magic which is different from the one the magicians of the realm use.
+DUMMY/DIA_BAALPARVEZ_PSIMAGIC_10_01.wav|This gift enables you to control things with the power of your mind.
+DUMMY/DIA_BAALPARVEZ_PSIMAGIC_10_02.wav|Only the Gurus of our Brotherhood have been initiated into the secrets of this magic.
+DUMMY/DIA_BAALPARVEZ_GOTOPSI_10_01.wav|Very good! I'll go ahead. Follow me!
+DUMMY/DIA_BAALPARVEZ_ATPSI_10_00.wav|Here we are. Down there lies the camp of the Brotherhood.
+DUMMY/DIA_BAALPARVEZ_ATPSI_LATE_10_00.wav|You've taken your time, brother! Down there you see the Camp.
+DUMMY/DIA_BAALPARVEZ_ATPSI_10_01.wav|Go through the gate and speak to my brothers. I'm sure you haven't come here for nothing.
+DUMMY/DIA_BAALPARVEZ_ATPSI_10_02.wav|Ask for Cor Kalom. He's in charge of the novices and tutors.
+DUMMY/DIA_BAALPARVEZ_ATPSI_10_03.wav|I'll go back to the Old Camp - there are still many infidels who need to be guided to the right path.

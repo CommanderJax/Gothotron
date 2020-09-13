@@ -1,0 +1,9 @@
+DUMMY/DIA_HOMER_HELLO_02_01.wav|I'm looking for leaks in the dam. I reckon there's a lurker gnawing at the foundations.
+DUMMY/DIA_HOMER_HELLO_02_02.wav|The beast grinds its teeth and claws against the stones and wooden beams under water.
+DUMMY/DIA_HOMER_HELLO_02_03.wav|If it carries on, the whole dam will soon be undermined.
+DUMMY/DIA_HOMER_BUILTDAM_02_01.wav|Yes. I built the dam back when we founded the New Camp.
+DUMMY/DIA_HOMER_WANNAHELP_02_01.wav|Sure, stop that beast from gnawing at my dam.
+DUMMY/DIA_HOMER_RUNNING_02_01.wav|I'd hunt round on the other side of the lake. Nobody ever goes there. That's probably where its den is.
+DUMMY/DIA_HOMER_SUCCESS_02_01.wav|Great! I got some of the Rice Lord's men to help me fix some of the damage it's caused.
+DUMMY/DIA_HOMER_SUCCESS_02_02.wav|Now I can finally get some sleep.
+DUMMY/DIA_HOMER_PERM_02_01.wav|It's strong as a fortress, nothing can knock it down.

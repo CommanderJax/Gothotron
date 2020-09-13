@@ -1,8 +1,8 @@
-DUMMY/INFO_DIEGO_OTHERCAMPS_11_01.wav|The two other camps split up to pursue their crazy escape plans.
-DUMMY/INFO_DIEGO_RULES_11_02.wav|There're a few influential people in the Outer Ring. Most of them are Shadows. If you manage to impress them, it'll earn you a few brownie points.
-DUMMY/INFO_DIEGO_TEACH_BACK_11_02.wav|Come back soon - there are many things you need to learn!
-DUMMY/INFO_DIEGO_JOINANALYZE_SCATTY_11_03.wav|Scatty has told me he's anxious to see how you come off against Kirgo.
-DUMMY/INFO_DIEGO_POINTS_11_02.wav|But you still have to pass the test of faith.
-DUMMY/PC_THIEF_MEETAGAIN_INFO_11_08.wav|You've really learnt your lesson, but that's not what I meant.
-DUMMY/INFO_DIEGO_OCWARN_11_06.wav|Haven't you heard?
+DUMMY/INFO_DIEGO_KOLONIE_11_03.wav|There are three camps within the Barrier. The Old Camp is the biggest, and it was the first.
+DUMMY/INFO_DIEGO_THORUSSAYS_11_05.wav|First there are a few things you should know.
+DUMMY/INFO_DIEGO_IANPASSWORD_INFO_11_02.wav|Because you're going to tell him Diego sent you.
+DUMMY/INFO_DIEGO_BRINGLIST_SUCCESS_11_01.wav|Well done! That'll get you a few brownie points!
+DUMMY/INFO_DIEGO_JOINANALYZE_SLY_11_01.wav|Sly told me that you've found Nek. He seemed to be really content.
+DUMMY/INFO_DIEGO_JOINANALYZE_FINGERS_11_01.wav|I've already sent you to Fingers - he could really teach you something!
+DUMMY/PC_THIEF_FIXWHEEL_INFO_11_01.wav|Well, it ought to work now.
 DUMMY/INFO_DIEGO_OCGUARDS_11_03.wav|They are afraid of somebody avenging the raid on the Free Mine.

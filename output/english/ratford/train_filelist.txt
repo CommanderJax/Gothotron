@@ -1,0 +1,19 @@
+DUMMY/ORG_818_RATFORD_WRONGWAY_07_00.wav|Hey, you!
+DUMMY/ORG_818_RATFORD_WRONGWAY_07_02.wav|I want to warn you. If you continue this way, you'll be entering our hunting ground.
+DUMMY/ORG_818_RATFORD_WHATGAME_07_01.wav|Mostly scavengers. There's a lot of meat on them. Besides, it isn't too hard to get them... Once you know how.
+DUMMY/ORG_818_RATFORD_WHYDANGEROUS_07_01.wav|You've just arrived, haven't you? There are different areas in the colony which are all more or less dangerous.
+DUMMY/ORG_818_RATFORD_WHYDANGEROUS_07_02.wav|The paths between the camps are quite safe. But even there you might come across some wolves which will look on you as easy prey.
+DUMMY/ORG_818_RATFORD_WOEQUIPMENT_07_01.wav|The nearest place is the Old Camp. Just follow the path that brought you here.
+DUMMY/ORG_818_RATFORD_WOEQUIPMENT_07_02.wav|But you can get the stuff cheaper in our New Camp - provided you know the right people.
+DUMMY/ORG_818_RATFORD_WOEQUIPMENT_07_03.wav|If you go to the Old Camp, ask for Mordrag. He's one of us. For just a little ore, he'll sell you the proper goods.
+DUMMY/ORG_818_RATFORD_MORELOCATIONS_07_01.wav|If you travel between the camps, you'll need a map to distinguish paths and dead ends.
+DUMMY/ORG_818_RATFORD_MORELOCATIONS_07_02.wav|Dead ends often lead you to dangerous canyons where you encounter creatures you'd better avoid.
+DUMMY/ORG_818_RATFORD_MORELOCATIONS_07_03.wav|Do not enter the old ruins. There are many around here. Most of them are old fortifications dating back to the time of the first Orc war. Some are abandoned Orc dwellings.
+DUMMY/ORG_818_RATFORD_MORELOCATIONS_07_04.wav|There are often Orcs in those ruins - or even worse creatures. I'd avoid those places, especially at night.
+DUMMY/ORG_818_RATFORD_MORELOCATIONS_07_05.wav|And one more hint - don't go into the forest!
+DUMMY/ORG_818_RATFORD_WOKARTE_07_01.wav|Ask the people in the Old Camp. There's a cartographer living there.
+DUMMY/ORG_818_RATFORD_WOKARTE_07_02.wav|Maybe you can steal one of his maps! If you manage to do it, take one for me as well!
+DUMMY/ORG_818_RATFORD_WOKARTE_STEHLEN_07_01.wav|You're alright! You should consider coming to the New Camp! In case you go there, ask for Lares. He takes care of the new ones. I'm sure he'll have a job for you!
+DUMMY/ORG_818_RATFORD_WOKARTE_KAUFEN_07_01.wav|If you get enough ore to pay for them...
+DUMMY/ORG_818_RATFORD_THANKS_07_01.wav|Don't go thinking everyone's going to be so friendly, kid!
+DUMMY/ORG_818_RATFORD_THANKS_07_02.wav|There may not be much in a newcomer's pockets, but some folks would even beat you up for a pickaxe.

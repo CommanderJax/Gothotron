@@ -1,0 +1,2 @@
+DUMMY/STT_301_IAN_MORE_INFO_13_02.wav|The magic ore does have special qualities. Weapons forged from it don't break, their blades are sharper than usual ones.
+DUMMY/STT_301_IAN_MAGIC_INFO_13_03.wav|But even without the magic powers, weapons made from this ore are extremely resistant and do more damage than normal weapons.

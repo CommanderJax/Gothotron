@@ -1,0 +1,6 @@
+DUMMY/INFO_PACHO_STOP_13_01.wav|Hey, you!
+DUMMY/INFO_PACHO_STOP_13_03.wav|No, your grandmother... Who else could I mean?!
+DUMMY/INFO_PACHO_STOP_13_04.wav|I wouldn't go down that way if I were you!
+DUMMY/INFO_PACHO_STOP_13_06.wav|You can't have been here long!
+DUMMY/INFO_PACHO_STOP_13_08.wav|They'll make mincemeat out of you!
+DUMMY/INFO_PACHO_STOP_13_10.wav|You're welcome!

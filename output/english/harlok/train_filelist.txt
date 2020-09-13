@@ -1,0 +1,6 @@
+DUMMY/DIA_HARLOK_FETCHHARLOK_01_01.wav|What?
+DUMMY/DIA_HARLOK_FETCHHARLOK_PLEASE_01_01.wav|That's very nice of you. Remind me again when I'm through sleeping, yeah?
+DUMMY/DIA_HARLOK_FETCHHARLOK_ORELSE_01_01.wav|Just TRY to mess with me again, sucker!
+DUMMY/DIA_HARLOK_HARLOKAGAIN_01_01.wav|Listen! I told you to get lost!
+DUMMY/DIA_HARLOK_SENDHARLOK_01_03.wav|Okay, okay - I'm on my way... sucker!
+DUMMY/DIA_HARLOK_ANGRY_01_00.wav|Leave me alone! I'm going...

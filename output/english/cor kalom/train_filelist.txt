@@ -1,0 +1,79 @@
+DUMMY/GUR_1201_CORKALOM_FIRST_10_00.wav|What do you want?
+DUMMY/GUR_1201_CORKALOM_WANNAJOIN_10_02.wav|I don't have time! My experiments are too important for me to spend any time on new novices.
+DUMMY/GUR_1201_CORKALOM_WANNAJOIN_10_03.wav|I'll rely on the judgement of the Baals. When they say you're ready to wear the robe of a novice, come back to me.
+DUMMY/GUR_1201_CORKALOM_RECIPE_10_01.wav|My recipes are not for sale!
+DUMMY/GUR_1201_CORKALOM_EXPERIMENTE_10_01.wav|My research takes place on a level you don't understand anything about, boy. So don't waste my time!
+DUMMY/GUR_1201_CORKALOM_BRINGWEED_10_01.wav|And THAT's supposed to be the lot??? I expect the COMPLETE harvest, which means at least a 100 stalks!!!
+DUMMY/GUR_1201_CORKALOM_BRINGWEED_10_02.wav|Aargh, give it to me. And now get out of my sight!
+DUMMY/GUR_1201_CORKALOM_CRAWLERZANGEN_10_01.wav|Very good. Take some of my best potions as reward.
+DUMMY/GUR_1201_CORKALOM_CRAWLERZANGEN_10_02.wav|Good. Take some potions as a reward.
+DUMMY/GUR_1201_CORKALOM_CRAWLERZANGEN_10_03.wav|Hm. That's all of them? Here, take a mana potion and disappear.
+DUMMY/GUR_1201_CORKALOM_JOINPSI_10_02.wav|Carry on...
+DUMMY/GUR_1201_CORKALOM_JOINPSI_10_06.wav|And?
+DUMMY/GUR_1201_CORKALOM_JOINPSI_10_08.wav|Good. If the Baals support you, that should be enough for me.
+DUMMY/GUR_1201_CORKALOM_JOINPSI_10_09.wav|Here, put this on. And now go and make yourself useful.
+DUMMY/GUR_1201_CORKALOM_JOINPSI_NOT_10_00.wav|And?
+DUMMY/GUR_1201_CORKALOM_JOINPSI_NOT_10_02.wav|You're wasting my precious time! Come back as soon as four of the Baals consider you worthy!
+DUMMY/GUR_1201_CORKALOM_JOINPSI_10_11.wav|Welcome.
+DUMMY/GUR_1201_CORKALOM_JOINPSI_10_14.wav|If his henchmen don't let you pass, tell them Cor Kalom sent you.
+DUMMY/GUR_1201_CORKALOM_JOINPSI_10_15.wav|What, are you still here?
+DUMMY/MIS_1_PSI_KALOM_DRUGMONOPOL_10_01.wav|In the New Camp there is a small group of men who have started producing their own weed.
+DUMMY/MIS_1_PSI_KALOM_DRUGMONOPOL_10_03.wav|See to it that they stop their production.
+DUMMY/MIS_1_PSI_KALOM_DRUGMONOPOL_10_05.wav|Do not bother me with details!
+DUMMY/MIS_1_PSI_KALOM_DRUGMONOPOL_10_06.wav|The weed mixers' camp must be somewhere outside the New Camp. You know what to do.
+DUMMY/MIS_1_PSI_KALOM_SUCCESS_10_03.wav|I wouldn't have expected anything else from you.
+DUMMY/MIS_1_PSI_KALOM_SUCCESS_10_05.wav|You surprise me. I underestimated your abilities. Maybe you could be useful after all.
+DUMMY/MIS_1_PSI_KALOM_KRAUTBOTEBACK_10_01.wav|Good. Get another task somewhere else.
+DUMMY/MIS_1_PSI_KALOM_KRAUTBOTEBACK_10_02.wav|Where's the 500 ore, boy? Make sure I get them real fast!
+DUMMY/SIT_2_PSI_YBERION_BRINGFOCUS_INFO3_10_02.wav|Ahhhh - the focus... At last. Now I can study the magic of these artefacts.
+DUMMY/SIT_2_PSI_YBERION_BRINGFOCUS_INFO3_10_03.wav|If I only had enough secretion... damn!
+DUMMY/SIT_2_PSI_YBERION_BLUFF_INFO3_10_02.wav|Really? He said that? Well then. I suppose 50 ore should be enough!
+DUMMY/GUR_1201_CORKALOM_SACHE_INFO_10_02.wav|Yes. As you must know, I produce the magic potions for the invocation of the Sleeper. For this purpose I need the secretion from the minecrawlers' mandibles.
+DUMMY/GUR_1201_CORKALOM_SACHE_INFO_10_03.wav|You know what minecrawlers are, don't you?
+DUMMY/GUR_1201_CORKALOM_SACHE_NEIN_10_02.wav|They are dangerous beasts that creep through dark mines and devour any human flesh they can get.
+DUMMY/GUR_1201_CORKALOM_SACHE_NEIN_10_03.wav|Their mandibles contain a special secretion.
+DUMMY/GUR_1201_CORKALOM_SACHE_NEIN_10_04.wav|I use it to produce a potion which guides the spiritual path to the Sleeper.
+DUMMY/GUR_1201_CORKALOM_SACHE_JA_10_02.wav|Very good!
+DUMMY/GUR_1201_CORKALOM_VISION_INFO_10_02.wav|Well, just a short time ago I had a vision of the Sleeper himself. He gave me a sign.
+DUMMY/GUR_1201_CORKALOM_VISION_INFO_10_03.wav|He made me understand that there is a means other than the secretion from the mandibles.
+DUMMY/GUR_1201_CORKALOM_VISION_INFO_10_04.wav|And he chose me to pass on this mission. You're not getting this mission from me. You're getting it from the Sleeper!
+DUMMY/GUR_1201_CORKALOM_VISION_INFO_10_06.wav|Be silent, fool!
+DUMMY/GUR_1201_CORKALOM_VISION_INFO_10_08.wav|The right means can be found with the minecrawlers, but the mandibles are not sufficient.
+DUMMY/GUR_1201_CORKALOM_VISION_INFO_10_09.wav|There must be something else.
+DUMMY/GUR_1201_CORKALOM_NEST_INFO_10_02.wav|Of course we have taken some minecrawlers apart, but only their mandibles seemed to contain the secretion.
+DUMMY/GUR_1201_CORKALOM_NEST_INFO_10_03.wav|There must be something else. Find their nest and you'll find the answer!
+DUMMY/GUR_1201_CORKALOM_WEG_INFO_10_02.wav|Take these spell scrolls of light, you'll be able to make good use of them in the dark shafts.
+DUMMY/GUR_1201_CORKALOM_WEG_INFO_10_03.wav|The templars in the mines will help you.
+DUMMY/GUR_1201_CORKALOM_WEG_INFO_10_04.wav|May the Sleeper give you power, may his light shine on your path and enlighten your spirit, and may he strengthen your will!
+DUMMY/GUR_1201_CORKALOM_RAT_INFO_10_02.wav|Take these potions with you.
+DUMMY/GUR_1201_CORKALOM_RAT_INFO_10_03.wav|I am not giving them to you because I want you to stay alive, but because this task needs to be done.
+DUMMY/GUR_1201_CORKALOM_RUN_INFO_10_02.wav|In the Old Mine.
+DUMMY/GUR_1201_CORKALOM_RUN_INFO_10_04.wav|Take this map. Any important places within the Barrier are marked on it.
+DUMMY/GUR_1201_CORKALOM_CRAWLER_INFO_10_02.wav|There are templars in the mine. They hunt the crawlers for their mandibles. Speak to Gor Na Vid. He will help you.
+DUMMY/GUR_1201_CORKALOM_FIND_INFO_10_02.wav|That's the hardest part of the mission. I can't tell you where to search, nor what to search for. But the Sleeper will be with you.
+DUMMY/MIS_2_PSI_KALOM_BRINGMCQEGGS_SUCCESS_10_02.wav|I knew it. My vision was a sign. The queen's eggs must contain the strong secretion!
+DUMMY/MIS_2_PSI_KALOM_BRINGMCQEGGS_SUCCESS_10_03.wav|Excellent, with it I can create a potion to contact the Sleeper!
+DUMMY/MIS_2_PSI_KALOM_BRINGMCQEGGS_SUCCESS_10_05.wav|Oh, right... Thank you.
+DUMMY/MIS_2_PSI_KALOM_BRINGMCQEGGS_SUCCESS_10_07.wav|Okay, okay. What do you want?
+DUMMY/MIS_2_PSI_KALOM_BRINGMCQEGGS_SUCCESS_RUNE_10_02.wav|May this rune shine on your path!
+DUMMY/MIS_2_PSI_KALOM_BRINGMCQEGGS_SUCCESS_WAFFE_10_02.wav|May this weapon destroy your enemies!
+DUMMY/MIS_2_PSI_KALOM_BRINGMCQEGGS_SUCCESS_HEAL_10_02.wav|May this potion prolong your life!
+DUMMY/MIS_2_PSI_KALOM_BRINGMCQEGGS_SUCCESS_MANA_10_02.wav|May this potion strengthen the magic within you!
+DUMMY/INFO_CORKALOM_BRINGBOOK_INFO_10_02.wav|No! I haven't found a method to charge the focus yet.
+DUMMY/INFO_CORKALOM_BRINGBOOK_INFO_10_03.wav|We are missing the ancient knowledge about these artefacts.
+DUMMY/INFO_CORKALOM_BRINGBOOK_INFO_10_05.wav|No, listen to me. There's an almanac which contains what we need to know.
+DUMMY/INFO_CORKALOM_BRINGBOOK_INFO_10_06.wav|We bought the book off the fire mage Corristo from the Old Camp.
+DUMMY/INFO_CORKALOM_BRINGBOOK_INFO_10_07.wav|However, it was stolen when they tried to bring it here from the Old Camp.
+DUMMY/INFO_CORKALOM_BRINGBOOK_INFO_10_08.wav|I had charged Talas, a novice, with collecting the book for me, but he was robbed.
+DUMMY/INFO_CORKALOM_BRINGBOOK_INFO_10_09.wav|He let me down, but I've given him another chance. He must get the stolen almanac back.
+DUMMY/INFO_CORKALOM_BRINGBOOK_INFO_10_10.wav|Talk to him. He'll need any help he can get.
+DUMMY/INFO_CORKALOM_BRINGBOOK_WHERE_10_02.wav|He's in the forecourt at the temple hill, trying to get people to help him.
+DUMMY/INFO_CORKALOM_BRINGBOOK_WHO_10_02.wav|Talas told me he was mugged by black goblins. It sounds strange, but not impossible.
+DUMMY/INFO_CORKALOM_BRINGBOOK_EARN_10_02.wav|Have I not already proven my generosity to you? You will receive a just reward.
+DUMMY/INFO_CORKALOM_BRINGBOOK_SUCCESS_10_02.wav|Good work. You have all we need.
+DUMMY/INFO_CORKALOM_BRINGBOOK_SUCCESS_10_03.wav|I'll complete the preparations now.
+DUMMY/INFO_CORKALOM_BRINGBOOK_SUCCESS_10_05.wav|Wait till nighttime, then come to the temple courtyard. We will gather there to invoke the almighty Sleeper.
+DUMMY/INFO_CORKALOM_BELOHNUNG_10_01.wav|What do you want?
+DUMMY/INFO_CORKALOM_BELOHNUNG_SCROLL_10_01.wav|Use these spells wisely.
+DUMMY/INFO_CORKALOM_BELOHNUNG_ORE_10_01.wav|This should satisfy your greed for ore.
+DUMMY/INFO_CORKALOM_BELOHNUNG_MANA_10_01.wav|May these potions give you strength!

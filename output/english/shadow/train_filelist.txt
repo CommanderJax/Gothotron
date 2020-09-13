@@ -1,0 +1,12 @@
+DUMMY/INFO_STT_10_EINERVONEUCHWERDEN_10_01.wav|Oh? Have you talked to Diego yet?
+DUMMY/INFO_STT_10_EINERVONEUCHWERDEN_NEIN_10_01.wav|Then do so, you'll find him at the entrance to the castle.
+DUMMY/INFO_STT_10_EINERVONEUCHWERDEN_JA_10_01.wav|Good. You just do as he says then. It didn't do me any harm. Well, not really, anyway.
+DUMMY/INFO_STT_10_WICHTIGEPERSONEN_10_01.wav|If you get into any trouble with the guards, go and see Gravo. You'll find him at the bathing place near the castle gate. He deals with guys who get into trouble. It happens quicker than you'd expect, especially to newcomers.
+DUMMY/INFO_STT_10_DASLAGER_10_01.wav|I guess the most interesting part of it is the market place. If you're looking for anything in particular, that's the place to go.
+DUMMY/INFO_STT_10_DIELAGE_10_01.wav|What do you want?
+DUMMY/INFO_STT_12_EINERVONEUCHWERDEN_12_01.wav|Oh. Then you should know that Gomez doesn't tolerate failures. If you wanna be one of us, you have to be prepared to go through fire for him!
+DUMMY/INFO_STT_12_EINERVONEUCHWERDEN_12_02.wav|Only half of those who tried ever got accepted.
+DUMMY/INFO_STT_12_EINERVONEUCHWERDEN_12_04.wav|They're probably sitting in the New Camp munching rice. Hee hee hee.
+DUMMY/INFO_STT_12_WICHTIGEPERSONEN_12_01.wav|Diego's what you might call the head of the Shadows. But Thorus decides who gets to see Gomez.
+DUMMY/INFO_STT_12_DASLAGER_12_01.wav|Then you'd better ask the diggers. They don't have anything to do all day anyway.
+DUMMY/INFO_STT_12_DIELAGE_12_01.wav|What do you want?

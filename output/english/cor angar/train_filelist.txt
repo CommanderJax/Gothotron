@@ -1,0 +1,59 @@
+DUMMY/GUR_1202_CORANGAR_LATERTRAINER_08_01.wav|You want to become a strong warrior, so now you're looking for someone to instruct you.
+DUMMY/GUR_1202_CORANGAR_LATERTRAINER_08_02.wav|Commendable. But I'm not the man you want.
+DUMMY/GUR_1202_CORANGAR_LATERTRAINER_08_03.wav|I dedicate my time only to those belonging to the Holy Circle of Templars.
+DUMMY/GUR_1202_CORANGAR_WIETEMPLER_08_02.wav|Then come back to me, and I will instruct you.
+DUMMY/GUR_1202_CORANGAR_TEACH_08_01.wav|Every warrior requires strength and dexterity.
+DUMMY/GUR_1202_CORANGAR_WANNABETPL_INFO_08_02.wav|You are not yet ready. You can join us as soon as you've gathered more experience.
+DUMMY/GUR_1202_CORANGAR_WANNABETPL_INFO_08_03.wav|The time has come for you to join us.
+DUMMY/GUR_1202_CORANGAR_WANNABETPL_INFO_08_04.wav|Remember that a templar is not only a good warrior and a guardian of the Camp. We are the chosen guards of the Sleeper. The guardians of the spirit.
+DUMMY/GUR_1202_CORANGAR_WANNABETPL_INFO_08_05.wav|We make use of both our physical and our spiritual strength. Only those whose body and spirit are in unison can become true templars.
+DUMMY/GUR_1202_CORANGAR_WANNABETPL_INFO_08_06.wav|I'm really pleased that you managed to achieve a great deal within such a short time. Now you are ready to join us.
+DUMMY/GUR_1202_CORANGAR_WANNABETPL_INFO_08_08.wav|Now go to Gor Na Toth at the training ground. He'll give you new armor.
+DUMMY/GUR_1202_CORANGAR_ZWEIHAND1_INFO_08_02.wav|Fighting with two-handed weapons requires certain levels of strength and dexterity.
+DUMMY/GUR_1202_CORANGAR_ZWEIHAND1_INFO_08_03.wav|To wield a two-handed weapon, you will not only need to master your body, but your mind as well.
+DUMMY/GUR_1202_CORANGAR_ZWEIHAND1_INFO_08_04.wav|Only if you master both mind and body will you be able to learn the skill.
+DUMMY/GUR_1202_CORANGAR_ZWEIHAND1_INFO_08_05.wav|Concentration is the key. Body and mind unite in concentration.
+DUMMY/GUR_1202_CORANGAR_ZWEIHAND2_INFO_08_02.wav|You're now in command of the dance with the blade. Now I'll show you how to master the fight.
+DUMMY/GUR_1202_CORANGAR_ZWEIHAND2_INFO_08_03.wav|Use your spiritual force to anticipate your enemy's movements before he attacks.
+DUMMY/GUR_1202_CORANGAR_ZWEIHAND2_INFO_08_04.wav|Knowing how your enemy fights is half the victory.
+DUMMY/GUR_1202_CORANGAR_ZWEIHAND2_INFO_08_05.wav|Be fast, your movements will have to be surprising and fluent, your hits precise and hard.
+DUMMY/GUR_1202_CORANGAR_ZWEIHAND2_INFO_08_06.wav|Learn to ignore the pain. It's your willpower that will finally decide the outcome of the fight.
+DUMMY/GUR_1202_CORANGAR_ZWEIHAND2_INFO_08_07.wav|Remain calm. Only if you enter a fight calmly and with concentration, will you survive it.
+DUMMY/GUR_1202_CORANGAR_ZWEIHAND2_INFO_08_08.wav|Use your skill cautiously. And remember: To provoke a fight means you will die in a fight.
+DUMMY/GUR_1202_CORANGAR_SENDS_INFO_08_02.wav|The vision was very vague, it brought us more riddles than answers.
+DUMMY/GUR_1202_CORANGAR_SENDS_INFO_08_03.wav|But one thing was perfectly clear: I saw an Orc in a cave. There is an old abandoned Orcish place of worship nearby.
+DUMMY/GUR_1202_CORANGAR_SENDS_INFO_08_04.wav|The Orcs used to bury their dead there, that's why we call this system of caves the Orc cemetery.
+DUMMY/GUR_1202_CORANGAR_SENDS_INFO_08_05.wav|The Guru Baal Lukor has gone there with some templars. Maybe we'll find something there to help us understand the vision.
+DUMMY/GUR_1202_CORANGAR_SENDS_INFO_08_06.wav|I need somebody to have a look around that place and to report to me about the situation.
+DUMMY/GUR_1202_CORANGAR_SENDS_INFO_08_08.wav|My task is to protect the Enlightened One. I must stay here with Y'Berion and guard him.
+DUMMY/GUR_1202_CORANGAR_SENDS_INFO_08_09.wav|You have done good service for the Camp. I trust you more than anybody else here.
+DUMMY/GUR_1202_CORANGAR_SENDS_INFO_08_10.wav|I am asking you to go to the Orc cemetery and report to me what the templars have found.
+DUMMY/GUR_1202_CORANGAR_SENDS_EARN_INFO_08_02.wav|You want ore? It seems my impression of you was wrong after all. But I need you. Here, take 100 ore. You won't get any more!
+DUMMY/GUR_1202_CORANGAR_SENDS_KNOW_INFO_08_02.wav|Before you go, take this ring. May it protect you in battle!
+DUMMY/GUR_1202_CORANGAR_WHERE_INFO_08_02.wav|Not far from here. The novice Talas knows the way. You'll find him in the temple courtyard. He'll guide you there.
+DUMMY/GUR_1202_CORANGAR_AFTER_INFO_08_02.wav|What about Baal Lukor and the templars?
+DUMMY/GUR_1202_CORANGAR_AFTER_INFO_08_04.wav|Dead? But why, what happened?
+DUMMY/GUR_1202_CORANGAR_AFTER_INFO_08_08.wav|It would appear he couldn't handle the fact that he hadn't found anything.
+DUMMY/GUR_1202_CORANGAR_AFTER_INFO_08_09.wav|I don't believe that the influence of the Sleeper can cause such violent deeds.
+DUMMY/GUR_1202_CORANGAR_AFTER_INFO_08_10.wav|It cannot... cannot... IRRELEVANT!
+DUMMY/GUR_1202_CORANGAR_AFTER_INFO_08_11.wav|The most important thing is that Baal Lukor did not succeed in his madness.
+DUMMY/GUR_1202_CORANGAR_AFTER_INFO_08_12.wav|Y'Berion is our only hope now.
+DUMMY/MIS_3_NC_CORANGAR_FINDHERB_08_02.wav|He won't wake of his own accord. And he is growing weaker and weaker. I know how to wake him up, but I need your help.
+DUMMY/MIS_3_NC_CORANGAR_FINDHERB_08_04.wav|Get me the healing herbs from the swamp. Five of the strongest kind should be sufficient!
+DUMMY/MIS_3_NC_CORANGAR_FINDHERB_08_05.wav|Please hurry!
+DUMMY/INFO_CORANGAR_FINDHERB_WHERE_08_02.wav|Search for them in the swamp behind the Camp. You need to go very deep into it, but mind the swampsharks don't get you.
+DUMMY/INFO_CORANGAR_FINDHERB_WHERE_08_03.wav|And now don't waste my time. Go!
+DUMMY/INFO_CORANGAR_FINDHERB_LOOK_08_02.wav|They look like a star with eight green and orange leaves.
+DUMMY/INFO_CORANGAR_FINDHERB_RUNNING_08_02.wav|Maybe Fortuno, the herbs trader, has some in stock.
+DUMMY/INFO_CORANGAR_FINDHERB_RUNNING_08_03.wav|Hurry. I need five of them. Y'Berion doesn't have much time left.
+DUMMY/INFO_CORANGAR_FINDHERB_SUCCESS_08_02.wav|Well done. Y'Berion woke up for a short time while you were out.
+DUMMY/INFO_CORANGAR_FINDHERB_SUCCESS_08_04.wav|Yes, he said that the Sleeper is not what we think he is. We must try not to awaken him again.
+DUMMY/INFO_CORANGAR_FINDHERB_SUCCESS_08_05.wav|All we can do now is hope that it is not too late for Y'Berion.
+DUMMY/GUR_1202_CORANGAR_DEATH_INFO_08_01.wav|Even your quick help could not prevent his death!
+DUMMY/GUR_1202_CORANGAR_DEATH_INFO_08_03.wav|I have always trusted Y'Berion. Shortly before he died, he placed all his hopes on the escape plan of the Magicians of Water.
+DUMMY/GUR_1202_CORANGAR_DEATH_INFO_08_05.wav|They'll need the focus and the almanac. Both things are still in Cor Kalom's possession.
+DUMMY/GUR_1202_CORANGAR_DEATH_INFO_08_07.wav|In a rage, he set out with a couple of templars to find his own way to the Sleeper.
+DUMMY/GUR_1202_CORANGAR_DEATH_INFO_08_09.wav|I believe he left the book and focus in his laboratory. Here is the key for the chest.
+DUMMY/INFO_CORANGAR_TELEPORT_08_01.wav|One moment!
+DUMMY/INFO_CORANGAR_TELEPORT_08_03.wav|Take this rune of magic as a sign of our gratitude for your great deeds.
+DUMMY/INFO_CORANGAR_TELEPORT_08_04.wav|This will allow you to teleport fast and easily to the courtyard of our temple whenever the need arises.

@@ -1,0 +1,12 @@
+DUMMY/INFO_SWINEY_HELLO_09_01.wav|I'm the best mining engineer this damn colony has ever seen, my boy.
+DUMMY/INFO_SWINEY_HELLO_09_02.wav|I make sure half our boys don't go getting themselves killed by falling rocks, just because they're too stupid to scrape the right places.
+DUMMY/INFO_SWINEY_SCHUERFER_09_01.wav|Oh yeah? Well, just don't think you're going to get anything much out of it. There's three portions of rice a day, any extra you'll have to see to yourself.
+DUMMY/INFO_SWINEY_SCHUERFER_09_02.wav|D'you know why we're doin' this? We're doin' this job so one day we can all walk out of here to freedom.
+DUMMY/INFO_SWINEY_SCHUERFER_09_03.wav|That means all the ore's to be handed in, then it goes on the big ore mound. And once a month everybody who's been working here gets 50 ore to get stoned on.
+DUMMY/INFO_SWINEY_SCHUERFER_09_04.wav|That's the most important things you ought to know.
+DUMMY/INFO_SWINEY_SCHUERFER_09_05.wav|Do you at least have any experience on the job?
+DUMMY/INFO_SWINEY_SCHUERFER_NEIN_09_01.wav|Of course you don't! Why's it always me? Okay. Listen carefully. You take this stuff and put it on - here.
+DUMMY/INFO_SWINEY_SCHUERFER_NEIN_09_02.wav|If an ore nugget falls on your foot while you're not wearing your protective clothing, you'll be crippled for life and only worth half of what you were before to us.
+DUMMY/INFO_SWINEY_SCHUERFER_NEIN_09_03.wav|There'll be a pickaxe lying somewhere around here.
+DUMMY/INFO_SWINEY_SCHUERFER_NEIN_09_04.wav|But you won't be able to do much with it - well - so what...
+DUMMY/INFO_SWINEY_PERM_09_01.wav|The mages say that we won't need much more. Go to the New Camp and have a look at the mound.

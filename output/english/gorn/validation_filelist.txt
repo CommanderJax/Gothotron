@@ -1,0 +1,7 @@
+DUMMY/INFO_GORN_RUINWAIT_09_01.wav|Hi, greenhorn. As you can see, the colony is quite a small place.
+DUMMY/INFO_GORN_RUINWHAT_09_06.wav|It's said they worshipped a god who gave them the power to turn into animals.
+DUMMY/INFO_GORN_RUINWHAT_09_08.wav|What brings you here?
+DUMMY/INFO_GORN_RUINJOIN_09_04.wav|A pack can even tear the cleverest sword fighter to pieces.
+DUMMY/INFO_GORN_RUINTROLL_09_01.wav|OH HELL!!! What monster's that over there?
+DUMMY/INFO_GORN_GUARDNC_09_05.wav|Not yet, but the day will come.
+DUMMY/INFO_GORNFM_WAIT_09_02.wav|Alright. I'll wait at the entrance to the mine and make sure nobody tries anything.

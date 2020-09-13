@@ -1,0 +1,22 @@
+DUMMY/DIA_BAALTONDRAL_FANATICTEACHER_13_01.wav|You look more like a seeker - someone who's searching for the true faith. D'you not feel a fire inside your body which keeps you from sleeping at night?
+DUMMY/DIA_BAALTONDRAL_FANATICTEACHER_13_02.wav|I see, you doubt that what the Ore Barons' slaves try to tell you is really true and just. You know why you doubt them, too. They're lying!
+DUMMY/DIA_BAALTONDRAL_FANATICTEACHER_13_03.wav|With those lies they try to control weak spirits. But your spirit is stronger than their lies!
+DUMMY/DIA_BAALTONDRAL_FANATICTEACHER_13_04.wav|Don't you feel a longing for freedom every single day? Don't you feel it growing stronger? It guides your spirit. Let it happen!
+DUMMY/DIA_BAALTONDRAL_FANATICTEACHER_13_05.wav|Do you know what you're doing when you try to suppress it? You're denying your soul, denying yourself! Don't let your fears dominate your life.
+DUMMY/DIA_BAALTONDRAL_FANATICTEACHER_13_06.wav|Free yourself. You need to understand! The Sleeper WILL awaken. He will set you free and wash away all these disbelieving infidels.
+DUMMY/DIA_BAALTONDRAL_FANATICTEACHER_13_07.wav|Like dross that is washed away by the rain, they will vanish from this world. They will moan, whine and repent, but it will be too late.
+DUMMY/DIA_BAALTONDRAL_FANATICTEACHER_13_08.wav|Then they will pay the price. They will pay with their blood. And with their lives.
+DUMMY/DIA_BAALTONDRAL_YOUTALKED_13_01.wav|I see you've become familiar with our rules. That's good.
+DUMMY/DIA_BAALTONDRAL_YOUTALKED_13_02.wav|I can feel your great spiritual strength! Soon you'll be allowed to join our community.
+DUMMY/DIA_BAALTONDRAL_LOYALITY_13_01.wav|Most of all, we need new souls to join our community.
+DUMMY/DIA_BAALTONDRAL_LOYALITY_13_02.wav|By recruiting one more man to our camp, you will prove that you're willing to do good service to our community.
+DUMMY/DIA_BAALTONDRAL_NEWMEMBER_13_01.wav|The Old Camp is a good place to try, since a lot of the people there are fed up with fear and lies. They just need some kind of support.
+DUMMY/DIA_BAALTONDRAL_NEWMEMBER_13_02.wav|I guess you won't be very successful in the New Camp. The men living there are barbarians.
+DUMMY/DIA_BAALTONDRAL_NEWMEMBER2_13_01.wav|The Sleeper has spoken to our master, revealing that he has an important message for us.
+DUMMY/DIA_BAALTONDRAL_NEWMEMBER2_13_02.wav|However, he has not gathered full strength yet. That's why he needs OUR strength to contact us.
+DUMMY/DIA_BAALTONDRAL_NEWMEMBER2_13_03.wav|Therefore we are preparing a great invocation, and the more men participate, the likelier we are to be successful.
+DUMMY/DIA_BAALTONDRAL_NEWMEMBER2_13_04.wav|If you want to know more about it, go to the large court in front of the temple hill. But don't disturb our master in his meditations!
+DUMMY/DIA_BAALTONDRAL_DUSTYSUCCESS_13_01.wav|Who have you brought me? Is he worthy?
+DUMMY/DIA_BAALTONDRAL_DUSTYSUCCESS_13_03.wav|Very well. From now on, he shall be one of my disciples.
+DUMMY/DIA_BAALTONDRAL_DUSTYSUCCESS_13_04.wav|You will come to my hut every day to listen to my words. Your soul can still be saved.
+DUMMY/DIA_BAALTONDRAL_SENDTOKALOM_13_01.wav|You have proven your worth. Go to Cor Kalom and don the robe.

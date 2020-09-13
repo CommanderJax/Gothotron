@@ -1,0 +1,8 @@
+DUMMY/DIA_TORLOF_HALLO_04_01.wav|I'm Torlof.
+DUMMY/DIA_TORLOF_HALLO_04_02.wav|I was involved in a mutiny as mate of a royal warship.
+DUMMY/DIA_TORLOF_HALLO_04_03.wav|It wasn't such a good idea. The greater part of the crew was on the captain's side.
+DUMMY/DIA_TORLOF_HALLO_04_04.wav|That's how I came to be here.
+DUMMY/DIA_TORLOF_MITMACHEN_04_01.wav|Lee won't take you on until you get real good, I'm telling you now.
+DUMMY/DIA_TORLOF_MITMACHEN_04_02.wav|And until then you'd better stay on good terms with Lares and his crowd.
+DUMMY/DIA_TORLOF_MITMACHEN_04_04.wav|As soon as the boys notice that you're against Gomez, you won't have any more trouble here.
+DUMMY/DIA_TORLOF_MITMACHEN_04_06.wav|You need to win their TRUST - and then you can rip 'em off!

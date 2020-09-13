@@ -1,0 +1,12 @@
+DUMMY/GRD_262_AARON_CHEST_INFO_09_02.wav|I'm watching diggers like Snipes over there to make sure they keep their hands off my chest.
+DUMMY/GRD_262_AARON_BLUFF_ORE_09_02.wav|So what?
+DUMMY/GRD_262_AARON_BLUFF_ORE_09_04.wav|Forget it.
+DUMMY/GRD_262_AARON_BLUFF_BANDIT_09_02.wav|Do you think I'm stupid? They'd never dare to do anything like that!
+DUMMY/GRD_262_AARON_BLUFF_IAN_09_02.wav|What does he want?
+DUMMY/GRD_262_AARON_BLUFF_GOOD_09_02.wav|Ah, really? I think you'd better go now.
+DUMMY/GRD_262_AARON_BLUFF_BAD_09_02.wav|Well, that's no news. Scram!
+DUMMY/GRD_262_AARON_BLUFF_UGLY_09_02.wav|Then I'll go to see him!
+DUMMY/INFO_AARON_PISSED_09_01.wav|HEY, YOU!!! If you try to make a fool out of me again, you had it, you got that?
+DUMMY/INFO_AARON_SELL_09_02.wav|Indeed. I don't even want to guess how or why you know about the key.
+DUMMY/INFO_AARON_SELL_09_03.wav|But I'll give you 20 ore if you get it back for me.
+DUMMY/INFO_AARON_SELLNOW_09_03.wav|But you'd better watch out in future. From now on I'll be keeping an eye on you!

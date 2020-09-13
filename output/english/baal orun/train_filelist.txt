@@ -1,0 +1,12 @@
+DUMMY/DIA_BAALORUN_FIRSTTALK_12_00.wav|I have spoken to Ghorim. You have done one of our brothers a great service - your cause was just.
+DUMMY/DIA_BAALORUN_FIRSTTALK_12_01.wav|That's why I've chosen you for a special task.
+DUMMY/DIA_BAALORUN_FIRSTTALK_12_02.wav|Cor Kalom urgently needs new swampweed for his experiments.
+DUMMY/DIA_BAALORUN_FIRSTTALK_12_03.wav|Our gatherers are working day and night. Go to them and take their entire harvest to Kalom's alchemy lab.
+DUMMY/DIA_BAALORUN_FIRSTTALK_WHERE_12_01.wav|I have not yet given you permission to address me!
+DUMMY/DIA_BAALORUN_FIRSTTALK_WHERE_12_02.wav|Pray to the Sleeper that he may pardon your sacrilege! And now leave. Your mission is of extreme importance.
+DUMMY/DIA_BAALORUN_GOTWEED_12_00.wav|You have defended our gatherers...
+DUMMY/DIA_BAALORUN_GOTWEED_12_01.wav|You have not only proved that you're on our side - you have proved that you are a worthy servant of the Sleeper.
+DUMMY/DIA_BAALORUN_GOTWEED_12_02.wav|I believe you are ready to wear the robe of a novice.
+DUMMY/DIA_BAALORUN_WEEDATKALOMS_12_01.wav|You have done well. I have a small reward for your efforts. Here, take it.
+DUMMY/DIA_BAALORUN_PERM_12_01.wav|We're putting maximum strain on every man to produce enough for ourselves AND trade with the other camps.
+DUMMY/DIA_BAALORUN_PERM_12_02.wav|But it's a sacrifice for the Sleeper, one our novices willingly make.

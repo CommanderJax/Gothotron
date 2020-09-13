@@ -1,0 +1,8 @@
+DUMMY/DIA_SLD_752_OKYL_INTRO_INFO_11_01.wav|Hey, you! You're not one of my men. What are you doing here?
+DUMMY/DIA_SLD_752_OKYL_EXIT_INFO_11_02.wav|Then leave me alone.
+DUMMY/DIA_SLD_752_OKYL_UMSEHEN_INFO_11_02.wav|Then just watch out that you don't mess up here in the Hollow, else you'll be in your grave faster than you'd like to think.
+DUMMY/DIA_SLD_752_OKYL_WERBISTDU_INFO_11_02.wav|I'm Okyl. I'm the boss of the Hollow.
+DUMMY/DIA_SLD_752_OKYL_INMINE_INFO_11_02.wav|Oh, you just wanted to stroll into the mine.
+DUMMY/DIA_SLD_752_OKYL_INMINE_INFO_11_04.wav|Always remember: Whoever goes into the mine or the gatehouse without my permission is a dead man!
+DUMMY/DIA_SLD_752_OKYL_PERMIT_INFO_11_02.wav|I don't even know you. Why should I let you go into the mine?
+DUMMY/DIA_SLD_752_OKYL_PERMIT_INFO_11_03.wav|Now scram, I have things to see to.

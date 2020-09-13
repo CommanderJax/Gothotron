@@ -1,0 +1,5 @@
+DUMMY/INFO_THORUS_MORDRAGKO_WHERE_09_01.wav|You'll find him at the south gate on the other side of the castle, just beyond the entrance. The bastard wouldn't dare come any further into the Camp.
+DUMMY/INFO_THORUS_MORDRAGKO_MORDRAGGONE_09_01.wav|I'd have felt happier if you'd killed him.
+DUMMY/INFO_THORUS_BRIBEGUARD_09_03.wav|1000 nuggets should be enough.
+DUMMY/INFO_THORUS_KRAUTBOTE_09_03.wav|Alright! You can go through. Go straight to the Ore Barons' house. Bartholo will meet you there.
+DUMMY/GRD_200_THORUS_AUFNAHME_INFO_09_06.wav|We were a wild bunch when we started out here, but now we're a force to be reckoned with. We've all worked hard to build up this life for ourselves.

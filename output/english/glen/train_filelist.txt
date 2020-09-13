@@ -1,0 +1,4 @@
+DUMMY/VLK_583_GLEN_INFO_INFO_02_02.wav|Beware of the minecrawlers.
+DUMMY/VLK_583_GLEN_INFO_INFO_02_03.wav|The further you get down, the closer you get to the beasts. Those rotten creatures come directly from Beliar's realm!
+DUMMY/VLK_583_GLEN_INFO_INFO_02_05.wav|They're merciless and fast. If you enjoy being alive, you shouldn't be down here. You better go before something happens to you.
+DUMMY/VLK_583_GLEN_LOCKPICK_02_02.wav|Well, since you were brainy enough to find that out, you can have some. 10 ore a piece.

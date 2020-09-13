@@ -1,0 +1,4 @@
+DUMMY/PC_PSIONIC_TRAIN_INFO_05_02.wav|Climbing up this ladder will take you to the templars' training ground. I'll wait for you right here. If you fall behind, I'll be with Baal Namib again, at the entrance to the Camp.
+DUMMY/PC_PSIONIC_SEND_INFO_05_02.wav|Our Brotherhood's planning a really big thing.
+DUMMY/PC_PSIONIC_BROTHERHOOD_TODO_05_04.wav|Go to the temple. He rarely leaves it. Probably he feels closer to the Sleeper in those cold ruins.
+DUMMY/PC_PSIONIC_CHESTCLOSED_INFO_05_02.wav|The chest over there is locked. Maybe we can find the key somewhere in this fort.

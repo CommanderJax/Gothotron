@@ -1,0 +1,23 @@
+DUMMY/DIA_DEXTER_IAMNEW_10_00.wav|Hey, you! I trade in swampweed and potions from the Sect Camp. Do you want something?
+DUMMY/DIA_DEXTER_KRAUT_10_01.wav|New here, are you? You can smoke it. Very relaxing for most of us.
+DUMMY/DIA_DEXTER_TRADE_10_01.wav|I've got the best stuff here...
+DUMMY/DIA_DEXTER_JOINOC_10_02.wav|Good - you can do me a favor. If you do it well, I'll speak up for you in front of Diego.
+DUMMY/DIA_DEXTER_JOINOC_10_04.wav|In the Sect Camp there's a man called Kalom. Quite a big shot - one of the Gurus of the sect.
+DUMMY/DIA_DEXTER_JOINOC_10_05.wav|Kalom is an alchemist. He has the recipe for an effective healing potion.
+DUMMY/DIA_DEXTER_JOINOC_10_06.wav|I'd like to buy the recipe off him, then I can produce it myself.
+DUMMY/DIA_DEXTER_JOINOC_10_07.wav|But nobody can get near Kalom.
+DUMMY/DIA_DEXTER_JOINOC_10_09.wav|The sect loonies are looking for new people all the time. You're new here. Just pretend you want to be recruited.
+DUMMY/DIA_DEXTER_JOINOC_10_10.wav|Kalom is one of the Gurus, that means he checks the new candidates. If you get in touch with him, try to get the recipe.
+DUMMY/DIA_DEXTER_JOINOC_10_11.wav|Whether you want to pay for it or you don't, I don't care.
+DUMMY/DIA_DEXTER_JOINOC_HOWMUCH_10_01.wav|At some point Diego will ask me if you're suitable for us. Just guess what my answer will depend on.
+DUMMY/DIA_DEXTER_JOINOC_ADVANCE_10_01.wav|Forget it.
+DUMMY/DIA_DEXTER_JOINOC_ORENOWORELSE_10_01.wav|There's enough other newcomers, I think I should give the job to one of them...
+DUMMY/DIA_DEXTER_JOINOC_FORGETIT_10_01.wav|Not so fast! I just wanted to know how far you'd go... 50 ore is quite a lot for a newcomer, don't you think?
+DUMMY/DIA_DEXTER_JOINOC_FORGETIT_10_03.wav|Okay, okay, I've just got 50 ore nuggets spare here. Don't let me down, kid!
+DUMMY/DIA_DEXTER_WHEREST_10_01.wav|Leave the Camp through the south exit, then head eastwards. You'd better take a map -.
+DUMMY/DIA_DEXTER_WHEREST_10_02.wav|I've got one here for 50 ore...
+DUMMY/DIA_DEXTER_WHEREST_10_03.wav|Exactly.
+DUMMY/DIA_DEXTER_KALOMSRECIPESUCCESS_10_01.wav|Very good! Show it to me!
+DUMMY/DIA_DEXTER_KALOMSRECIPESUCCESS_10_02.wav|Good! Now I can produce the potions myself.
+DUMMY/DIA_DEXTER_KALOMSRECIPESUCCESS_10_03.wav|You are a good man! I'll tell Diego about it!
+DUMMY/DIA_DEXTER_KALOMSRECIPESUCCESS_10_04.wav|Here you go - take that - for your efforts...

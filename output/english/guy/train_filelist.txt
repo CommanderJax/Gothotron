@@ -1,0 +1,19 @@
+DUMMY/DIA_GUY_HELLO_03_01.wav|Mhm? I haven't seen you before - you are new here, aren't you?
+DUMMY/DIA_GUY_HELLO_03_03.wav|Have you already decided which camp you want to join?
+DUMMY/DIA_GUY_HELLO_03_05.wav|Well, it depends - each camp has its advantages, I guess.
+DUMMY/DIA_GUY_HELLO_03_06.wav|Until you've made your decision, you can stay here - a hut just became available.
+DUMMY/DIA_GUY_ADOC_03_01.wav|If you pay protection money to the guards, you can have a laidback life here. They always interfere if one of the paying diggers is attacked.
+DUMMY/DIA_GUY_ADOC_03_02.wav|Besides, you can only get the goods from the outside world cheap here. These things are unaffordable in the other camps.
+DUMMY/DIA_GUY_ADOC_BACK_03_01.wav|I like it here.
+DUMMY/DIA_GUY_ADOC_WAREZ_03_01.wav|Everything from the outside world. Bread, cheese, bacon and above all beer and wine - not the cheap rice schnapps from the New Camp, but really good stuff.
+DUMMY/DIA_GUY_ADOC_WAREZ_03_02.wav|You always get a good price for weapons, and armor is REALLY expensive.
+DUMMY/DIA_GUY_ADOC_WAREZ_03_03.wav|The guards took the old armor off the prison guards after they killed them.
+DUMMY/DIA_GUY_ADOC_WAREZ_03_04.wav|You can always recognize them by their armor, they only sell it to other guards. You could never get hold of one as an outsider.
+DUMMY/DIA_GUY_ADOC_PROTECTION_03_01.wav|Then the guards just watch - until one of them kills the other: Then they do him in.
+DUMMY/DIA_GUY_ADNC_03_01.wav|If you're cool about getting your throat cut for a slice of bread, you should go there.
+DUMMY/DIA_GUY_ADNC_03_02.wav|No - it's not that bad. But it's different from here.
+DUMMY/DIA_GUY_ADNC_03_04.wav|The only ones powerful enough to have a say there are the water mages, but they're too busy studying the Barrier all day.
+DUMMY/DIA_GUY_ADST_03_01.wav|Well, you better ask somebody from the Sect Camp.
+DUMMY/DIA_GUY_ADST_03_02.wav|There are always a couple of novices in the Camp, and I'm sure they can tell you a lot about the sect.
+DUMMY/DIA_GUY_ADST_03_04.wav|None of the three camps seems to be as much in need of new people as the Sect Camp.
+DUMMY/DIA_GUY_MYOWNHUT_03_01.wav|The hut over there with the little canopy is empty.

@@ -1,0 +1,22 @@
+DUMMY/VLK_585_ALEPH_EXIT_INFO_05_02.wav|Well, you know where to find me.
+DUMMY/VLK_585_ALEPH_CLEVER_INFO_05_01.wav|Hehehe, the guards will never get me!
+DUMMY/VLK_585_ALEPH_GUARDS_INFO_05_02.wav|I only work when the guards are nearby or they can see me. Otherwise I just hang around here.
+DUMMY/VLK_585_ALEPH_GUARDS_INFO_05_04.wav|Yeah, well of course, I dig less ore than all the others do. It's not always enough, so I have to do a bit of trading.
+DUMMY/VLK_585_ALEPH_INFO_INFO_05_02.wav|Thanks. If you go to the main shaft and follow the catwalks further down, you'll soon get to two side caves.
+DUMMY/VLK_585_ALEPH_INFO_INFO_05_03.wav|There's a guard in the second one, and there's also an old masher.
+DUMMY/VLK_585_ALEPH_INFO_INFO_05_04.wav|There's a healing potion lying about somewhere, but be careful and beware of the crawlers!
+DUMMY/VLK_585_ALEPH_INFO_INFO_05_05.wav|And if you need or hear something, come back to me, I'm sure I'll be able to help....
+DUMMY/VLK_585_ALEPH_ANGRY_INFO_05_01.wav|You ran me down with Brandick? Get lost!
+DUMMY/VLK_585_ALEPH_KEY_INFO_05_02.wav|Sure, have you got 10 ore?
+DUMMY/VLK_585_ALEPH_GLEN_INFO_05_02.wav|There's loads of locked chests here. Glen, the digger at the top, can get you a couple of lockpicks.
+DUMMY/VLK_585_ALEPH_SCHUPPEN_INFO_05_02.wav|Well, that depends...
+DUMMY/VLK_585_ALEPH_SCHUPPEN_INFO_05_04.wav|You learn fast.
+DUMMY/VLK_585_ALEPH_SCHUPPEN_50_05_02.wav|Very generous! Here's the key. And take this ring as well. It's always brought good luck to me.
+DUMMY/VLK_585_ALEPH_SCHUPPEN_50_05_03.wav|You don't have that much ore!
+DUMMY/VLK_585_ALEPH_SCHUPPEN_30_05_02.wav|Alright, I happen to have the key here.
+DUMMY/VLK_585_ALEPH_SCHUPPEN_15_05_02.wav|15 ore? I don't know anything about a key!
+DUMMY/VLK_585_ALEPH_DIRTY_INFO_05_02.wav|Well, that depends...
+DUMMY/VLK_585_ALEPH_DIRTY_INFO_05_04.wav|You learn quickly. I want 100 ore.
+DUMMY/VLK_585_ALEPH_DIRTY_100_INFO_05_02.wav|You shouldn't have grassed me up. Here's the key.
+DUMMY/VLK_585_ALEPH_DIRTY_100_INFO_05_03.wav|Do you think I'm stupid or what? 100 ore, and not a nugget less!
+DUMMY/VLK_585_ALEPH_DIRTY_NO_INFO_05_02.wav|Hey, it's you who constantly starts talking to me!

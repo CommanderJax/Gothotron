@@ -6,18 +6,10 @@ import random
 import os
 
 
-# from enum import Enum, unique
-#
-# @unique
-# class Language(Enum):
-#     ENGLISH = 1
-#     POLISH = 2
-#     GERMAN = 3
-
+# ffmpeg -i name.wav -vn -ar 22050 -ac 1 output.wav
 
 class DataCurator(object):
     __metaclass__ = abc.ABCMeta
-    audio_data_path = ''
     ouinfo_data_path = ''  # TODO implement support for SVM audio files
     ouinfo_content = ''
 
@@ -26,9 +18,8 @@ class DataCurator(object):
 
     validation_set_size = 0.05  # the percentage of audio files that will be used to form our validation set, 5% by default
 
-    def __init__(self, ouinfo_path, data_path, validation_set_size=0.05):
+    def __init__(self, ouinfo_path, validation_set_size=0.05):
         self.ouinfo_data_path = ouinfo_path
-        self.data_path = data_path
         self._load_ouinfo()
         self._process_ouinfo()
         self._load_dialogue_character_mapping()
@@ -69,7 +60,6 @@ class EnglishDataCurator(DataCurator):
 
         # We need to do this extra step to cater for the fact that we don't support SVM audio files yet and we've
         # removed some broken/meaningless audio files already in the process_ouinfo function.
-        # uppercase_dialogue_set = set(dialogue.upper() for dialogue in self.dialogue_dict)
         for character, dialogues in self.dialogue_character_mapping.items():
             curated_dialogues = [dialogue for dialogue in dialogues if dialogue in self.dialogue_dict]
             self.dialogue_character_mapping[character] = curated_dialogues
@@ -129,9 +119,8 @@ class EnglishDataCurator(DataCurator):
         WARNING! The results will be different with each execution due to randomness
         TODO certain actors are supplying voices to multiple game NPCs, need to map voice actors to characters and support generating datasets by voice actor
         """
-        self._generate_test_and_validation_dataset("Hero")
-        # Add other characters below...
-        self._generate_test_and_validation_dataset("Diego")
+        for character, dialogues in self.dialogue_character_mapping.items():
+            self._generate_test_and_validation_dataset(character)
 
     def _process_ouinfo(self):
         """

@@ -1,0 +1,24 @@
+DUMMY/DIA_SLD_753_BALORO_INTRO_08_01.wav|Hey, you! What's up?
+DUMMY/DIA_SLD_753_BALORO_WASMEINSTDU_INFO_08_02.wav|You're walking about here as if you were searching for something!
+DUMMY/DIA_SLD_753_BALORO_WASMEINSTDU_INFO_08_04.wav|Great! Ask me! Maybe I can help you!
+DUMMY/DIA_SLD_753_BALORO_WORUMGEHTS_INFO_08_01.wav|What do you need?
+DUMMY/DIA_SLD_753_BALORO_WORUMGEHTS_INFO_08_02.wav|Aw no! That's nothing!
+DUMMY/DIA_SLD_753_BALORO_WORUMGEHTS_INFO_08_03.wav|I can give you something that'll make your eyes pop out of their sockets! I can give you a weapon that will defeat any foe!
+DUMMY/DIA_SLD_753_BALORO_WORUMGEHTS_INFO_08_04.wav|You only need to do me a small favor. Then it'll be yours! What do you say?
+DUMMY/DIA_SLD_753_BALORO_WORUMGEHTS_JA_08_03.wav|Very simple!
+DUMMY/DIA_SLD_753_BALORO_WORUMGEHTS_JA_08_05.wav|Believe me, you won't be sorry. As I just said: You'll really defeat any kind of enemy with it!
+DUMMY/DIA_SLD_753_BALORO_WORUMGEHTS_JA_08_06.wav|Very good! But hurry up!
+DUMMY/DIA_SLD_753_BALORO_HABSNICHTDABEI_INFO_08_01.wav|Okay then! I'll repeat it slowly. Well, I want you to get...
+DUMMY/DIA_SLD_753_BALORO_HABSNICHTDABEI_INFO_08_02.wav|5 apples, 2 bottles of rice schnapps, 5 bottles of beer, 3 loafs of bread, 2 pieces of cheese and 2 bunches of grapes! Did you get it this time?
+DUMMY/DIA_SLD_753_BALORO_HABSDABEI_INFO_08_01.wav|Then show me the stuff first!
+DUMMY/DIA_SLD_753_BALORO_HABSDABEI_INFO_08_02.wav|Yeah, great!
+DUMMY/DIA_SLD_753_BALORO_HABSDABEI_INFO_08_03.wav|Forget it!
+DUMMY/DIA_SLD_753_BALORO_HABSDABEI_INFO_08_04.wav|Did you really think you'd get something for it? I mean, if you're stupid enough to believe that you don't deserve any better!!
+DUMMY/DIA_SLD_753_BALORO_HABSDABEI_INFO_08_05.wav|I'm amazed to see you're still alive! If you believe everything people say, you won't survive long here!
+DUMMY/DIA_SLD_753_BALORO_HABSDABEI_INFO_08_06.wav|Doesn't matter though! Now we boys have enough food for a party! Thanks a lot! And maybe we'll meet you again. He he he!
+DUMMY/DIA_SLD_753_BALORO_LETZTES_WORT_INFO_08_01.wav|What more do you want! Piss off! Get on somebody else's nerves, or you'll get it! Got it?
+DUMMY/DIA_SLD_753_BALORO_SC_WILLS_WISSEN_INFO_08_01.wav|We've had our fun! Now get lost, man!
+DUMMY/DIA_SLD_753_BALORO_SC_WILLS_WISSEN_INFO_08_02.wav|Okay then! You asked for it! You were warned!
+DUMMY/DIA_SLD_753_BALORO_EXIT_INFO_08_02.wav|Well then! As you wish! You've had your chance!
+DUMMY/DIA_SLD_753_BALORO_EXIT_INFO_08_04.wav|Oh, you're busy! I'll see you!
+DUMMY/DIA_SLD_753_BALORO_ANGEBOTDOCHANNEHMEN_INFO_08_01.wav|It's too late now! You've had your chance!

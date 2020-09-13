@@ -1,0 +1,5 @@
+DUMMY/TPL_1433_GORNAVID_HEALTH_INFO_13_04.wav|When fighting crawlers it often costs a lot of blood. If you bring me a healing potion, you can count me in.
+DUMMY/TPL_1433_GORNAVID_IAN_INFO_13_02.wav|There are many caves next to the main shaft in the mine, but we haven't found any nest.
+DUMMY/TPL_1433_GORNAVID_HEALTH_SUC_INFO_13_02.wav|Thanks. You can count on me. We'll meet down below with Ashgan.
+DUMMY/TPL_1433_GORNAVID_VICTORY_INFO_13_02.wav|I thank you in the name of the entire Brotherhood!
+DUMMY/TPL_1433_GORNAVID_VICTORY_INFO_13_03.wav|May the Sleeper continue to hold his protective hand over you!

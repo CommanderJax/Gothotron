@@ -1,0 +1,12 @@
+DUMMY/DIA_ROSCOE_BRINGLIST_10_01.wav|Not bad. How did you get it?
+DUMMY/DIA_ROSCOE_BRINGLIST_10_03.wav|You got a nerve! So they sent you to test me, did they? Thorus must already be going mad, I'm sure.
+DUMMY/DIA_ROSCOE_BRINGLIST_10_05.wav|Diego does what Thorus tells him to. If I know him, he'd die laughing if he knew that you were here.
+DUMMY/DIA_ROSCOE_BRINGLIST_10_07.wav|Just go on in. Lares won't believe his eyes.
+DUMMY/DIA_ROSCOE_MORDRAG_10_01.wav|Mordrag hasn't been seen here for some time. He's probably changed over to the Old Camp.
+DUMMY/DIA_ROSCOE_MORDRAG_10_03.wav|Mordrag's back? If you meet him, tell him Lares wants to see him.
+DUMMY/DIA_ROSCOE_MORDRAG_10_05.wav|What is it?
+DUMMY/DIA_ROSCOE_MORDRAG_10_07.wav|Certainly a precious piece... Okay, you can see him.
+DUMMY/DIA_ROSCOE_WANNAJOIN_10_01.wav|Many people want to join us. You'll have to make a better offer if you want to pass through this gate.
+DUMMY/INFO_ROSCOE_FIRSTWARN_INFO_10_00.wav|Where do you wanna go?
+DUMMY/INFO_ROSCOE_FIRSTWARN_INFO_10_02.wav|Lares is here - but you need a good reason to disturb him.
+DUMMY/INFO_ROSCOE_LASTWARN_10_00.wav|Are you deaf?

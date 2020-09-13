@@ -1,0 +1,28 @@
+DUMMY/DIA_BAALKAGAN_HELLO_13_01.wav|We call it the Brotherhood.
+DUMMY/DIA_BAALKAGAN_WHYHERE_13_01.wav|Originally, I was sent here to convince people to join our Brotherhood.
+DUMMY/DIA_BAALKAGAN_WHYHERE_13_02.wav|But these barbarians are not interested in spiritual enlightenment. Therefore I'm restricted to selling swampweed.
+DUMMY/DIA_BAALKAGAN_WHYHERE_13_03.wav|And that is a popular occupation here. Too popular. I can hardly deliver as much as they want to have.
+DUMMY/DIA_BAALKAGAN_TRADE_13_01.wav|As you wish.
+DUMMY/DIA_BAALKAGAN_ORDERHELP_13_01.wav|Baal Isidro was meant to help me, but he just spends all day in the bar on the lake and trades his weed for rice schnapps.
+DUMMY/DIA_BAALKAGAN_ORDERHELP_13_02.wav|He's addicted to the spirit. I fear I cannot expect any help from him.
+DUMMY/DIA_BAALKAGAN_WANNAHELP_13_02.wav|But you could help me give out gifts.
+DUMMY/DIA_BAALKAGAN_WANNAHELP_13_03.wav|Not everybody has tasted my goods yet. As soon as they've tried the weed, they'll want more, which means I can sell more.
+DUMMY/DIA_BAALKAGAN_WANNAHELP_13_05.wav|Baal Isidro will be taken care of soon. I've already sent a message to Cor Kalom.
+DUMMY/DIA_BAALKAGAN_WASDRIN_13_01.wav|I can reward you in many different ways.
+DUMMY/DIA_BAALKAGAN_WASDRIN_13_02.wav|You can get magic spell scrolls from me, bearing the powerful magic of the Sleeper.
+DUMMY/DIA_BAALKAGAN_WASDRIN_13_03.wav|Or I can help you join our community, if that's what you want. I have very good contacts to Cor Kalom and Baal Tyon.
+DUMMY/DIA_BAALKAGAN_WASDRIN_13_04.wav|Both are very close to Y'Berion, our master.
+DUMMY/DIA_BAALKAGAN_WASDRIN_13_05.wav|I can pay you with plain ore as well if you prefer. 100 nuggets should be enough for your efforts.
+DUMMY/DIA_BAALKAGAN_GIMMEKRAUT_13_01.wav|You're sure to find someone who'll take it. Talk to people. But only give ONE stalk to each person.
+DUMMY/DIA_BAALKAGAN_GIMMEKRAUT_13_02.wav|One more thing: If you let somebody take the weed from you or if you smoke it yourself, our deal ceases to exist.
+DUMMY/DIA_BAALKAGAN_SUCCESS_13_01.wav|The first new customers have already been to see me. You've done a good job.
+DUMMY/DIA_BAALKAGAN_SUCCESS_13_02.wav|What will you have as a reward?
+DUMMY/DIA_BAALKAGAN_NO_SUCCESS_13_00.wav|I haven't seen any new customers yet. Share out some more.
+DUMMY/DIA_BAALKAGAN_SUCCESS_WHATSPELLS_13_01.wav|Fist of Wind, Charm, Telekinesis, Pyrokinesis and Sleep. You may pick three of these spells.
+DUMMY/DIA_BAALKAGAN_SUCCESS_JOIN_13_01.wav|Your request is modest. I'll help you, so listen to me. Baal Tyon is one of the lower Gurus - just like myself.
+DUMMY/DIA_BAALKAGAN_SUCCESS_JOIN_13_02.wav|Y'Berion has made him one of his advisors. That has not done him any good.
+DUMMY/DIA_BAALKAGAN_SUCCESS_JOIN_13_03.wav|He now thinks he's so important that he'll talk to nobody but his disciples.
+DUMMY/DIA_BAALKAGAN_SUCCESS_JOIN_13_04.wav|If you give him this here, it'll loosen his tongue.
+DUMMY/DIA_BAALKAGAN_SUCCESS_ERZ_13_01.wav|Very well. Here.
+DUMMY/DIA_BAALKAGAN_SUCCESS_TAKESCROLLS_13_01.wav|A good decision. Pick three.
+DUMMY/DIA_BAALKAGAN_SUCCESS_TAKESCROLLS_DREI_13_00.wav|That was three. Use them wisely.

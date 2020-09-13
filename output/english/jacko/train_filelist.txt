@@ -1,0 +1,8 @@
+DUMMY/ORG_862_JACKO_GUARD_INFO_06_00.wav|Lost our way, have we?
+DUMMY/ORG_862_JACKO_GUARD_INFO_06_02.wav|What? Why are you here?
+DUMMY/ORG_862_JACKO_GUARD_TEMPLER_INFO_06_01.wav|What? You can't be serious!
+DUMMY/ORG_862_JACKO_GUARD_TEMPLER_INFO_06_03.wav|Damn it! We have to leave!
+DUMMY/ORG_862_JACKO_GUARD_INFOWERT_INFO_06_01.wav|Oh, that's what you want... Alright. You scratch my back and I'll scratch yours. Here, this is all the ore I have on me.
+DUMMY/ORG_862_JACKO_GUARD_INFOWERT_INFO_06_02.wav|We have to go! And you'd better disappear as well.
+DUMMY/ORG_862_JACKO_GUARD_ANGRIFF_INFO_06_01.wav|Guys! Just come over here for a minute!
+DUMMY/ORG_862_JACKO_BANDITENCAMP_06_01.wav|It was a close shave. The sect templars would have killed us.

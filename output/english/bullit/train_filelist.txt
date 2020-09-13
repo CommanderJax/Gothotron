@@ -1,0 +1,3 @@
+DUMMY/DIA_BULLIT_FIRST_06_00.wav|Who have we here? Ain't you the guy I baptized earlier? What do you want? You come back for more?
+DUMMY/DIA_GRD_203_BULLIT_WAIT4SC_06_01.wav|You again?! I should have drowned you in the lake the moment I set eyes on you!
+DUMMY/DIA_GRD_203_BULLIT_WAIT4SC_06_03.wav|You worm! I only hope you don't make it as easy for me as you did the first time!

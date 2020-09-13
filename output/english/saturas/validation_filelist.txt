@@ -1,0 +1,8 @@
+DUMMY/INFO_SATURAS_NEWS_14_02.wav|If Cronos gave you permission to visit me, it must be important news indeed!
+DUMMY/INFO_SATURAS_FOCUS_14_06.wav|True, but in all these years we have untiringly collected ore instead of trading it for luxuries with our jailers.
+DUMMY/INFO_SATURAS_ACCEPT_14_04.wav|Just one...
+DUMMY/INFO_SATURAS_MURDER_14_02.wav|HAD THEM KILLED??? Why in Beliar's name would he do a thing like that?
+DUMMY/INFO_SATURAS_MURDER_14_04.wav|Then we're all doomed. Without the other six magicians, we'll never be able to control the concentrated power of the massive ore mound.
+DUMMY/KDW_600_SATURAS_KREIS1_INFO_14_06.wav|Every rune is a source of magic power which you can fall back on anytime.
+DUMMY/KDW_600_SATURAS_KREIS5_INFO_14_06.wav|Expose your limits, then you'll recognize your true power.
+DUMMY/KDW_600_SATURAS_TIMESUP_INFO_14_00.wav|Have you spoken to Xardas?

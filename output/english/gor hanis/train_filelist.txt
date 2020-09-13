@@ -1,0 +1,12 @@
+DUMMY/INFO_GORHANIS_WHAT_08_01.wav|Me? I'm fighting for the glory of the Sleeper!
+DUMMY/INFO_GORHANIS_ARENA_08_01.wav|I was sent here from the swamp by my masters to fight for the Sleeper.
+DUMMY/INFO_GORHANIS_ARENA_08_02.wav|I'll fight here for his higher glory - so all infidels can see how strong his power has made me!
+DUMMY/INFO_GORHANIS_SLEEPER_08_01.wav|You will find priests who'll be able to answer that question better than I can in our camp.
+DUMMY/INFO_GORHANIS_SLEEPER_08_02.wav|I'll just tell you this much: The Sleeper is our redeemer, he has led us to this place and he'll get us out of here.
+DUMMY/INFO_GORHANIS_SUMMONING_08_01.wav|Our prophets say that the common invocation of the Sleeper is the key to freedom!
+DUMMY/INFO_GORHANIS_SUMMONING_08_02.wav|If you want to find out more about it, just come to our camp.
+DUMMY/INFO_GORHANIS_WAYTOST_08_01.wav|There are always some novices around here in the Old Camp, willing to accompany newcomers like you to our camp. You only need to speak to them!
+DUMMY/INFO_GORHANIS_CHARGE_08_01.wav|It will not serve the glory of the Sleeper if I slaughter just any bum in front of the audience.
+DUMMY/INFO_GORHANIS_CHARGE_08_02.wav|I'll only fight against you when you've become a worthy opponent.
+DUMMY/INFO_GORHANIS_CHARGE_08_03.wav|But I'm sure that the fighters from the Old or New Camp aren't all men of principle….
+DUMMY/INFO_GORHANIS_CHARGEGOOD_08_01.wav|No! Your strength is insufficient - you're no opponent for me!

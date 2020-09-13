@@ -1,0 +1,24 @@
+DUMMY/DIA_SCORPIO_HELLO_13_00.wav|Who let YOU in?
+DUMMY/DIA_SCORPIO_HELLO_13_02.wav|And what do you think you're doing?
+DUMMY/DIA_SCORPIO_HELLO_JUSTLOOKING_13_01.wav|Very funny.
+DUMMY/DIA_SCORPIO_HELLO_KRAUT_13_01.wav|Then take it to the house with the two guards outside the door.
+DUMMY/DIA_SCORPIO_HELLO_JOIN_13_01.wav|You? What have you ever done for us?
+DUMMY/DIA_SCORPIO_HELLO_JOIN_13_03.wav|None of us in here wants to hear anything about Shadows. WE have the say in here.
+DUMMY/DIA_SCORPIO_REFUSETRAIN_13_01.wav|I only train guards. So until Thorus has made you one, you'll have to find someone else.
+DUMMY/GRD_205_SCORPIO_WELCOME_INFO_13_01.wav|Joining us was the best choice you ever made!
+DUMMY/GRD_205_SCORPIO_CROSSBOW_INFO_13_02.wav|If you have enough ore, I'll teach you how to use a crossbow. Just pay me 200 ore.
+DUMMY/GRD_205_SCORPIO_CROSSBOW_OK_13_02.wav|Okay, let's get started.
+DUMMY/GRD_205_SCORPIO_CROSSBOW_OK_13_03.wav|Grab hold of the shaft, and hold it close against your shoulder. That'll steady your aim.
+DUMMY/GRD_205_SCORPIO_CROSSBOW_OK_13_04.wav|Your shoulder's gonna feel like it's liable to fall off during the first few days.
+DUMMY/GRD_205_SCORPIO_CROSSBOW_OK_13_05.wav|But after just one week, you'll have a shoulder like a rock!
+DUMMY/GRD_205_SCORPIO_CROSSBOW_OK_13_06.wav|Aim right at your target and pull the bolt right back. There's more force behind a bolt than there is behind an arrow from a longbow, so it's going to cause more damage!
+DUMMY/GRD_205_SCORPIO_CROSSBOW_OK_13_07.wav|TWO HUNDRED ORE, right here, in my hand. If you don't have enough ore, then get some!
+DUMMY/GRD_205_SCORPIO_CROSSBOW2_OK_13_02.wav|Right. Your shots'll be more accurate and straight if you bend your knees when firing.
+DUMMY/GRD_205_SCORPIO_CROSSBOW2_OK_13_03.wav|You'll have to learn to judge what speed your target's moving at.
+DUMMY/GRD_205_SCORPIO_CROSSBOW2_OK_13_04.wav|Fire your bolt into the moving target's path to hit it and slow it down.
+DUMMY/GRD_205_SCORPIO_CROSSBOW2_OK_13_05.wav|If there's more than one target, don't waste any time. Nail 'em all down one after the other with calculated shots.
+DUMMY/GRD_205_SCORPIO_CROSSBOW2_OK_13_06.wav|That's it, I've taught you all I know.
+DUMMY/GRD_205_SCORPIO_CROSSBOW2_OK_13_07.wav|See if you can get THREE HUNDRED ore from somewhere.
+DUMMY/GRD_205_SCORPIO_HEYPC_INFO_13_01.wav|Hey, no sweat, man. Come over here!
+DUMMY/GRD_205_SCORPIO_BANISHED_INFO_13_02.wav|I'm hiding away here. I don't care for the trash those guards are pulling off.
+DUMMY/GRD_205_SCORPIO_BANISHED_INFO_13_03.wav|But I've taken some pretty good stuff from the arsenal. If you need a weapon, just let me know.

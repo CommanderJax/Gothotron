@@ -1,0 +1,7 @@
+DUMMY/DIA_MILTEN_COMESBACK_02_00.wav|Corristo was not very pleased to see that you have so little faith in the servants of Innos.
+DUMMY/INFO_MILTEN_SHWAIT_02_04.wav|Ah, yes. Always modest, aren't you?
+DUMMY/INFO_MILTEN_SHFOCUS_02_04.wav|No. I'm not interested in the focus stone. I'm looking for an Orcish talisman.
+DUMMY/INFO_MILTEN_SHOFFER2_02_07.wav|I went down there once, and I was nearly killed. One man on his own cannot do much there.
+DUMMY/INFO_MILTEN_SHSCROLL_02_02.wav|This is a catastrophe! Then you will have to find another way to defeat him!
+DUMMY/INFO_MILTEN_OCWARN_02_13.wav|The guards blocked the entrance to the mine.
+DUMMY/INFO_MILTEN_LSRISK_02_06.wav|Alright! After all you have done for us, I trust you completely.

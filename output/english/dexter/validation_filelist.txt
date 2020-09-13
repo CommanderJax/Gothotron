@@ -1,0 +1,2 @@
+DUMMY/DIA_DEXTER_JOINOC_10_01.wav|Oh? You're looking for a chance to prove your worth?
+DUMMY/DIA_DEXTER_JOINOC_THREAT_10_01.wav|Well then! We can talk about the ore as soon as you have the recipe.

@@ -1,0 +1,10 @@
+DUMMY/VLK_586_GRIMES_EXIT_INFO_04_02.wav|Same to you, boy, same to you.
+DUMMY/VLK_586_GRIMES_STORY_INFO_04_02.wav|I've already been here 10 years. Believe me, I've learned and experienced quite a lot here.
+DUMMY/VLK_586_GRIMES_STORY_INFO_04_03.wav|I've encountered many dangers and managed to stay alive.
+DUMMY/VLK_586_GRIMES_STORY_INFO_04_04.wav|In the old times, when we worked in the abandoned mine, the one which is deserted now, and the supporting beams collapsed...
+DUMMY/VLK_586_GRIMES_STORY_INFO_04_05.wav|But that's old stories...
+DUMMY/VLK_586_GRIMES_KNOW_INFO_04_03.wav|You better forget the thought of escape. I saw the faces of those who tried to get out of the Barrier.
+DUMMY/VLK_586_GRIMES_KNOW_INFO_04_04.wav|Don't make the same mistake, the Barrier will stop everybody.
+DUMMY/VLK_586_GRIMES_KNOW_INFO_04_06.wav|No, you won't. Perhaps you'll be one of the real big shots, who knows.
+DUMMY/VLK_586_GRIMES_KNOW_INFO_04_07.wav|You'll work your way up, but no matter how far you'll get, the Barrier will finally stop you.
+DUMMY/VLK_586_GRIMES_FIRST_INFO_04_02.wav|A new face. Have you ever dug ore, boy?

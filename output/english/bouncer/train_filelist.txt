@@ -1,0 +1,17 @@
+DUMMY/DIA_ORG_875_PERM_13_01.wav|We don't mind the sect brothers either.
+DUMMY/DIA_ORG_875_PERM_13_02.wav|But apart from that, nobody gets in here.
+DUMMY/DIA_ORG_876_AMSFB_06_01.wav|You look like one of those filthy rats. Come on in!
+DUMMY/DIA_ORG_876_AMSFB_NOSFB_06_00.wav|You don't look like no scraper. You won't get in here like that, boy.
+DUMMY/DIA_ORG_876_BRIBE_06_01.wav|How much ore exactly is 'some'?
+DUMMY/DIA_ORG_876_BRIBE_10ERZ_06_01.wav|10 Ore? For that I'll allow you to try again.
+DUMMY/DIA_ORG_876_BRIBE_10ERZ_06_02.wav|Where? I can't see 10 ore.
+DUMMY/DIA_ORG_876_BRIBE_50ERZ_06_01.wav|That's about half of what I'd call 'some ore'.
+DUMMY/DIA_ORG_876_BRIBE_50ERZ_06_02.wav|Where? I can't see 50 ore.
+DUMMY/DIA_ORG_876_BRIBE_100ERZ_06_01.wav|Truly spoken - you can get in.
+DUMMY/DIA_ORG_876_BRIBE_100ERZ_06_02.wav|That's true. But I don't see that you have that much.
+DUMMY/DIA_ORG_876_PERM_06_01.wav|Go in and ask Silas. WE can't complain.
+DUMMY/DIA_ORG_876_SCSLD_06_00.wav|Stop! You know the rules. Scrapers and rogues only!
+DUMMY/DIA_ORG_876_SCSLD_06_02.wav|No... just go...
+DUMMY/DIA_ORG_876_SCSEKTE_06_00.wav|We usually let only our boys in but there's nothing to be said against the Brotherhood.
+DUMMY/DIA_ORG_876_SCSEKTE_06_01.wav|Especially not when they have something to smoke on them.
+DUMMY/DIA_ORG_876_GIBKRAUT_KEIN_06_00.wav|Great. Think of me the next time.

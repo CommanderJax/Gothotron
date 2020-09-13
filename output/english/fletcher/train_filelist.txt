@@ -1,0 +1,33 @@
+DUMMY/DIA_FLETCHER_FIRST_06_00.wav|Hey, you!
+DUMMY/DIA_FLETCHER_FIRST_06_02.wav|You know who I mean, sonny!
+DUMMY/DIA_FLETCHER_FIRST_06_03.wav|Let me tell you something: This is MY district. And I don't want any trouble!
+DUMMY/DIA_FLETCHER_FIRST_06_04.wav|But new guys like you are always trouble. Especially when they sneak around the place at night.
+DUMMY/DIA_FLETCHER_FIRST_06_05.wav|So why don't you go home and make sure I don't see you here again? There's an empty hut opposite the arena, the one with the canopy. Get some sleep.
+DUMMY/DIA_FLETCHER_FIRST_06_06.wav|And if I catch you in one of the other huts, I shall personally see to it that you live to regret it.
+DUMMY/DIA_FLETCHER_HELLO_06_01.wav|If you want to get rid of your protection money - you've picked the wrong day.
+DUMMY/DIA_FLETCHER_HELLO_06_03.wav|Cos I'm not here.
+DUMMY/DIA_FLETCHER_HELLO_WHEREELSE_06_01.wav|I'm actually at the castle, sitting by the big camp fire, drinking a mug of beer.
+DUMMY/DIA_FLETCHER_HELLO_WHYTALK_06_01.wav|Nek's vanished. This district is usually his responsibility.
+DUMMY/DIA_FLETCHER_HELLO_WHYTALK_06_02.wav|And until he reappears, Thorus has ordered ME to guard it.
+DUMMY/DIA_FLETCHER_WONEK_06_01.wav|No, and I'm not likely to find out.
+DUMMY/DIA_FLETCHER_WONEK_06_02.wav|If anything, the diggers in this district might know something. But diggers don't talk to guards.
+DUMMY/DIA_FLETCHER_WONEK_06_03.wav|Especially not now they know I hate this filthy work. I bet they're laughing behind my back!
+DUMMY/DIA_FLETCHER_TROSCHU_06_01.wav|Nek did his rounds before he disappeared. There's not much left to collect now.
+DUMMY/DIA_FLETCHER_WEGENNEK_06_01.wav|Yeah?
+DUMMY/DIA_FLETCHER_WEGENNEK_06_05.wav|Oh no! Damn it! That means I have to run the show here now. I was hoping he'd be coming back.
+DUMMY/DIA_FLETCHER_WEGENNEK_06_06.wav|Now I have a problem.
+DUMMY/DIA_FLETCHER_WEGENNEK_06_08.wav|Keep me posted.
+DUMMY/DIA_FLETCHER_PROBLEM_06_01.wav|I'm in debt to Scatty, right up to my neck. Now he knows I'm doing Nek's job, he'll be coming round every day...
+DUMMY/GRD_255_FLETCHER_WELCOME_INFO_06_01.wav|You have got used to our ways pretty fast. Welcome to the Guards!
+DUMMY/INFO_FLETCHER_DIE_06_01.wav|Traitor! To think we let a thing like you join the Guards. BAH!
+DUMMY/INFO_FLETCHER_DIE_06_02.wav|It's one of those traitorous fire mages! BAH!
+DUMMY/INFO_FLETCHER_DIE_06_03.wav|Hi, traitor! The fact that you used to be one of Gomez' Shadows won't help you now!
+DUMMY/INFO_FLETCHER_DIE_06_05.wav|You're in with that New Camp scum, aren't you?
+DUMMY/INFO_FLETCHER_DIE_06_07.wav|I guess you must've thought we wouldn't figure it out, huh?
+DUMMY/INFO_FLETCHER_DIE_06_09.wav|No, YOU hold on - hold on to your head. 'Cos you're going to be missing it soon.
+DUMMY/INFO_FLETCHER_DIE_06_10.wav|DIE, TRAITOR!!!
+DUMMY/INFO_FLETCHER_DIE_06_11.wav|Look at that. It's a guy from the New Camp!
+DUMMY/INFO_FLETCHER_DIE_06_12.wav|Look at that. It's a guy from the swamp camp!
+DUMMY/INFO_FLETCHER_DIE_06_14.wav|Your mine's gonna be ours soon.
+DUMMY/INFO_FLETCHER_DIE_06_16.wav|Sorry, but I can't risk you telling anyone about it!
+DUMMY/INFO_FLETCHER_DIE_06_18.wav|You should have thought of that before you showed your face here!

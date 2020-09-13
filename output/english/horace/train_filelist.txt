@@ -1,0 +1,24 @@
+DUMMY/INFO_HORATIO_WASSER_09_01.wav|Thanks, man! I was just about to start drinking the mud.
+DUMMY/INFO_HORATIO_WASSER_NOWATER_09_00.wav|You've run out. I'll get some from the others.
+DUMMY/DIA_HORATIO_HELLO_09_00.wav|What are you doing here? You looking for trouble?
+DUMMY/DIA_HORATIO_HELLO_BECOOL_09_01.wav|Huh... You look okay though. You never know. You get new guys come along thinking they're it every day.
+DUMMY/DIA_HORATIO_HELLO_PISSOFF_09_01.wav|Just because I work in the fields, doesn't mean I can't defend myself against guys like you.
+DUMMY/DIA_HORATIO_HELLO_PISSOFF_09_02.wav|So come here if you want trouble!
+DUMMY/DIA_HORATIO_SORRY_09_01.wav|You should have thought of that before, boy!
+DUMMY/DIA_HORATIO_STORY_09_01.wav|Lee asked me that. I don't fight any more - except to defend myself.
+DUMMY/DIA_HORATIO_STORY_09_04.wav|It was just an ordinary bar fight. I didn't mean to kill the guy, I just must have hit him too hard.
+DUMMY/DIA_HORATIO_STORY_09_05.wav|I was a blacksmith at the time. I didn't know my own strength...
+DUMMY/DIA_HORATIO_WHYHERE_09_01.wav|I'll tell you: My only option was to join those sect loonies, and I didn't wanna let those Gurus of theirs mess about with my brain.
+DUMMY/DIA_HORATIO_WHYHERE_09_02.wav|In the Old Camp, I'd have had too much trouble with the guards, but the mercenaries and rogues do have some respect.
+DUMMY/DIA_HORATIO_WHYHERE_09_04.wav|Maybe. Anyway, I've found peace here, and you should try the same.
+DUMMY/DIA_HORATIO_PLEASETEACHSTR_09_01.wav|Even if I could - WHAT would you use your strength for?
+DUMMY/DIA_HORATIO_PLEASETEACHSTR_ATTACK_09_01.wav|And before you knew it, you'd become another of those bastards yourself... No, sir, I'm not training you for that.
+DUMMY/DIA_HORATIO_PLEASETEACHSTR_DEFEND_09_01.wav|That takes speed, not strength. D'you think cracking skulls is better than finding peace?
+DUMMY/DIA_HORATIO_PLEASETEACHSTR_RICELORD_09_01.wav|Hmm... You wouldn't be the first to try that.
+DUMMY/DIA_HORATIO_THOUGHTSTR_NOIDEA_09_01.wav|I thought so.
+DUMMY/DIA_HORATIO_THOUGHTSTR_RICELORD_09_01.wav|Hmm... You wouldn't be the first to try.
+DUMMY/DIA_HORATIO_HELPSTR_LEARN_NOW_09_00.wav|If you want to hit powerfully, you need to know the right tactics. That's the first thing you learn as a smith.
+DUMMY/DIA_HORATIO_HELPSTR_LEARN_NOW_09_01.wav|Learn to push your whole arm through, from the shoulder down to the wrist.
+DUMMY/DIA_HORATIO_HELPSTR_LEARN_NOW_09_02.wav|The better you get at that, the more powerful the blow. You'll get the hang of it pretty quick.
+DUMMY/DIA_HORATIO_HELPSTR_09_01.wav|Good! I've sworn I'll never attack anyone again, but I never said I wouldn't teach anyone else to do it.
+DUMMY/DIA_HORATIO_THANKS_09_01.wav|Use your knowledge for a just cause, and for NOTHING ELSE.

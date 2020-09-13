@@ -1,0 +1,3 @@
+DUMMY/INFO_FREEMINEORC_SEARCHPOTION_17_02.wav|Stranger seek more! Medicine be here!
+DUMMY/INFO_FREEMINEORC_GIVEPOTION_17_03.wav|Tarrok owe thanks!
+DUMMY/INFO_FREEMINEORC_SWAMPSHARK2_17_02.wav|Many swampsharks in camp of humans. Camp in swamp, of course!

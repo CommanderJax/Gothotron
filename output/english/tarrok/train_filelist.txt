@@ -1,0 +1,38 @@
+DUMMY/INFO_FREEMINEORC_EXIT_17_02.wav|Stranger come again!
+DUMMY/INFO_FREEMINEORC_EXIT_17_04.wav|Stranger have good journey!
+DUMMY/INFO_FREEMINEORC_INTRO_17_01.wav|Tarrok need help! Tarrok hurt!
+DUMMY/INFO_FREEMINEORC_WASPASSIERT_17_02.wav|Tarrok here captured by blue soldiers. Suddenly red soldiers everywhere.
+DUMMY/INFO_FREEMINEORC_WASPASSIERT_17_03.wav|Red soldiers kill everything.
+DUMMY/INFO_FREEMINEORC_WASPASSIERT_17_04.wav|Tarrok flee here. Red soldiers no go here. Red soldiers fear GACH LUG.
+DUMMY/INFO_FREEMINEORC_WASPASSIERT_17_05.wav|Please help, Tarrok hurt.
+DUMMY/INFO_FREEMINEORC_WASTUN_17_02.wav|Tarrok need strong medicine. Tarrok else die.
+DUMMY/INFO_FREEMINEORC_WASTUN_17_04.wav|GACH LUG poison Tarrok. Tarrok need medicine!
+DUMMY/INFO_FREEMINEORC_WASTUN_17_05.wav|Tarrok have medicine, but Tarrok lost. Tarrok no find!
+DUMMY/INFO_FREEMINEORC_OFFER_17_02.wav|Tarrok very weak. Stranger hurry, else Tarrok die!
+DUMMY/INFO_FREEMINEORC_CRAWLER_17_02.wav|Be big animals, walk on many legs.
+DUMMY/INFO_FREEMINEORC_CRAWLER_17_03.wav|GACH LUG dangerous! Eat Orcs and humans!
+DUMMY/INFO_FREEMINEORC_TONGUE_17_02.wav|Tarrok slave of humans long time. Tarrok listen good.
+DUMMY/INFO_FREEMINEORC_SEARCHPOTION_17_03.wav|Tarrok flee GACH LUG! Tarrok hide when flee!
+DUMMY/INFO_FREEMINEORC_SEARCHPOTION_17_04.wav|Stranger search niches too!
+DUMMY/INFO_FREEMINEORC_SUCHEULUMULU_17_02.wav|Ur-Shak be slave, like Tarrok. Ur-Shak run away! Be gone many winters ago!
+DUMMY/INFO_FREEMINEORC_SUCHEULUMULU_17_04.wav|You help me, so I help you!
+DUMMY/INFO_FREEMINEORC_SUCHEULUMULU_17_05.wav|Tarrok very weak. No medicine, Tarrok die.
+DUMMY/INFO_FREEMINEORC_SUCHEULUMULU_17_06.wav|Stranger bring medicine, then Tarrok help!
+DUMMY/INFO_FREEMINEORC_GIVEPOTION_17_02.wav|Stranger no bad like other people! Stranger good!
+DUMMY/INFO_FREEMINEORC_GIVEPOTION_17_05.wav|Stranger help Tarrok, so Tarrok help stranger too!
+DUMMY/INFO_FREEMINEORC_GIVEPOTION_17_06.wav|Stranger need KROTAHK, KHAZ-TAK, DWACHKARR and ORTH-ANTAK.
+DUMMY/INFO_FREEMINEORC_GIVEPOTION_17_07.wav|Stranger bring, then Tarrok make Ulu-Mulu!
+DUMMY/INFO_FREEMINEORC_FIREWARAN_17_02.wav|Be tongue of fire! Be tongue of fire lizard!
+DUMMY/INFO_FREEMINEORC_FIREWARAN2_17_02.wav|Fire lizard live home. Home of Tarrok. Stranger need search!
+DUMMY/INFO_FREEMINEORC_FIREWARAN2_17_03.wav|Also find fire lizard on sand near sea.
+DUMMY/INFO_FREEMINEORC_SHADOWBEAST_INFO_17_02.wav|Be horn of shadowbeast. Horn sharp as knife and hard as stone.
+DUMMY/INFO_FREEMINEORC_SHADOWBEAST2_INFO_17_02.wav|Live in forest or cave. No like light.
+DUMMY/INFO_FREEMINEORC_SHADOWBEAST2_INFO_17_03.wav|Be very dangerous. Stranger watch out!
+DUMMY/INFO_FREEMINEORC_SWAMPSHARK_17_02.wav|Be teeth of swampshark. If teeth bite, victim never escape.
+DUMMY/INFO_FREEMINEORC_TROLL_17_02.wav|Be tooth of big troll! Make big hole in prey!
+DUMMY/INFO_FREEMINEORC_TROLL2_17_02.wav|Troll live in mountain! Troll love much space!
+DUMMY/INFO_FREEMINEORC_TROLL2_17_03.wav|Stranger go seek in north mountain! But beware of troll fist!
+DUMMY/INFO_FREEMINEORC_TROLL2_17_04.wav|If fist strike, then stranger fall off mountain!
+DUMMY/INFO_FREEMINEORC_LOOKINGULUMULU_17_02.wav|Stranger seek on. Tarrok wait here!
+DUMMY/INFO_FREEMINEORC_EVERYULUMULU_17_02.wav|Stranger strong warrior be! Give items! Tarrok make ULU-MULU!
+DUMMY/INFO_FREEMINEORC_EVERYULUMULU_17_03.wav|Here! Stranger wear ULU-MULU and proud! Tarrok sleep now!

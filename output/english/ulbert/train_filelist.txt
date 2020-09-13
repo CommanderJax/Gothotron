@@ -1,0 +1,6 @@
+DUMMY/GRD_271_ULBERT_KEY_INFO_07_02.wav|That's none of your business.
+DUMMY/GRD_271_ULBERT_TRICK_INFO_07_02.wav|You bet! Man, I could use a good swig now. Got anything on you?
+DUMMY/GRD_271_ULBERT_DRINK_INFO_07_02.wav|Thanks.
+DUMMY/GRD_271_ULBERT_DRUNK_INFO_07_02.wav|Some chests that we store supplies in. The key has disappeared though.
+DUMMY/GRD_271_ULBERT_DRUNK_INFO_07_04.wav|I bet Aleph was involved. That guy can't be trusted.
+DUMMY/GRD_271_ULBERT_ANGRY_INFO_07_01.wav|Hey you, there was no grilled meat at all!

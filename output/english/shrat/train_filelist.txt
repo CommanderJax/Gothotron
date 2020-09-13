@@ -1,0 +1,8 @@
+DUMMY/DIA_SHRAT_WHYHERE_02_01.wav|Did I give you permission to speak to me?
+DUMMY/DIA_SHRAT_WHYHERE_02_02.wav|Only joking! Those damned loonies are getting on my nerves, that's why I'm here!
+DUMMY/DIA_SHRAT_WHYHERE_02_03.wav|Don't speak to me!' - 'Pray for forgiveness by the Sleeper!' - 'Your mission is of extraordinary importance!'.
+DUMMY/DIA_SHRAT_WHYHERE_02_04.wav|It's enough to drive a man out of his mind - no wonder they're all crazed round here.
+DUMMY/DIA_SHRAT_WHYHERE_02_05.wav|I'm Shrat, novice of the first rank - and that's who I'll always remain!
+DUMMY/DIA_SHRAT_JOINPSI_02_02.wav|We could roam the colony. Relieve a few numskulls of their money, collect some ore - what do you think?
+DUMMY/DIA_SHRAT_COMEWITHME_02_01.wav|Now that's what I like to hear! Let's go!
+DUMMY/DIA_SHRAT_LEAVEME_02_01.wav|Okay. I'll get back to my hiding place in the swamp. Take care of yourself!

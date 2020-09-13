@@ -1,0 +1,14 @@
+DUMMY/INFO_RIORDIAN_NEWS_14_03.wav|Here, take these potions, they're potions of all kinds.
+DUMMY/INFO_RIORDIAN_NEWS_14_04.wav|Now go and bring us the focus stones. These artefacts are our only hope.
+DUMMY/INFO_RIORDIAN_REWARD_14_02.wav|Ahhhh, come here, come here.
+DUMMY/INFO_RIORDIAN_REWARD_14_03.wav|Our spiritual leader has told me about your heroic deeds.
+DUMMY/INFO_RIORDIAN_REWARD_14_04.wav|All the people in the Camp - no, the whole colony -are deeply indebted to you.
+DUMMY/INFO_RIORDIAN_REWARD_14_05.wav|Take this as a modest reward for all your efforts.
+DUMMY/INFO_RIORDIAN_MESSAGE_14_01.wav|I'm glad you've come! I've been expecting you!
+DUMMY/INFO_RIORDIAN_MESSAGEWHY_14_02.wav|Gorn asked me to send you to him as soon as you arrived!
+DUMMY/INFO_RIORDIAN_MESSAGEWHY_14_04.wav|He has a plan to free the occupied mine.
+DUMMY/INFO_RIORDIAN_MESSAGEWHY_14_06.wav|Yes! Please see him as soon as possible!
+DUMMY/KDW_605_RIORDIAN_WELCOME_INFO_14_01.wav|I'm glad you've joined us.
+DUMMY/KDW_605_RIORDIAN_HEAL_INFO_14_01.wav|If you're injured, I will heal you.
+DUMMY/KDW_605_RIORDIAN_HEALINFO_INFO_14_02.wav|Through my words I call upon the powers of healing, your body and spirit shall be well!
+DUMMY/KDW_605_RIORDIAN_GREET_INFO_14_02.wav|I am Riordian, the alchemist. I gather you want a potion?

@@ -1,0 +1,7 @@
+DUMMY/DIA_GRAHAM_HELLO_02_01.wav|I'm Graham. I draw maps. I haven't seen you here before... What do you want?
+DUMMY/DIA_GRAHAM_SELLMAP_02_01.wav|No problem. For you... only 20 ore.
+DUMMY/DIA_GRAHAM_SELLMAP_PAY_NOORE_02_00.wav|Go and get some ore first. Hunt animals or collect mushrooms - you can sell the stuff here in the Camp.
+DUMMY/DIA_GRAHAM_SELLMAP_AUFSMAUL_02_01.wav|Hey, be cool, man. I don't want trouble. Here, take the map and leave me alone!
+DUMMY/DIA_GRAHAM_SELLMAP_GIVENOTSELL_02_01.wav|But I'm not interested! Have you any idea how difficult it is to make a map like this?
+DUMMY/DIA_GRAHAM_SELLMAP_GIVENOTSELL_02_02.wav|20 is my special price for friends of Diego. Usually I take 50.
+DUMMY/DIA_GRAHAM_BUYMAPS_02_01.wav|Sure... What are you thinking of? The more you can see on a map, the more expensive it is..

@@ -1,0 +1,4 @@
+DUMMY/DIA_ORG_833_BUSTER3_02_01.wav|I can show you how to control your body. It's the art of ACROBATICS.
+DUMMY/DIA_ORG_833_BUSTER3_02_02.wav|As soon as you've gained control of your body, you'll be able to jump much further.
+DUMMY/DIA_ORG_833_BUSTER3_02_03.wav|You'll learn how to roll off and what's the best way to land when falling. But don't forget, you're not immortal!
+DUMMY/DIA_ORG_833_BUSTER3_02_04.wav|Acrobatics can also be very useful during a battle. You'll be able to change the distance between you and your foe very quickly. Good luck!

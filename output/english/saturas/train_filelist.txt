@@ -1,0 +1,144 @@
+DUMMY/INFO_SATURAS_INTRUDER_14_00.wav|What are you doing here? You've no business here! Scram!
+DUMMY/INFO_SATURAS_EXIT_14_01.wav|May you return in one piece!
+DUMMY/INFO_SATURAS_YBERION_14_02.wav|Y'Berion dead? That's bad news, very bad news indeed!
+DUMMY/INFO_SATURAS_YBERION_14_03.wav|Who's leading the Brotherhood now? That power-hungry and deceitful Cor Kalom?
+DUMMY/INFO_SATURAS_YBERION_14_05.wav|Why is that? He was in second place after Y'Berion!
+DUMMY/INFO_SATURAS_YBERION_14_09.wav|I see! Well, at least we are lucky in this regard. Cor Angar is a good man. He's tough, but honest.
+DUMMY/INFO_SATURAS_YBERION_14_10.wav|If anybody could prevent the Brotherhood from falling apart after this spiritual catastrophe, he can.
+DUMMY/INFO_SATURAS_BOOK_14_03.wav|Very good. We need the knowledge contained in this book to charge the five original focus stones.
+DUMMY/INFO_SATURAS_BOOK_14_04.wav|I'll take the almanac!
+DUMMY/INFO_SATURAS_FOCUS_14_02.wav|You're holding the key that can unlock all our bonds.
+DUMMY/INFO_SATURAS_FOCUS_14_03.wav|It is one of the five focus stones which were used to create the Magic Barrier.
+DUMMY/INFO_SATURAS_FOCUS_14_04.wav|And with the help of the very same focusing power of these stones, we will tear down the great wall of energy.
+DUMMY/INFO_SATURAS_FOCUS_14_07.wav|As you must know, each ore nugget contains a certain amount of magic power. With the aid of the energy thus amassed in the ore mound, we'll be able to destroy the Magic Barrier.
+DUMMY/INFO_SATURAS_FOCUS_14_09.wav|The explosion will be merely of a magical nature, it will only destroy everything that's been modified by the magic inside the Barrier. There is no danger to us human beings.
+DUMMY/INFO_SATURAS_WHATNOW_14_03.wav|Nothing. We need the four remaining focus stones first!
+DUMMY/INFO_SATURAS_WHATNOW_14_04.wav|Unfortunately we don't have any of these four magic stones.
+DUMMY/INFO_SATURAS_OFFER_14_03.wav|I must warn you. Searching for them will prove as difficult as it will be dangerous.
+DUMMY/INFO_SATURAS_OFFER_14_04.wav|Since conflict with the Old Camp is getting worse every day, I cannot give you any mercenary either.
+DUMMY/INFO_SATURAS_OFFER_14_05.wav|You'll be totally on your own.
+DUMMY/INFO_SATURAS_OFFER_14_07.wav|Your confidence does you credit, but you'll need some items to assist you.
+DUMMY/INFO_SATURAS_OFFER_14_08.wav|Take this map here. It's old, but on it you'll see the original locations of the focus stones when the Barrier was created.
+DUMMY/INFO_SATURAS_OFFER_14_09.wav|Also, this spell scroll will enable you to travel back to our camp faster.
+DUMMY/INFO_SATURAS_OFFER_14_10.wav|Finally, you need to speak to Riordian. He brews the potions for the Camp.
+DUMMY/INFO_SATURAS_OFFER_14_11.wav|You'll find him in his hut, here, on the upper level.
+DUMMY/INFO_SATURAS_BRINGFOCUS_14_01.wav|Hm, that's a start. You're doing well.
+DUMMY/INFO_SATURAS_BRINGFOCUS_14_02.wav|There are still three focus stones missing to accomplish our plan.
+DUMMY/INFO_SATURAS_BRINGFOCUS_14_03.wav|Now go and look out for the remaining focus stones.
+DUMMY/INFO_SATURAS_BRINGFOCUS_14_04.wav|Good, that's the second focus stone you've brought us.
+DUMMY/INFO_SATURAS_BRINGFOCUS_14_05.wav|We're getting closer and closer to our target.
+DUMMY/INFO_SATURAS_BRINGFOCUS_14_06.wav|Be brave and fetch the two remaining focus stones.
+DUMMY/INFO_SATURAS_BRINGFOCUS_14_07.wav|Unbelievable, now we have four focus stones altogether.
+DUMMY/INFO_SATURAS_BRINGFOCUS_14_08.wav|There's only one more missing, then we'll have them all.
+DUMMY/INFO_SATURAS_BRINGFOCUS_14_09.wav|You have already done our community a great service. Get the last focus stone, and we'll soon be able to free ourselves.
+DUMMY/INFO_SATURAS_BRINGFOCUS_14_10.wav|Brilliant, now we have all five focus stones.
+DUMMY/INFO_SATURAS_BRINGFOCUS_14_11.wav|Your deeds are invaluable to our camp. Be assured of my eternal gratitude.
+DUMMY/INFO_SATURAS_BRINGFOCUS_14_12.wav|Go to Riordian now. He'll give you something for your immense efforts.
+DUMMY/INFO_SATURAS_BRINGFOCUS_14_13.wav|Speak to Cronos, the keeper of the ore, as well. He will give you another gift from our community.
+DUMMY/INFO_SATURAS_BRINGFOCUS_14_14.wav|I see you've used up the teleportation scroll. Here, take a new one.
+DUMMY/INFO_SATURAS_ALLFOCI_14_02.wav|We now have all the artefacts we need to fulfill our plan.
+DUMMY/INFO_SATURAS_ALLFOCI_14_03.wav|But the Barrier was created by twelve magicians.
+DUMMY/INFO_SATURAS_ALLFOCI_14_04.wav|There are not enough magicians in the Circle of Water to control the powerful energies and to guide them onto the right course.
+DUMMY/INFO_SATURAS_ALLFOCI_14_06.wav|I am aware that you have already done much for our community, we owe you greatly...
+DUMMY/INFO_SATURAS_ALLFOCI_14_07.wav|... but in the interest of all the inhabitants of the colony, I need to ask one more favor of you.
+DUMMY/INFO_SATURAS_FAVOR_14_02.wav|Yes. Go to the Old Camp and try to win some of the Magicians of the Circle of Fire for our cause.
+DUMMY/INFO_SATURAS_FAVOR_14_05.wav|That is the exact reason why YOU must accomplish this mission. You know people from all the camps of the colony.
+DUMMY/INFO_SATURAS_FAVOR_14_06.wav|Remind the Magicians of Fire of the old times, when we studied the arts of magic together.
+DUMMY/INFO_SATURAS_ACCEPT_14_03.wav|You must try. If you do not succeed in this, there is only one other...
+DUMMY/INFO_SATURAS_ACCEPT_14_06.wav|Forget it! You MUST succeed!
+DUMMY/INFO_SATURAS_ACCEPT_14_07.wav|Here, take this magic rune. Hand it over to Corristo, the High Magician of the Circle of Fire, as a sign of our trust.
+DUMMY/INFO_SATURAS_ACCEPT_14_08.wav|With this he can teleport into this room without passing the guards anytime he wants.
+DUMMY/INFO_SATURAS_ACCEPT_14_09.wav|I hope that'll convince our former friends of our good intentions.
+DUMMY/INFO_SATURAS_AMBUSH_14_01.wav|I'm glad you returned. Something terrible's happened!
+DUMMY/INFO_SATURAS_AMBUSH_14_03.wav|Hang on... how... but of course... You found out about it in the Old Camp!
+DUMMY/INFO_SATURAS_AMBUSH_14_04.wav|Gorn arrived here just before you did.
+DUMMY/INFO_SATURAS_AMBUSH_14_05.wav|What could have caused Gomez to dare to take such an aggressive step?
+DUMMY/INFO_SATURAS_AMBUSH_14_06.wav|He should be aware that such a heinous act can only provoke war.
+DUMMY/INFO_SATURAS_COLLAPSE_14_02.wav|... Collapsed... of course... then the whole thing makes sense.
+DUMMY/INFO_SATURAS_COLLAPSE_14_03.wav|Gomez has his back to the wall. He's more dangerous than ever. Now that he doesn't have anything left to lose, he'll do anything!
+DUMMY/INFO_SATURAS_MURDER_14_05.wav|But in spite of that, I thank you for passing this dangerous message on to me.
+DUMMY/KDW_600_SATURAS_NOMOREOC_INFO_14_02.wav|You don't belong to the Old Camp any longer?
+DUMMY/KDW_600_SATURAS_NOMOREOC_INFO_14_03.wav|Then I welcome you to our community.
+DUMMY/KDW_600_SATURAS_GOTOLEE_INFO_14_02.wav|Talk to Lee. He'll see to it. Then come back to me.
+DUMMY/KDW_600_SATURAS_OATH_INFO_14_02.wav|Not yet. First you need to take the oath of Water.
+DUMMY/KDW_600_SATURAS_OATH_INFO_14_04.wav|Hmmm....
+DUMMY/KDW_600_SATURAS_OATH_INFO_14_05.wav|It doesn't mean you're breaking your vow!
+DUMMY/KDW_600_SATURAS_OATH_INFO_14_07.wav|You're extending your vow. That way you'll become a magician of both elements!
+DUMMY/KDW_600_SATURAS_OATH_INFO_14_08.wav|Then you'll have the force of Fire as well as the wisdom of Water!
+DUMMY/KDW_600_SATURAS_KDWAUFNAHME_INFO_14_02.wav|Servant of the Fire, you shall now receive the blessing of the Water!
+DUMMY/KDW_600_SATURAS_KDWAUFNAHME_INFO_14_03.wav|Now speak the words of the oath:
+DUMMY/KDW_600_SATURAS_KDWAUFNAHME_INFO_14_04.wav|I swear by the might of the gods...
+DUMMY/KDW_600_SATURAS_KDWAUFNAHME_INFO_14_06.wav|... and by the power of the holy Water...
+DUMMY/KDW_600_SATURAS_KDWAUFNAHME_INFO_14_08.wav|... that my knowledge and my deeds from now on and forever shall be one with the Water...
+DUMMY/KDW_600_SATURAS_KDWAUFNAHME_INFO_14_10.wav|... until my body shall return to the realm of Beliar and the source of my life shall dry out.
+DUMMY/KDW_600_SATURAS_KDWAUFNAHME_INFO_14_12.wav|With this oath you unite the power of the Fire and the blessing of the Water within you.
+DUMMY/KDW_600_SATURAS_KDWAUFNAHME_INFO_14_13.wav|You have now bound together what was apart before. May your life be a sign of the unification of the elements.
+DUMMY/KDW_600_SATURAS_KDWAUFNAHME_INFO_14_14.wav|Wear this robe as a sign of your bond with the holy Water and with Adanos.
+DUMMY/KDW_600_SATURAS_LESSON_INFO_14_02.wav|There's much you need to learn. I shall teach you as soon as you're ready.
+DUMMY/KDW_600_SATURAS_LESSON_INFO_14_03.wav|There is one more Circle you don't know yet. I shall teach you as soon as you're ready.
+DUMMY/KDW_600_SATURAS_LESSON_INFO_14_04.wav|You have already mastered the Fifth Circle of Magic! You know all I know.
+DUMMY/KDW_600_SATURAS_LESSON_INFO_14_05.wav|I can't teach you any more!
+DUMMY/KDW_600_SATURAS_KREIS1_INFO_14_02.wav|To enter the first of the magic Circles means learning to use magic runes.
+DUMMY/KDW_600_SATURAS_KREIS1_INFO_14_03.wav|Each rune contains the structure of a special magic spell.
+DUMMY/KDW_600_SATURAS_KREIS1_INFO_14_04.wav|By using your own magic powers, you'll be able to cast the magic of the rune.
+DUMMY/KDW_600_SATURAS_KREIS1_INFO_14_05.wav|But in contrast to the magic scrolls, which are magic formulas as well, the magic power of the rune ensures that the structure of the spell endures.
+DUMMY/KDW_600_SATURAS_KREIS1_INFO_14_07.wav|Your own magic power is used up when you use a rune, just as with a spell scroll.
+DUMMY/KDW_600_SATURAS_KREIS1_INFO_14_08.wav|With every Circle you enter, you learn to use further runes as well.
+DUMMY/KDW_600_SATURAS_KREIS1_INFO_14_09.wav|Use the power of the runes to recognize yourself.
+DUMMY/KDW_600_SATURAS_KREIS2_INFO_14_02.wav|You have learned to understand the runes. Now it is time to deepen this understanding.
+DUMMY/KDW_600_SATURAS_KREIS2_INFO_14_03.wav|When you join the Second Circle you will learn the foundations of stronger battle spells, and above all the secret of healing.
+DUMMY/KDW_600_SATURAS_KREIS2_INFO_14_04.wav|But you need to learn much if you want to recognize the true secrets of magic.
+DUMMY/KDW_600_SATURAS_KREIS2_INFO_14_05.wav|You know that you can use every rune as often as you like until you've used up all your own powers.
+DUMMY/KDW_600_SATURAS_KREIS2_INFO_14_06.wav|But before you act, think about the point of your actions. You have obtained powers with which you may easily conjure up death and destruction.
+DUMMY/KDW_600_SATURAS_KREIS2_INFO_14_07.wav|But a true magician only uses magic when it is necessary.
+DUMMY/KDW_600_SATURAS_KREIS2_INFO_14_08.wav|Understand the situation, then you'll recognize the power of the runes.
+DUMMY/KDW_600_SATURAS_KREIS3_INFO_14_02.wav|The Third Circle of Magic is one of the most important steps in the life of a magician. Once you've reached it, you cease to be a seeker.
+DUMMY/KDW_600_SATURAS_KREIS3_INFO_14_03.wav|You have already come far on the path of magic. You have learned to use the runes.
+DUMMY/KDW_600_SATURAS_KREIS3_INFO_14_04.wav|This knowledge is the foundation for your further path. Use the runes with deliberation.
+DUMMY/KDW_600_SATURAS_KREIS3_INFO_14_05.wav|You may use a rune or not. But you must decide on one of these possibilities.
+DUMMY/KDW_600_SATURAS_KREIS3_INFO_14_06.wav|Do not hesitate to use your powers as soon as you've made your choice.
+DUMMY/KDW_600_SATURAS_KREIS3_INFO_14_07.wav|Understand your path, then you'll recognize the power of the decision.
+DUMMY/KDW_600_SATURAS_KREIS4_INFO_14_02.wav|You have completed the first three Circles. Now is the time for you to learn the secrets of magic.
+DUMMY/KDW_600_SATURAS_KREIS4_INFO_14_03.wav|The magic of the runes is based on the stone. They are magic stones, created out of magic ore.
+DUMMY/KDW_600_SATURAS_KREIS4_INFO_14_04.wav|It is the same ore which is collected in the mines. This ore is endowed with magic formulas in the temples. There the runes are converted to the instruments of our power.
+DUMMY/KDW_600_SATURAS_KREIS4_INFO_14_05.wav|With the runes you control now, you have the entire knowledge of the temples of the realm at your fingertips.
+DUMMY/KDW_600_SATURAS_KREIS4_INFO_14_07.wav|Understand the magic, then you'll discover the secret of power.
+DUMMY/KDW_600_SATURAS_KREIS5_INFO_14_02.wav|So be it. I shall teach you the power of the Fifth Circle.
+DUMMY/KDW_600_SATURAS_KREIS5_INFO_14_03.wav|The Storm of Fire, the Wave of Ice and the power to destroy the undead are now spells whose runes you can use.
+DUMMY/KDW_600_SATURAS_KREIS5_INFO_14_04.wav|But the mightiest spell of the Fifth Circle is the Ripple of Death. If you ever possess this rune, you'll have dangerous powers.
+DUMMY/KDW_600_SATURAS_KREIS5_INFO_14_05.wav|Be careful to use this kind of magic as little as possible. It's a gift from the god of darkness.
+DUMMY/KDW_600_SATURAS_KREIS4_INFO_14_06.wav|You have now learned everything I can teach you.
+DUMMY/KDW_600_SATURAS_HEAVYARMOR_INFO_14_02.wav|It is not yet time for you to wear the high robe.
+DUMMY/KDW_600_SATURAS_HEAVYARMOR_INFO_14_03.wav|The little ore that you have won't even cover the manufacturing costs.
+DUMMY/KDW_600_SATURAS_HEAVYARMOR_INFO_14_04.wav|The time has come. You are worthy of wearing the high robe of Water.
+DUMMY/INFO_SATURAS_NOWSLD_14_02.wav|Good. Very good. Then you are now officially a part of our community.
+DUMMY/INFO_SATURAS_NOWSLD_14_03.wav|Be welcome!
+DUMMY/INFO_SATURAS_XARDAS_14_02.wav|Well, I had hoped we could make it without his help, but the way things are developing...
+DUMMY/INFO_SATURAS_XARDAS_14_04.wav|Alright, alright!
+DUMMY/INFO_SATURAS_XARDAS_14_05.wav|Many, many years ago...
+DUMMY/INFO_SATURAS_XARDAS_14_07.wav|Be patient! Well, when we - the twelve magicians - created the Barrier back then, our magic powers were directed and controlled by a thirteenth magician.
+DUMMY/INFO_SATURAS_XARDAS_14_09.wav|Most people who did not experience the early days of the colony believe that.
+DUMMY/INFO_SATURAS_XARDAS_14_10.wav|This thirteenth magician was our leader. All this took place before we were divided into the Circles of Fire and Water.
+DUMMY/INFO_SATURAS_XARDAS_14_11.wav|But he left the Old Camp, which was once the only camp of the colony.
+DUMMY/INFO_SATURAS_XARDASWHO_14_02.wav|His name is Xardas. Hardly anybody remembers the old stories about him!
+DUMMY/INFO_SATURAS_XARDASWHO_14_03.wav|The ones who do just call him the NECROMANCER!
+DUMMY/INFO_SATURAS_XARDASWHY_14_02.wav|He started to investigate the invocation of undead and magical creatures.
+DUMMY/INFO_SATURAS_XARDASWHY_14_03.wav|Gomez was not the only one who began to worry. Most of the other magicians opposed him as well and his unholy deeds.
+DUMMY/INFO_SATURAS_XARDASWHY_14_05.wav|Unlike Gomez, he was no butcher, so he avoided the conflict and left.
+DUMMY/INFO_SATURAS_XARDASWHERE_14_02.wav|He lives in seclusion, in his tower in the middle of the Orc land.
+DUMMY/INFO_SATURAS_XARDASWHERE_14_03.wav|That's just about the southernmost point of the colony.
+DUMMY/INFO_SATURAS_XARDASHELP_14_02.wav|He's the only one that can help us now.
+DUMMY/INFO_SATURAS_XARDASHELP_14_03.wav|If he knows no way out or doesn't want to help us...
+DUMMY/INFO_SATURAS_XARDASHELP_14_05.wav|There is one other problem...
+DUMMY/INFO_SATURAS_XARDASPROBLEM_14_02.wav|Yes. Over the years we have tried to get in touch with Xardas several times.
+DUMMY/INFO_SATURAS_XARDASPROBLEM_14_03.wav|But it looks like he prefers to remain undisturbed.
+DUMMY/INFO_SATURAS_XARDASPROBLEM_14_05.wav|None of the messengers ever returned from his tower.
+DUMMY/INFO_SATURAS_XARDASPROBLEM_14_06.wav|You'll have to find a way to get past his creatures.
+DUMMY/INFO_SATURAS_XARDASGO_14_02.wav|If I knew that, I would tell you!
+DUMMY/INFO_SATURAS_XARDASGO_14_03.wav|I'd advise you to do some research in our library.
+DUMMY/INFO_SATURAS_XARDASGO_14_04.wav|Maybe you'll find something in the old books about the strengths and weaknesses of magically invoked creatures.
+DUMMY/KDW_600_SATURAS_TIMESUP_INFO_14_02.wav|Well ..? Well what?
+DUMMY/KDW_600_SATURAS_TIMESUP_INFO_14_06.wav|Why not?
+DUMMY/KDW_600_SATURAS_TIMESUP_INFO_14_08.wav|You need to find him and ask him for advice!
+DUMMY/KDW_600_SATURAS_TIMESUP_INFO_14_10.wav|What do you mean? He needs to find a way how to blow up the ore mound!
+DUMMY/KDW_600_SATURAS_TIMESUP_INFO_14_12.wav|Find Xardas, he needs to help!

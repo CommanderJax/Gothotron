@@ -1,0 +1,2 @@
+DUMMY/DIA_GRD_216_FIRST_13_00.wav|Hey, you! I don't think I've seen you here before!
+DUMMY/DIA_DUSTY_HELLO_03_03.wav|I talked to Baal Parvez down there. He told me some interesting things about the Sect Camp.

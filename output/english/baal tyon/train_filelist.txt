@@ -1,0 +1,5 @@
+DUMMY/DIA_BAALTYON_VISION_11_00.wav|In the name of the Sleeper! I 've had a vision!
+DUMMY/DIA_BAALTYON_VISION_11_01.wav|It was incredible. I saw that we would win a new brother, one who is not like those who came before him.
+DUMMY/DIA_BAALTYON_VISION_11_02.wav|He was doing something to us... There was a sword in his hand and he was descending a wide flight of stairs. Then the vision ended.
+DUMMY/DIA_BAALTYON_VISION_11_03.wav|He looked very much like YOU. Who are you? What do you want?
+DUMMY/DIA_BAALTYON_VISION_11_05.wav|Go to Cor Kalom. He'll take care of you.

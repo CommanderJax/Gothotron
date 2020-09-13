@@ -1,0 +1,22 @@
+DUMMY/DIA_GOMEZ_FAULT_11_01.wav|You just come marching in here and expect me to concern myself with you, you worm? GUARDS!
+DUMMY/DIA_GOMEZ_HELLO_11_01.wav|What makes you think we're interested in your services?
+DUMMY/DIA_GOMEZ_HELLO_THORUSSAYS_11_01.wav|You wouldn't have gotten in here alive if that weren't so. I hope that's not the best you can do.
+DUMMY/DIA_GOMEZ_HELLO_KOPFAB_11_01.wav|Thers's a fine line between bravery and stupidity.
+DUMMY/DIA_GOMEZ_HELLO_KONTAKTE_YBERION_11_01.wav|Y'Berion doesn't waste his time on guys like you.
+DUMMY/DIA_GOMEZ_HELLO_KONTAKTE_YBERION_11_02.wav|Your lies tell me you think I am an idiot.
+DUMMY/DIA_GOMEZ_HELLO_KONTAKTE_YBERION_11_03.wav|I'm disappointed to see you think I'm STUPID.
+DUMMY/DIA_GOMEZ_HELLO_KONTAKTE_YBERION_11_04.wav|I hate being disappointed.
+DUMMY/DIA_GOMEZ_HELLO_KONTAKTE_KALOM_11_01.wav|And?
+DUMMY/DIA_GOMEZ_HELLO_KONTAKTE_BAALS_11_01.wav|And?
+DUMMY/DIA_GOMEZ_HELLO_KONTAKTE_LARES_11_01.wav|And?
+DUMMY/DIA_GOMEZ_HELLO_KONTAKTE_NLHEHLER_11_01.wav|And?
+DUMMY/DIA_GOMEZ_HELLO_KONTAKTE_THATSALL_11_01.wav|Not bad - for a beginner...
+DUMMY/DIA_GOMEZ_HELLO_KONTAKTE_THATSALL_11_02.wav|You shall have your chance.
+DUMMY/DIA_GOMEZ_HELLO_KONTAKTE_THATSALL_INSUFF_11_00.wav|You expect THAT to impress me? We have DIGGERS with better connections!
+DUMMY/DIA_GOMEZ_DABEI_11_01.wav|You bet it does. You're one of us now, kid.
+DUMMY/DIA_GOMEZ_DABEI_11_02.wav|Raven'll fill you in on everything.
+DUMMY/DIA_GOMEZ_NURSO_11_00.wav|Then go and see Raven. And never speak to me again unless you're told to!
+DUMMY/DIA_EBR_100_GOMEZ_WAIT4SC_11_01.wav|How did you get in here?
+DUMMY/DIA_EBR_100_GOMEZ_WAIT4SC_11_02.wav|Hang on! Aren't you the one that fought our men in the Free Mine?
+DUMMY/DIA_EBR_100_GOMEZ_WAIT4SC_11_04.wav|Talking to me, GOMEZ, in that way shows some courage. But it was foolish of you to turn up here like that.
+DUMMY/DIA_EBR_100_GOMEZ_WAIT4SC_11_05.wav|I will personally take care that you never get in my way again.

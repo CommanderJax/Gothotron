@@ -1,0 +1,16 @@
+DUMMY/DIA_HUNO_YOUKNOWYOURJOB_09_01.wav|Nobody ain't complained yet.
+DUMMY/DIA_HUNO_YOUKNOWYOURJOB_09_02.wav|But that would be a bad idea anyway. Every idiot here needs a sword, and that is what they get from me.
+DUMMY/DIA_HUNO_HOWLONG_09_01.wav|That depends. I'm as fast as a hurricane with simple swords.
+DUMMY/DIA_HUNO_HOWLONG_09_02.wav|Of course only on condition that the price motivates me.
+DUMMY/DIA_HUNO_HOWLONG_09_03.wav|A freak like Whistler usually has to wait longer for his toy than other people.
+DUMMY/DIA_HUNO_HOWLONG_09_05.wav|No, on the contrary. He gave me 150 ore for his last sword.
+DUMMY/DIA_HUNO_HOWLONG_09_07.wav|Hey, you ain't curious at all, are you, pal.
+DUMMY/DIA_HUNO_HOWSYOURBUSINESS_09_01.wav|Why would you want to know?
+DUMMY/DIA_HUNO_HOWSYOURBUSINESS_09_03.wav|Oh really? And what?
+DUMMY/DIA_HUNO_HOWSYOURBUSINESS_09_05.wav|Come back when you really need something and don't get on my nerves.
+DUMMY/DIA_HUNO_LEARNSMITH_09_01.wav|Oh, but don't you think that you can make great blades!
+DUMMY/DIA_HUNO_LEARNSMITH_09_03.wav|Okay, take the steel and hold into the fire.
+DUMMY/DIA_HUNO_LEARNSMITH_09_04.wav|Then you have to lay the red-hot steel across the anvil.
+DUMMY/DIA_HUNO_LEARNSMITH_09_05.wav|When you're finished, you put the hot blade into the water bucket over there to temper it.
+DUMMY/DIA_HUNO_LEARNSMITH_09_06.wav|The cooled blade finally has to be sharpened on the grindstone.
+DUMMY/DIA_HUNO_LEARNSMITH_09_08.wav|However, you'll need some things for that. I could sell them to you.

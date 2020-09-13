@@ -1,0 +1,8 @@
+DUMMY/DIA_CIPHER_HELLO_12_01.wav|We put another spoke in Gomez' wheel.
+DUMMY/DIA_CIPHER_HELLO_12_02.wav|Three dead guards and lots of stuff to sell. I'll drink to that!
+DUMMY/DIA_CIPHER_HELLO_12_04.wav|No. Only when it's worth it.
+DUMMY/DIA_CIPHER_FISK_12_01.wav|I'm not interested.
+DUMMY/DIA_CIPHER_FISK_12_02.wav|But Sharky might be interested. If you find him, ask him.
+DUMMY/DIA_CIPHER_FROMBALOR_12_01.wav|Let's rephrase that question: What have YOU got to offer? I'm only interested in big consignments.
+DUMMY/DIA_CIPHER_FROMBALOR_12_03.wav|Mhmmm. You want to trade?
+DUMMY/DIA_CIPHER_TRADE_12_01.wav|What do you want?

@@ -1,0 +1,19 @@
+DUMMY/DIA_ORRY_PREEXIT_06_00.wav|You'd better make sure you reach the Old Camp in one piece!
+DUMMY/DIA_ORRY_GUARDGATE_06_01.wav|Making sure no-one gets near the exchange place. Especially none of those cut-throats from the New Camp.
+DUMMY/DIA_ORRY_GUARDGATE_06_02.wav|You're the new guy they chucked in today, right?
+DUMMY/DIA_ORRY_GUARDGATE_06_04.wav|Then you'd better watch out for the guys from the New Camp!
+DUMMY/DIA_ORRY_GUARDGATE_06_05.wav|I work for the Old Camp, same as the others you saw at the exchange place.
+DUMMY/DIA_ORRY_GUARDGATE_06_06.wav|I assume you've talked to Diego...?
+DUMMY/DIA_ORRY_GUARDGATE_NO_06_01.wav|Then do so! He's the one that deals with newcomers.
+DUMMY/DIA_ORRY_GUARDGATE_NO_06_02.wav|He knows a lot about the colony - things that are important to new people like you.
+DUMMY/DIA_ORRY_GUARDGATE_YES_06_01.wav|Good. Then you know what's what around here.
+DUMMY/DIA_ORRY_NEWCAMP_06_01.wav|Compared to the New Camp, the Old Camp's a quiet, peaceful sort of place.
+DUMMY/DIA_ORRY_NEWCAMP_06_02.wav|The New Camp doesn't get any deliveries from the outside world. Most of the rogues there just steal whatever they need.
+DUMMY/DIA_ORRY_OLDCAMP_06_02.wav|Everyone who arrives here starts out as a digger. If you want to become something better than that, you'll have to get accepted as a Shadow first.
+DUMMY/DIA_ORRY_SHORE_06_03.wav|We do have a few suckers. But they won't touch you as long as you pay them protection money.
+DUMMY/DIA_ORRY_WOMAN_06_01.wav|Yeah, the Ore Barons get everything they want.
+DUMMY/DIA_ORRY_WOMAN_06_03.wav|They're convicted criminals too, of course. But if Gomez hadn't asked for them, they'd be sitting in some dungeon or other.
+DUMMY/DIA_ORRY_WOMAN_06_04.wav|I'm not sure what's worse...
+DUMMY/DIA_ORRY_WAFFE_06_01.wav|There should be some old weapons by the derelict mine further down the canyon.
+DUMMY/DIA_ORRY_WAFFE_06_02.wav|But don't go and start a war with nothing but a rusty pickaxe for a weapon - those things are slow and heavy.
+DUMMY/DIA_ORRY_WAFFE_06_03.wav|An inexperienced fighter should never use one of them unless it's an emergency.

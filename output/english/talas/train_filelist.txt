@@ -1,0 +1,15 @@
+DUMMY/NOV_1300_TALAS_UR_INFO_02_02.wav|Leave me alone, I don't want to talk about it!
+DUMMY/NOV_1300_TALAS_HELP_INFO_02_02.wav|Really? I was mugged by goblins! And now I'm supposed to go there and get the book back!
+DUMMY/NOV_1300_TALAS_HELP_INFO_02_03.wav|I have a suggestion to make: I'll show you the way to the almanac, so you can get it back.
+DUMMY/NOV_1300_TALAS_HELP_OK_02_02.wav|Okay, we can leave as soon as you're ready.
+DUMMY/NOV_1300_TALAS_HELP_MORE_02_02.wav|What? That's robbery! Alright then, tell me when you're ready.
+DUMMY/NOV_1300_TALAS_READY_INFO_02_02.wav|Okay. Follow me.
+DUMMY/NOV_1300_TALAS_BRIDGE_INFO_02_01.wav|Those damn little beasts live in a cave behind this bridge! Be careful!
+DUMMY/NOV_1300_TALAS_BRIDGE_INFO_02_03.wav|I'll wait here and... ahem... cover our retreat.
+DUMMY/NOV_1300_TALAS_BACK_INFO_02_01.wav|You have the almanac! Well done. Let's go back to the Camp.
+DUMMY/INFO_TALAS_RETURNED_02_01.wav|We're back. You'd better take the almanac to Cor Kalom right away.
+DUMMY/INFO_TALAS_RETURNED_02_03.wav|Don't worry, I sure won't! There's no need to worry about me.
+DUMMY/NOV_1300_TALAS_OGY_02_02.wav|So I'm the gofer again. Damn!!! I just should never have lost that almanac...
+DUMMY/NOV_1300_TALAS_OGY_02_03.wav|Well then, come with me.
+DUMMY/NOV_1300_TALAS_BACKAGAIN_INFO_02_01.wav|I'm not taking you across this bridge, I don't want to commit suicide.
+DUMMY/NOV_1300_TALAS_BACKAGAIN_INFO_02_02.wav|You must be mad to go in there, even Baal Lukor and his templars didn't get out again.

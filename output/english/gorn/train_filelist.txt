@@ -1,0 +1,123 @@
+DUMMY/INFO_GORN_EXIT_09_01.wav|Let's fight!
+DUMMY/INFO_GORN_EXIT_09_02.wav|See you later.
+DUMMY/DIA_GORN_FIRST_09_00.wav|Hey. A new face.
+DUMMY/DIA_GORN_FIRST_09_02.wav|I am Gorn, mercenary of the magicians.
+DUMMY/DIA_GORN_LEBEN_09_01.wav|Lee has made a deal with the magicians. He hires the best fighters to be found in the colony. Which means us.
+DUMMY/DIA_GORN_LEBEN_09_02.wav|We take care that the scrapers can mine the ore without being bothered and keep trouble away from the magicians.
+DUMMY/DIA_GORN_LEBEN_09_03.wav|The magicians make sure we'll get out of here. And we get a small share of the ore as our pay.
+DUMMY/DIA_GORN_HUT_09_01.wav|I don't think so. But if that's really what you want to do, go and see Shrike.
+DUMMY/DIA_GORN_HUT_09_02.wav|He's taken the hut right at the front, at the entrance to the cave. It was empty - but it really belonged to us.
+DUMMY/DIA_GORN_HUT_09_04.wav|Well, us mercenaries. Mercenaries and rogues live separately here. And none of Lares' gang should be here, on this side of the big hole.
+DUMMY/DIA_GORN_HUT_09_05.wav|It doesn't make much difference really. But he didn't ask. And you can't let those rogues get away with everything, because then they get real cocky!
+DUMMY/DIA_GORN_HUTFREE_09_01.wav|Good. Torlof just told me that he wanted to have a word with the guy.
+DUMMY/DIA_GORN_BECOMESLD_09_01.wav|Before Lee admits you, you'll have to improve your fighting skills. It doesn't matter what weapon you use, but you have to be good.
+DUMMY/DIA_GORN_BECOMESLD_09_02.wav|Besides, you should be very experienced with the life here and everything.
+DUMMY/DIA_GORN_BECOMESLD_09_03.wav|If you don't want to go to the other camps, you should try to join the rogues before you start as a mercenary.
+DUMMY/DIA_GORN_TRADE_09_01.wav|Plenty. You wanna trade?
+DUMMY/DIA_GORN_DUHEHLER_09_01.wav|Who says I did?
+DUMMY/DIA_GORN_DUHEHLER_09_03.wav|Don't you think that this is all from ONE haul.
+DUMMY/DIA_GORN_DUHEHLER_09_05.wav|If I did, I couldn't tell you. Lee wouldn't like that one bit.
+DUMMY/INFO_GORN_NCWAIT_09_01.wav|Ahh, it's you! My friend Lester from the swamp camp told me all you did there.
+DUMMY/INFO_GORN_NCWAIT_09_02.wav|For somebody who hasn't been here for long, you've come quite a way.
+DUMMY/INFO_GORN_MAGES_09_02.wav|Then you should talk to Saturas. He's the highest of the water mages and spends all day studying some writings or other.
+DUMMY/INFO_GORN_MAGES_09_03.wav|But no matter how important your message is, the guards of the upper level won't let you through to him.
+DUMMY/INFO_GORN_MAGES_09_05.wav|I can't, but Cronos, the keeper of the ore, might be able to give you permission.
+DUMMY/INFO_GORN_CRONOS_09_01A.wav|If you proceed from here, you'll come across the big dwelling cave behind the dam.
+DUMMY/INFO_GORN_CRONOS_09_02.wav|Cronos is usually at the grid over the big ore mound.
+DUMMY/INFO_GORN_CRONOS_09_03.wav|But he's a bit arrogant. You'll have to convince him that your message is important.
+DUMMY/INFO_GORN_RUINWAIT_09_02.wav|You can't help bumping into people all the time.
+DUMMY/INFO_GORN_RUINWHAT_09_02.wav|Oh, I'm trying to track down an old legend.
+DUMMY/INFO_GORN_RUINWHAT_09_04.wav|Yes, Milten, my pal from the Old Camp, told me that monks used to live here.
+DUMMY/INFO_GORN_RUINWHAT_09_05.wav|Of course, that was long before the Barrier was created.
+DUMMY/INFO_GORN_RUINWHAT_09_07.wav|I'm sure there are still treasures from the old times here.
+DUMMY/INFO_GORN_RUINFOCUS_09_03.wav|The thing you're looking for might be in the old ruined monastery beyond the canyon.
+DUMMY/INFO_GORN_RUINJOIN_09_02.wav|Good idea. This area is crowded with snappers.
+DUMMY/INFO_GORN_RUINJOIN_09_03.wav|When they're on their own, they're no problem for an experienced hunter. Most of the time they hunt in packs though.
+DUMMY/INFO_GORN_RUINJOIN_09_06.wav|Okay, but before we cross this log, I'd like to examine the canyon. I like to know what's at my back.
+DUMMY/INFO_GORN_RUINJOIN_09_07.wav|Come with me, I've discovered a path which will take us there.
+DUMMY/INFO_GORN_RUINABYSS_09_01.wav|That's what I call luck. Apparently this used to be a storage cave.
+DUMMY/INFO_GORN_RUINABYSS_09_02.wav|Why don't you take the lead now, I just wanted to make sure that we won't be surprised on our return trip.
+DUMMY/INFO_GORN_RUINLEAVE_09_01.wav|You seem to have lost interest in the ruined monastery.
+DUMMY/INFO_GORN_RUINLEAVE_09_02.wav|I'll go on, on my own.
+DUMMY/INFO_GORN_RUINLEAVE_09_03.wav|Just follow me if you change your mind.
+DUMMY/INFO_GORN_RUINWALL_09_01.wav|This damn gate. They say nobody in the colony has ever been able to open it.
+DUMMY/INFO_GORN_RUINWALL_09_02.wav|The little beasts over there seem to be the only ones who have managed to get into the inner yard.
+DUMMY/INFO_GORN_RUINWALLWHAT_09_02.wav|You have to find a way to get to the other side of the gate.
+DUMMY/INFO_GORN_RUINLEDGE_09_01.wav|There's some kind of platform up there. But it seems to be too high to climb.
+DUMMY/INFO_GORN_RUINLEDGE_09_02.wav|We'll have to find another way.
+DUMMY/INFO_GORN_RUINPLATFORM_09_01.wav|Looks like a pedestal of some sort.
+DUMMY/INFO_GORN_RUINPLATFORM_09_02.wav|Perhaps the artefact you're looking for used to lay here.
+DUMMY/INFO_GORN_RUINGATE_09_01.wav|You actually managed to open the gate. That spell of yours was real clever.
+DUMMY/INFO_GORN_RUINLEAVEINSIDE_09_01.wav|You seem to have lost interest in the ruined monastery.
+DUMMY/INFO_GORN_RUINLEAVEINSIDE_09_02.wav|I'll go on on my own.
+DUMMY/INFO_GORN_RUINLEAVEINSIDE_09_03.wav|Just follow me if you change your mind.
+DUMMY/INFO_GORN_RUINSUCCESS_09_01.wav|So you found your magic artefact!
+DUMMY/INFO_GORN_RUINSUCCESS_09_03.wav|I'll accompany you for a while.
+DUMMY/INFO_GORN_RUINTROLL_09_03.wav|Looks like one of those virtually invincible trolls. Only smaller!
+DUMMY/INFO_GORN_RUINTROLL_09_04.wav|Whatever, if we want to get out of here, we have to get past that beast.
+DUMMY/INFO_GORN_RUINVICTORY_09_01.wav|That was hard work.
+DUMMY/INFO_GORN_RUINVICTORY_09_03.wav|... then you'd rather not bump into its parents, huh?
+DUMMY/INFO_GORN_RUINVICTORY_09_05.wav|This is where we go our separate ways. I want to stay here for a while and have a look around.
+DUMMY/INFO_GORN_RUINVICTORY_09_06.wav|But I'm sure we'll meet again. See you later, my friend.
+DUMMY/INFO_GORN_DIEGOMILTEN_09_02.wav|That's good news!
+DUMMY/INFO_GORN_DIEGOMILTEN_09_04.wav|Thanks. There's nothing more valuable than good friends in troubled times like these.
+DUMMY/INFO_GORN_DIEGOMILTEN_09_05.wav|You're almost one of us by now. You're reliable!
+DUMMY/INFO_GORN_FREEMINE_09_02.wav|After I returned from the ruined monastery, I wanted to drop by at Okyl's, the boss of the Free Mine.
+DUMMY/INFO_GORN_FREEMINE_09_03.wav|But when I arrived, there were corpses lying everywhere.
+DUMMY/INFO_GORN_FREEMINE_09_04.wav|I just spotted some guards entrenching themselves at the entrance to the mine.
+DUMMY/INFO_GORN_FREEMINE_09_06.wav|It looked like an ambush to me. Nobody would have expected attackers to cross the mountains.
+DUMMY/INFO_GORN_FREEMINE_09_07.wav|The element of surprise can multiply the force of a troop.
+DUMMY/INFO_GORN_GUARDNC_09_02.wav|Our entire defense strategy will have to be changed. That takes time.
+DUMMY/INFO_GORN_GUARDNC_09_03.wav|Until Lee and his people are ready, I'll join Cord's provisional guard.
+DUMMY/INFO_GORN_GUARDNC_09_06.wav|If ever you're looking for me, start here and walk towards the mine. I'll be on guard there.
+DUMMY/INFO_GORN_GUARDNCRUNNING_09_02.wav|Everything's quiet. Nothing's moving in the Free Mine.
+DUMMY/INFO_GORN_GUARDNCRUNNING_09_03.wav|Lee is still busy organizing our defense!
+DUMMY/INFO_GORN_POST_09_01.wav|You're just in time! We're preparing our counterattack.
+DUMMY/INFO_GORN_POST_09_02.wav|Taking back the Free Mine is the first step.
+DUMMY/INFO_GORN_TAKEBACK_09_02.wav|A frontal attack is no good! Gomez' people are too well entrenched for that!
+DUMMY/INFO_GORN_TAKEBACK_09_03.wav|But we could run a stealth mission, eliminating one man after another - that could work.
+DUMMY/INFO_GORN_TAKEBACK_09_04.wav|Lee asked me to give you a message.
+DUMMY/INFO_GORN_TAKEBACK_09_05.wav|As one of our best mercenaries, you have been chosen to carry out this mission.
+DUMMY/INFO_GORN_TAKEBACK_09_06.wav|As a Magician of the Circle of Water and an experienced fighter, you have been chosen to carry out this mission.
+DUMMY/INFO_GORN_TAKEBACK_09_07.wav|As one of our best rogues, you have been chosen to carry out this mission!
+DUMMY/INFO_GORN_TAKEBACK_09_08.wav|Although you aren't one of us, you have done our camp a great service and proved your worth more than once.
+DUMMY/INFO_GORN_TAKEBACK_09_09.wav|We're offering you the chance of carrying out this mission!
+DUMMY/INFO_GORN_TAKEBACK_09_10.wav|I'll go with you. Together we can make it!
+DUMMY/INFO_GORN_SECOND_09_02.wav|As soon as the mine is ours again, we'll start looking for the mountain pass that Gomez' people used in the raid!
+DUMMY/INFO_GORN_SECOND_09_03.wav|When the pass is closed, the situation will be under control again.
+DUMMY/INFO_GORN_WHYME_09_02.wav|You've already proved more than once that you can be brave and clever at the same time!
+DUMMY/INFO_GORN_WHYME_09_03.wav|Besides, you know the Old Camp and the guards better than most of us.
+DUMMY/INFO_GORN_WHYME_09_04.wav|You are the best man for this difficult job!
+DUMMY/INFO_GORN_KICKBUTT_09_02.wav|I didn't expect you to say anything else!
+DUMMY/INFO_GORN_KICKBUTT_09_03.wav|Here, take this key. It opens the gatehouse in front of the entrance to the mine.
+DUMMY/INFO_GORN_MYWAY_09_02.wav|Whatever YOUR reasons may be, I'm glad we're dealing with this thing together!
+DUMMY/INFO_GORN_MYWAY_09_03.wav|Here, take this key. It opens the gatehouse in front of the entrance to the mine.
+DUMMY/INFO_GORN_WOLF_09_01.wav|Oh, I nearly forgot!
+DUMMY/INFO_GORN_WOLF_09_02.wav|The rogue Wolf wants to talk to you urgently before we leave for the mine.
+DUMMY/INFO_GORN_WOLF_09_05.wav|Whatever you say!
+DUMMY/INFO_GORN_WOLF_09_07.wav|You do that. I'll wait for you right here.
+DUMMY/INFO_GORN_LEAVEFORPOST_09_01.wav|Looks like you do want to speak to Wolf!
+DUMMY/INFO_GORN_LEAVEFORPOST_09_02.wav|This is the wrong direction! We have to go to the mine!
+DUMMY/INFO_GORN_LEAVEFORPOST_09_03.wav|I'll wait for you at the provisional guardpost!
+DUMMY/INFO_GORN_REJOINFORFM_09_02.wav|It's time to drive the guards out of there!
+DUMMY/INFO_GORN_REJOINFORFM_09_03.wav|You go on ahead, I'll follow!
+DUMMY/INFO_GORN_RAZOR_09_01.wav|WATCH OUT, RAZORS!!!
+DUMMY/INFO_GORN_RAZOR_09_02.wav|They hunt in packs like snappers, but they bite much harder!
+DUMMY/INFO_GORN_RAZOR_09_03.wav|We should do away with them. You know me, I like to know what's at my back.
+DUMMY/INFO_GORN_FMCENTRANCE_09_01.wav|Hold on, do you see all these corpses?
+DUMMY/INFO_GORN_FMCENTRANCE_09_02.wav|You go down to the entrance to the mine, I'll stay here and make sure that we don't get a nasty surprise thrown at us from behind.
+DUMMY/INFO_GORN_FMCENTRANCE_09_03.wav|When you're down there, I'll follow.
+DUMMY/INFO_GORN_FMGATE_09_01.wav|I heard you fighting and went after you immediately.
+DUMMY/INFO_GORN_FMGATE_09_03.wav|Good, open the gate, I'll watch out.
+DUMMY/INFO_GORN_AFTERFM_09_01.wav|Oh, man. That was a really tough fight.
+DUMMY/INFO_GORN_AFTERFM_09_02.wav|I'd never have thought Gomez' guards would offer that much resistance.
+DUMMY/INFO_GORN_AFTERFM_09_04.wav|I'll stay here and make sure it stays that way!
+DUMMY/INFO_GORN_FMWATCH_09_02.wav|Everything's quiet. Nothing moving in the Free Mine.
+DUMMY/INFO_GORN_FMWATCH_09_03.wav|It can't be long now till Lee sends reinforcements up here.
+DUMMY/INFO_GORN_FMWATCH_09_04.wav|I'll just make myself at home until then.
+DUMMY/INFO_GORN_FOUNDULUMULU_09_01.wav|That's an interesting Orc standard you have there.
+DUMMY/INFO_GORN_FOUNDULUMULU_09_02.wav|Is that from the former Orc slave in the mine?
+DUMMY/INFO_GORN_FOUNDULUMULU_09_04.wav|I hope for your sake that the Orcs will respect this... THING!
+DUMMY/INFO_GORNFM_EXIT_09_01.wav|Let's fight!
+DUMMY/INFO_GORNFM_EXIT_09_02.wav|See you later.
+DUMMY/INFO_GORNFM_FOLLOW_09_02.wav|At last we're moving on! You go first, I'll follow.

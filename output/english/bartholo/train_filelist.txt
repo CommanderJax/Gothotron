@@ -1,0 +1,13 @@
+DUMMY/INFO_BARTHOLO_HALLO_12_01.wav|Bartholo's the name. I see to it that the Ore Barons get their supplies.
+DUMMY/INFO_BARTHOLO_HALLO_12_02.wav|I'm in charge of the lot - from weed supplies to food and provisions for the women.
+DUMMY/INFO_BARTHOLO_HALLO_12_03.wav|Also, it's my job to make sure those idiotic cooks do their job right.
+DUMMY/INFO_BARTHOLO_HALLO_12_04.wav|They should be grateful. Gomez won't put up with any crap. He fed the last two cooks to the lurkers in the river.
+DUMMY/INFO_BARTHOLO_KRAUTBOTE_12_01.wav|Show me!
+DUMMY/INFO_BARTHOLO_KRAUTBOTE_12_02.wav|Hmmmmmmm...
+DUMMY/INFO_BARTHOLO_KRAUTBOTE_12_03.wav|Alright! Gomez has been getting impatient. It's lucky for you that you delivered it today!
+DUMMY/INFO_BARTHOLO_KRAUTBOTE_12_05.wav|Not so fast... Here, take that. 500 ore is what we agreed on.
+DUMMY/INFO_BARTHOLO_KRAUTBOTE_NOKRAUT_12_00.wav|You don't have enough weed to be a gofer! I hope for your sake that you haven't sold the stuff elsewhere! Come back when you have the right amount!
+DUMMY/INFO_BARTHOLO_12_01.wav|I knew that somebody would try to get at us through the pentagram!
+DUMMY/INFO_BARTHOLO_12_02.wav|But, unlike that traitorous smith Stone, we don't need you any more!
+DUMMY/INFO_BARTHOLO_12_04.wav|Behind bars! But you're gonna be six feet under in a minute!
+DUMMY/INFO_BARTHOLO_12_05.wav|Get him, guys, and slice him up!

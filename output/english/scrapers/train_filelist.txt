@@ -1,0 +1,28 @@
+DUMMY/INFO_SFB_1_EINERVONEUCHWERDEN_01_01.wav|Join us? Now don't you go thinkin' we don't work around here, just 'cause no-one forces us to.
+DUMMY/INFO_SFB_1_EINERVONEUCHWERDEN_01_02.wav|If you think you can just laze around here, then you got another thing coming, my friend.
+DUMMY/INFO_SFB_1_EINERVONEUCHWERDEN_01_03.wav|Now, if you still think this place is right for you, you'd better have a word with Swiney. That's the scraper that stands around smoking all day.
+DUMMY/INFO_SFB_1_WICHTIGEPERSONEN_01_01.wav|In charge? Take a look around. It's not the ones that spend all day working their butts off to collect ore, that's for sure.
+DUMMY/INFO_SFB_1_DASLAGER_01_01.wav|What's it look like? The royal palace?
+DUMMY/INFO_SFB_1_DASLAGER_01_02.wav|If you really wanna work in the Free Mine, you'll have to work your way up here in the Hollow first to prove you're any use to us.
+DUMMY/INFO_SFB_1_DIELAGE_01_01.wav|How d'you think? Just as bad as usual. Nothing to eat, lots to do.
+DUMMY/INFO_SFB_1_DIELAGE_01_02.wav|The only one of us who doesn't have his hands full is Swiney. Okyl promoted him to spokesman for us scrapers. Now he stands around here all day making sure no-one gets blisters on their hands.
+DUMMY/INFO_SFB_2_EINERVONEUCHWERDEN_02_01.wav|I can't help you there. I'm small fry. Talk to Swiney.
+DUMMY/INFO_SFB_2_WICHTIGEPERSONEN_02_01.wav|The mercenaries are in charge here in the Hollow. But not so much in the New Camp.
+DUMMY/INFO_SFB_2_WICHTIGEPERSONEN_02_02.wav|So watch who you mess with.
+DUMMY/INFO_SFB_2_DASLAGER_02_01.wav|I don't know that I can help you. You'd better have a word with Swiney or the mercenaries.
+DUMMY/INFO_SFB_2_DIELAGE_02_01.wav|I'm not complaining. We all have to do our share.
+DUMMY/INFO_SFB_2_DIELAGE_02_02.wav|At least work is better here than in the Old Camp.
+DUMMY/INFO_SFB_2_DIELAGE_02_03.wav|Are you from the Old Camp?
+DUMMY/INFO_SFB_2_DIELAGE_02_04.wav|If you're from the Old Camp, just you remember I don't want any trouble!
+DUMMY/INFO_SFB_5_EINERVONEUCHWERDEN_02_00.wav|Hello!
+DUMMY/INFO_SFB_5_EINERVONEUCHWERDEN_02_01.wav|Join us! As what, a water carrier?
+DUMMY/INFO_SFB_5_EINERVONEUCHWERDEN_02_03.wav|Look, I'll tell you something: Nobody VOLUNTEERS to become a scraper.
+DUMMY/INFO_SFB_5_EINERVONEUCHWERDEN_02_04.wav|Of course, if you insist... Go and talk to Swiney, I'm sure he'll have a spare pickaxe he can let you have.
+DUMMY/INFO_SFB_5_WICHTIGEPERSONEN_02_01.wav|Who's important? Me, of course.
+DUMMY/INFO_SFB_5_WICHTIGEPERSONEN_02_02.wav|But I guess you mean who calls the shots.
+DUMMY/INFO_SFB_5_WICHTIGEPERSONEN_02_03.wav|Well, I guess you should talk to the mercenaries or the rogues. You won't even get near the water mages.
+DUMMY/INFO_SFB_5_WICHTIGEPERSONEN_02_04.wav|That big ass Swiney thinks he's more important than he really is. He just dishes out the pickaxes and does what Okyl tells him to.
+DUMMY/INFO_SFB_5_DIELAGE_02_01.wav|Great!
+DUMMY/INFO_SFB_5_DIELAGE_02_02.wav|And 'cos we're so happy here, we do the best we can to get away.
+DUMMY/INFO_SFB_5_DIELAGE_02_03.wav|What do you think this place is? It's a jail and nobody likes living in a jail.
+DUMMY/DIA_SFB_1001_HELLO_02_01.wav|We've done most of it. Just a few more weeks and we'll have enough.

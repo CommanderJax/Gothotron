@@ -1,0 +1,3 @@
+DUMMY/DIA_846_HELLO_07_01.wav|I'm working for the Rice Lord.
+DUMMY/DIA_845_HELLO_13_01.wav|I'm working for the Rice Lord.
+DUMMY/DIA_846_HELLO_07_02.wav|If you need something, ask Lefty.

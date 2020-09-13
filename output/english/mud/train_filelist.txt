@@ -1,0 +1,27 @@
+DUMMY/DIA_MUD_FIRSTEXIT_07_00.wav|Hey, man! New here? I haven't seen you before.
+DUMMY/DIA_MUD_FIRSTEXIT_07_01.wav|I'll join you for a while, if you don't mind. I'm sure you'll need a friend.
+DUMMY/DIA_MUD_FIRSTEXIT_VERPISS_07_01.wav|You're not in a good mood today, are you? I better come with you...
+DUMMY/DIA_MUD_FIRSTEXIT_KOMM_07_01.wav|Great! We can talk while we're going.
+DUMMY/DIA_MUD_SHUTUP_07_01.wav|Sure.
+DUMMY/DIA_MUD_GETLOST_07_01.wav|You wanna be on your own for a while, do you? I understand... I'll stay in the background...
+DUMMY/DIA_MUD_GETLOST_07_00.wav|Hey, man, you hit me! What was that for?
+DUMMY/DIA_MUD_GETLOST_07_02.wav|You're a lunatic, man! I don't want to have anything to do with you!
+DUMMY/DIA_MUD_NERVE_0_07_00.wav|Tell me, where are we going? Or is it supposed to be a surprise? I like surprises.
+DUMMY/DIA_MUD_NERVE_2_07_00.wav|Don't you have any plan of where you want to go?
+DUMMY/DIA_MUD_NERVE_3_07_00.wav|Are you looking for a quiet place? Where we can talk for a bit or something?
+DUMMY/DIA_MUD_NERVE_4_07_00.wav|Is it possible we're walking in circles? I mean, I don't know where you want to go...
+DUMMY/DIA_MUD_NERVE_5_07_00.wav|This is real fun. Thanks for taking me with you. We could do that more often, there's loads of more time left today.
+DUMMY/DIA_MUD_NERVE_6_07_00.wav|I have gotten used to you already. We'll have much fun together, I'm sure of that. Aren't you? Where do you sleep anyway? You can come to my place, no problem.
+DUMMY/DIA_MUD_NERVE_7_07_00.wav|Why did they put you in here anyway? Do you like animals as well? They're not into that one bit. That's why they locked me in here.
+DUMMY/DIA_MUD_NERVE_8_07_00.wav|There are some people who constantly try to beat me up. Horrible guys from the New Camp. Real cut-throats. The next time I'll tell them that they'll have you to deal with in the future. Then they'll be dead scared.
+DUMMY/DIA_MUD_NERVE_9_07_00.wav|Those bastards from the New Camp will be amazed when they get to know that I have a protector. They'll piss themselves. That'll be fun. Normally they finish people off quickly, but now they'll think twice.
+DUMMY/DIA_MUD_NERVE_10_07_00.wav|You know what? I'll do you a favor. I'll put in a good word for you, then perhaps you'll be admitted to the Camp. Then we could meet every day.
+DUMMY/DIA_MUD_NERVE_11_07_00.wav|Some people think I'm a complete lunatic. But somebody like you would never hang out with a lunatic. People would talk about that. So they'll finally understand that they were wrong about me.
+DUMMY/DIA_MUD_NERVE_12_07_00.wav|You're my best friend here. The others only want to get rid of me all the time. I'm really grateful to you.
+DUMMY/DIA_MUD_NERVE_13_07_00.wav|Listen, this running around is really getting tiring. Shouldn't we look for a cosy place and get comfy somewhere?
+DUMMY/DIA_MUD_NERVE_15_07_00.wav|Where are you from? You must be happy as well that you finally found somebody who understands you. I'm from Khorinis. Have you ever been there? Well, doesn't matter anyway.
+DUMMY/DIA_MUD_NERVE_16_07_00.wav|Have you got something to eat for me? Since I'm some sort of visitor, it'd be polite if you gave me something. That's manners. My friends in Khorinis taught me that. They really liked me.
+DUMMY/DIA_MUD_NERVE_17_07_00.wav|D'you think anybody is ever going to visit us? Probably not, they wouldn't get out of here again, would they?
+DUMMY/DIA_MUD_NERVE_18_07_00.wav|Now that you're with me, we could show a few people where to go. These bastards have been harassing me for years. When I see one of them now, I'm gonna tell him a few things.
+DUMMY/DIA_MUD_NERVE_19_07_00.wav|The two of us are a dream team. We could take over the Old Camp. The Ore Barons wouldn't be a problem for us since we're a team. I'll think of a plan.
+DUMMY/INFO_EXIT_INFO_07_02.wav|Yes, sure!

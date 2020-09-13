@@ -1,0 +1,6 @@
+DUMMY/DIA_GORNARAN_WACHE_13_01.wav|I'm making sure no swampsharks come too close to the Camp.
+DUMMY/DIA_GORNARAN_WACHE_13_02.wav|If I were you, I'd steer clear of the beasts. You don't stand a chance against them.
+DUMMY/DIA_GORNARAN_WACHE_13_03.wav|Now don't disturb me any more, I need to keep my eyes peeled.
+DUMMY/INFO_TPL_1405_GORNARAN_INFO_13_01.wav|Where do you think you are going? Nobody's allowed to pass here!
+DUMMY/INFO_TPL_1405_GORNARAN_INFO_13_05.wav|You worm, you and your kind have no business here when the Sleeper awakes! I'll have to clear you out of the way.
+DUMMY/INFO_TPL_1405_GORNARAN_INFO_13_07.wav|Whatever you say, boy, for the Sleeper!

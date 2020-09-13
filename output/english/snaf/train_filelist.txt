@@ -1,0 +1,16 @@
+DUMMY/DIA_SNAF_HELLO_01_01.wav|Not bad. If you can cook well, you have many friends here.
+DUMMY/DIA_SNAF_HELLO_01_02.wav|Would you like some of my rice stew?
+DUMMY/DIA_SNAF_HELLO_01_04.wav|You could do me a favor.
+DUMMY/DIA_SNAF_ZUTATEN_01_01.wav|You must be used to good food. I have a new recipe: meatbug ragout à la Snaf with rice and mushrooms.
+DUMMY/DIA_SNAF_ZUTATEN_01_02.wav|You can have as much as you want, but I still need  3 meatbugs and some hell mushrooms - 5 should be enough.
+DUMMY/DIA_SNAF_ZUTATEN_KOTZ_01_01.wav|You don't have to eat it, but I think at least you could try! If you happen to get the things, think of me.
+DUMMY/DIA_SNAF_ZUTATEN_KOTZ_01_02.wav|I've already sent somebody but he just hasn't come back - must have deserted to the New Camp.
+DUMMY/DIA_SNAF_ZUTATEN_DOIT_01_01.wav|Then go and see you get me the things.
+DUMMY/DIA_SNAF_ZUTATENSUCCESS_01_01.wav|Good, I just have to add them, then the stew will be ready... Wait ...
+DUMMY/DIA_SNAF_AFTERSUCCESS_01_01.wav|And that's true. Here, take 3 portions.
+DUMMY/DIA_SNAF_AFTERSUCCESS_01_02.wav|Sure! But there's nothing left today. Come back tomorrow!
+DUMMY/DIA_SNAF_WHEREMEATBUGS_01_01.wav|Everywhere where there's garbish lying around. You should be able to find some at the deserted huts near the castle wall.
+DUMMY/DIA_SNAF_WHEREMEATBUGS_01_02.wav|Don't get confused by their ugly looks. Once cooked they are tasty.
+DUMMY/DIA_SNAF_WHEREMUSHROOMS_01_01.wav|If you leave through the south gate - that's the collapsed tower - you'll see a plain directly in front of you. There's mushrooms growing there.
+DUMMY/DIA_SNAF_WHERENEK_01_01.wav|His name was Nek. He was pretty discontented here - I think he's in the New Camp now.
+DUMMY/DIA_SNAF_WHERENEK_01_02.wav|I sent him to collect mushrooms - but he didn't come back...

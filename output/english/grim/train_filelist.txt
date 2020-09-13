@@ -1,0 +1,29 @@
+DUMMY/DIA_GRIM_FALLE_06_00.wav|Hey, you! Aren't you the guy who wants to join the Camp?
+DUMMY/DIA_GRIM_FALLE_06_02.wav|I could help you...
+DUMMY/DIA_GRIM_FALLE_06_04.wav|There are two guys sitting around outside the Camp, and one of them has stolen something from the Ore Barons. It's a precious amulet, which should have arrived with the last convoy.
+DUMMY/DIA_GRIM_FALLE_06_05.wav|One of them should still be in possession of the amulet. If we attack them together, we should manage - I couldn't do it on my own. What d'you say?
+DUMMY/DIA_GRIM_FALLE_DENY_06_01.wav|With this kind of attitude you won't last long here - just tell me if you change your mind!
+DUMMY/DIA_GRIM_FALLE_HALFHALF_06_01.wav|Okay, okay, fifty-fifty. I suppose it'll be enough for the two of us anyway. So - can I count on you?
+DUMMY/DIA_GRIM_FALLE_ACCEPR_06_01.wav|Alright, just tell me when we can start!
+DUMMY/DIA_GRIM_READYTOGO_06_01.wav|Okay, let's do it then ...
+DUMMY/DIA_GRIM_ATOCDRAUSSEN_06_01.wav|We're to send you regards from Bloodwyn!
+DUMMY/DIA_GRIM_ATOCDRAUSSEN_06_02.wav|I'm to send you regards from Bloodwyn!
+DUMMY/DIA_GRIM_NACHFALLE_06_02.wav|Hey, man! We're sitting in the same boat! I am not into digging in the mines either.
+DUMMY/DIA_GRIM_NACHFALLE_06_03.wav|So I'll do what the guards tell me, then I'll be accepted soon.
+DUMMY/DIA_GRIM_NACHFALLE_06_04.wav|That I should whack YOU of all people is your own fault really. Why did you have to start a bloody fight with the guards?
+DUMMY/DIA_GRIM_NACHFALLE_06_05.wav|Personally, I don't dislike you. So what do you think - peace or further fighting?
+DUMMY/DIA_GRIM_NACHFALLE_WEITERPRUEGELN_06_01.wav|Oh man, you get me down...
+DUMMY/DIA_GRIM_NACHFALLE_FRIEDEN_06_01.wav|I'm glad we see eye to eye on this. Let's forget about it. From now on, I'm on your side.
+DUMMY/DIA_GRIM_NACHFALLE_FRIEDEN_06_02.wav|If you ever have trouble again, you can count on me - I owe you some, after all.
+DUMMY/DIA_GRIM_HALLO_06_01.wav|Just arrived, have you? I'm Grim - I haven't been here for long either. I was thrown in with the load before you.
+DUMMY/DIA_GRIM_LEBEN_06_01.wav|Easy going, as long as you pay your share of protection money to the guards.
+DUMMY/DIA_GRIM_AUFNAHME_06_01.wav|Well, first of all you have to become a Shadow. Therefore, you have to find somebody who supports you. Somebody who explains everything to you and takes responsibility for you.
+DUMMY/DIA_GRIM_AUFNAHME_06_02.wav|If I was you I'd try and keep close to Diego - I did it like that - he's quite alright.
+DUMMY/DIA_GRIM_AUFNAHME_06_03.wav|He'll make you take the test of faith - that's different for everybody. Then there'll be some other smaller tasks from other Shadows.
+DUMMY/DIA_GRIM_AUFNAHME_06_04.wav|If you manage them, you'll be with us.
+DUMMY/DIA_GRIM_HOWFARAREYOU_06_01.wav|I've already talked to Dexter and Sly and Fingers. They are some of the most influential Shadows here in the Camp.
+DUMMY/DIA_GRIM_YOURPDV_06_01.wav|I can't tell you, man. You have to be silent about things like that here!
+DUMMY/DIA_GRIM_INEXTREMO_06_01.wav|Hey, have you heard the news?
+DUMMY/DIA_GRIM_INEXTREMO_06_02.wav|In Extremo are here. They're on stage over there.
+DUMMY/DIA_GRIM_INEXTREMO_06_03.wav|Hurry, otherwise, you'll miss the gig!
+DUMMY/DIA_GRIM_INEXTREMOAWAY_06_02.wav|They've moved on. It's a shame, I got really used to the evenings in front of the stage.

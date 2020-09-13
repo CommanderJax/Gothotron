@@ -1,0 +1,7 @@
+DUMMY/DIA_GORNADRAK_GREET_09_01.wav|We take the minecrawler secretion from our brothers in the Old Mine to Cor Kalom.
+DUMMY/DIA_GORNADRAK_GREET_09_02.wav|We go to the Old Mine every day to collect it.
+DUMMY/DIA_GORNADRAK_WASSEKRET_09_01.wav|We obtain it from the mandibles of the minecrawlers. If you know how to do it, you can take them out without losing the secretion.
+DUMMY/DIA_GORNADRAK_TEACHMANDIBLES_09_01.wav|Of course. After you've killed the beast, you get hold of the mandibles and pull them straight out. This way you'll get the secretion gland without destroying it.
+DUMMY/DIA_GORNADRAK_WHATFOR_09_01.wav|As far as I know, he makes a potion with it which increases the magic powers of a novice.
+DUMMY/DIA_GORNADRAK_WHATFOR_09_03.wav|With the aid of the potion, he'll prepare the novices for the great day.
+DUMMY/DIA_GORNADRAK_PERMANENT_09_01.wav|No - We still have to collect much more - our minecrawler hunting units are in action day and night.

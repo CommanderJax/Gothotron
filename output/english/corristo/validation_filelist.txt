@@ -1,0 +1,4 @@
+DUMMY/KDF_402_CORRISTO_EXPLAINMAGE_INFO_14_02.wav|We are Magicians of Fire. We are the servants of Innos, the highest of all gods.
+DUMMY/KDF_402_CORRISTO_WANNBEKDF_INFO_14_03.wav|Many have wanted to join us, but throughout the years I have only taken one as my apprentice. All the others have failed.
+DUMMY/KDF_402_CORRISTO_EXPLAINCIRCLES_INFO_14_05.wav|Many hours of learning are required and you'll need much experience to reach the higher Circles.
+DUMMY/KDF_402_CORRISTO_KREIS1_INFO_14_08.wav|With every Circle you enter, you learn to use further runes as well.

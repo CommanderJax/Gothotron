@@ -1,0 +1,10 @@
+DUMMY/DIA_CAINE_HALLO_JA_13_01.wav|Then you'll know that he's the second man in this camp... a-after Y'Berion.
+DUMMY/DIA_CAINE_HALLO_NEIN_13_01.wav|No?! You haven't been here long, have you?
+DUMMY/DIA_CAINE_HALLO_NEIN_13_02.wav|Cor Kalom's the second most important man after Y'Berion. He decides who may join us as a novice.
+DUMMY/DIA_CAINE_JOB_13_01.wav|I... I... I help my master prepare his alchemic potions.
+DUMMY/DIA_CAINE_JOB_13_02.wav|Mostly s-swampweed and minecrawler secretion. The... the secretion is required very urgently.
+DUMMY/DIA_CAINE_WOSEKRET_13_01.wav|You can find crawlers in the Old Mine. But you need to know how to win the secretion.
+DUMMY/DIA_CAINE_WOSEKRET_13_02.wav|If you really want to fight these beasts, you'd better speak to one of the templars who's had experience. Like Gor Na Drak.
+DUMMY/DIA_CAINE_WOSEKRET_13_03.wav|He travels around between our Camp and... and the Old Mine every day. I-In the mornings you'll find him at the lab.
+DUMMY/DIA_CAINE_ADDINFOKALOM_13_01.wav|He... he's not like the... the other Gurus. Everybody may address him, but... but NOBODY's allowed to waste his precious time.
+DUMMY/NOV_1301_CAINE_CHEST_INFO_13_02.wav|You don't. He keeps it in a locked chest and won't give it to anybody.

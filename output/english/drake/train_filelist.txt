@@ -1,0 +1,18 @@
+DUMMY/GRD_260_DRAKE_GEFAHR_INFO_11_02.wav|Minecrawlers, mainly. Dangerous beasts.
+DUMMY/GRD_260_DRAKE_GEFAHR_INFO_11_03.wav|We've had to give up a few caves because of them. They've eaten quite a few diggers, too.
+DUMMY/GRD_260_DRAKE_GEFAHR_INFO_11_05.wav|Oh, but my tongue's so dry...
+DUMMY/GRD_260_DRAKE_GEFAHR_INFO_11_06.wav|You bring me a beer, and I'll tell you something about the crawlers.
+DUMMY/GRD_260_DRAKE_CRAWLER_OKAY_11_02.wav|Thanks. Well, crawlers live in large packs, mostly in the side caves.
+DUMMY/GRD_260_DRAKE_CRAWLER_OKAY_11_03.wav|They've never attacked us here in the main shaft yet. If you ever meet one of 'em, run!
+DUMMY/GRD_260_DRAKE_CRAWLER_OKAY_11_04.wav|Or stand with your back to the wall. That way you may stand a chance!
+DUMMY/GRD_260_DRAKE_CRAWLER_OKAY_11_06.wav|Are you kidding me? Come back when you have some beer.
+DUMMY/GRD_260_DRAKE_MINE_INFO_11_02.wav|Well, this part we're standing in now is the main shaft. A system of catwalks takes you down to the bottom.
+DUMMY/GRD_260_DRAKE_MINE_INFO_11_03.wav|And they're digging for ore everywhere. But you need to be careful, there are many minecrawlers there as well.
+DUMMY/GRD_260_DRAKE_MINE_INFO_11_04.wav|Right at the bottom is the smelting place. We're smelting a part of the ore to use it right there.
+DUMMY/GRD_260_DRAKE_MINE_MEHR_INFO_11_02.wav|If you want to know more, go to Viper. He's the smelter.
+DUMMY/GRD_260_DRAKE_IAN_INFO_11_02.wav|He's right in the middle of the main shaft, next to the storeroom.
+DUMMY/GRD_260_DRAKE_IAN_INFO_11_03.wav|Oh, one more thing - you know Thorus, don't you? Forget him!
+DUMMY/GRD_260_DRAKE_IAN_INFO_11_04.wav|There's just one person who has the say in here and that's Ian. He's the boss.
+DUMMY/GRD_260_DRAKE_IAN_INFO_11_05.wav|If you get into trouble with him, you'll be in trouble with us all. Understood?
+DUMMY/GRD_260_DRAKE_GARDEAUFNAHME_INFO_11_01.wav|Hey, you did a good job with the crawlers! You deserve to be admitted as a guard now!
+DUMMY/GRD_260_DRAKE_GARDEAUFNAHME_INFO_11_02.wav|Just go over to the Old Camp and speak to Thorus about it!

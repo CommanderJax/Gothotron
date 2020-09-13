@@ -1,0 +1,17 @@
+DUMMY/DIA_JARVIS_EXIT_08_00.wav|Watch your back!
+DUMMY/DIA_JARVIS_FIRST_08_00.wav|Do you intend to go through this gate?
+DUMMY/DIA_JARVIS_FIRST_08_02.wav|No, but you should know what's waiting for you. This is not like in the Old Camp and not like being with the sect loonies either!
+DUMMY/DIA_JARVIS_FIRST_08_04.wav|There are no guards or templars to look after you. It's every man for himself, the only ones who stick together are us mercenaries.
+DUMMY/DIA_JARVIS_SLDINFO_08_01.wav|We - we are the mercenaries of the water mages.
+DUMMY/DIA_JARVIS_SLDINFO_08_02.wav|Our target is to break free from here. We're working hard for it and don't plan to take things easy like the guys from the Old Camp, who are just having an easy time resting on the backs of the diggers.
+DUMMY/DIA_JARVIS_SLDINFO_08_03.wav|And we all follow Lee. He's a great man. He's the one who holds this damn camp together.
+DUMMY/DIA_JARVIS_MAGIER_08_01.wav|They investigate the magic characteristics of the ore our scrapers collect in the mine.
+DUMMY/DIA_JARVIS_MAGIER_08_02.wav|As far as I know, they want to blow the whole damn ore mound sky-high to free us from the Barrier.
+DUMMY/DIA_JARVIS_ERZHAUFEN_08_01.wav|You could say that. We could buy the King's wife for that.
+DUMMY/DIA_JARVIS_ERZHAUFEN_08_02.wav|But we don't give a damn about trading the ore with that old fart. We want to get OUT OF HERE!
+DUMMY/DIA_JARVIS_WOHAUFEN_08_01.wav|You want to see a real mound of ore, do you? There's a hole in the middle of the cave, they shove it all in there.
+DUMMY/DIA_JARVIS_WOHAUFEN_08_02.wav|But you won't get anywhere near it, I can tell you. The mages and our people guard the ore day and night.
+DUMMY/DIA_JARVIS_REST_08_01.wav|All crooks. They don't give a damn about the Camp. I'd rather just have the peasants guarding the front gate.
+DUMMY/DIA_JARVIS_PERM_08_01.wav|The scrapers are still collecting. Once they have enough ore, we'll blow the mound up.
+DUMMY/SLD_728_JARVIS_AUFNAHMESOLDIER_INFO_08_01.wav|Hey, I heard you'd been giving the crawlers in the mine a hard time.
+DUMMY/SLD_728_JARVIS_AUFNAHMESOLDIER_INFO_08_02.wav|Lee should be quite willing to accept you as a mercenary. Just speak to him.

@@ -1,0 +1,3 @@
+DUMMY/DIA_WOLF_GREETORG_09_00.wav|Hey! Now you're one of us, kid.
+DUMMY/ORG_855_WOLF_TRAINOFFER_INFO_09_04.wav|Anything I teach you will cost you 50 ore. I don't haggle.
+DUMMY/INFO_WOLF_SPEAK_09_06.wav|... NOOO. Not them. There is a far more dangerous kind in our mine.

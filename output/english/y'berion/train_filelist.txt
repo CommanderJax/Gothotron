@@ -1,0 +1,23 @@
+DUMMY/ZS_MEDITATE_OM.wav|Omm...
+DUMMY/ZS_PREACH_YBERION01.wav|Der Schläfer hat zu mir gesprochen.
+DUMMY/ZS_PREACH_YBERION02.wav|Der Schläfer wird uns alle befreien.
+DUMMY/ZS_PREACH_YBERION03.wav|Der Schläfer erwache!
+DUMMY/DIA_YBERION_WACHE_12_00.wav|What are you doin' here? Who let you in? Guards!
+DUMMY/DIA_YBERION_KENNEN_12_01.wav|Ah! I know your face!
+DUMMY/DIA_YBERION_KENNEN_12_03.wav|But I thought... Well - what do you want?
+DUMMY/SIT_2_PSI_YBERION_BRINGFOCUS_INFO_12_02.wav|That's right. We need a magical focus.
+DUMMY/SIT_2_PSI_YBERION_BRINGFOCUS_INFO_12_03.wav|We sent the novice Nyras to collect the focus. But he hasn't come back yet.
+DUMMY/SIT_2_PSI_YBERION_BRINGFOCUS_INFO_12_04.wav|You could check up for me what has happened!
+DUMMY/SIT_2_PSI_YBERION_BRINGFOCUS_OK_12_02.wav|Take this map. The location of the focus is recorded on it.
+DUMMY/SIT_2_PSI_YBERION_BRINGFOCUS_WO_12_02.wav|Leave the Camp, turn right and go up to the tall cliff. Go beyond the forest until you can see the sea. There you'll find the focus.
+DUMMY/SIT_2_PSI_YBERION_BRINGFOCUS_FOKUS_12_02.wav|It is a magical object which can concentrate our spiritual powers.
+DUMMY/SIT_2_PSI_YBERION_BRINGFOCUS_FOKUS_12_03.wav|It is one of the five focus stones used by the mages to erect the Barrier.
+DUMMY/SIT_2_PSI_YBERION_BRINGFOCUS_FOKUS_12_04.wav|In a vision I saw that we need to use the power of the focus.
+DUMMY/INFO_YBERION_BRINGFOCUS_RUNNING_12_02.wav|Then search on. The Sleeper will guide the way.
+DUMMY/INFO_YBERION_BRINGFOCUS_SUCCESS_12_02.wav|Excellent. You have done us a great favor.
+DUMMY/INFO_YBERION_BRINGFOCUS_SUCCESS_12_03.wav|Now take the focus back to Cor Kalom. He'll know what needs to be done.
+DUMMY/INFO_YBERION_BRINGFOCUS_SUCCESS_12_05.wav|He spends most of his time in the alchemy lab in the upper section of the catwalks.
+DUMMY/INFO_YBERION_BRINGFOCUS_SUCCESS_12_06.wav|Talk to Lester at the entrance to the Camp... he often guides newcomers around the Camp.
+DUMMY/INFO_YBERION_NYRAS_12_04.wav|The might of the Sleeper is so vast that unprepared souls despair over it.
+DUMMY/INFO_YBERION_NYRAS_12_05.wav|Only we Gurus, in our years of meditation, have achieved the spiritual strength to bear the voice of the almighty Sleeper!
+DUMMY/GUR_1200_YBERION_EARN_INFO_12_03.wav|Take this amulet as a sign of my gratitude.

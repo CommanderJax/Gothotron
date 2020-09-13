@@ -1,0 +1,3 @@
+DUMMY/TPL_1400_GORNABAR_EXIT_INFO_09_02.wav|May the Sleeper protect you!
+DUMMY/TPL_1400_GORNABAR_INFO_INFO_09_02.wav|The crawlers must have a nest somewhere. If we only knew where, we could destroy the whole brood!
+DUMMY/TPL_1400_GORNABAR_VICTORY_INFO_09_02.wav|You've shown courage and spirit. We need people like you!

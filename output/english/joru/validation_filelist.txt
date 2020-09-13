@@ -1,0 +1,2 @@
+DUMMY/DIA_JORU_GREET_07_03.wav|I've even spoken to Y'Berion. He's the chosen one. He told me that if I work hard, I can soon be a master myself.
+DUMMY/DIA_JORU_GETMAGIC_07_01.wav|Baal Cadar sells runes and spell scrolls. That's no use to you if he doesn't talk to you, right?

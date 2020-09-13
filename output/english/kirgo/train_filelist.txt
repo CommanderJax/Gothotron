@@ -1,0 +1,12 @@
+DUMMY/INFO_KIRGO_WHAT_05_01.wav|You don't say! Tell me about the outside world! It's been over a month since I heard anything from outside.
+DUMMY/INFO_KIRGO_WHAT_05_02.wav|I'm Kirgo. I fight in the arena.
+DUMMY/INFO_KIRGO_GOOD_05_01.wav|At fighting? I haven't been doing it for long, but I've already won a fight!
+DUMMY/INFO_KIRGO_CHARGE_05_01.wav|What? But I don't wanna fight. Why don't we just have a beer together and talk about the outside world?
+DUMMY/INFO_KIRGO_CHARGE_BEER_05_01.wav|Here you are!
+DUMMY/INFO_KIRGO_CHARGE_BEER_05_03.wav|That's a shame... Oh well, never mind... Hey, you're still looking pretty good for someone who's been locked up for two months.
+DUMMY/INFO_KIRGO_CHARGE_BEER_05_05.wav|Then why do you insist on fighting one of us?
+DUMMY/INFO_KIRGO_CHARGE_BEER_05_07.wav|By Scatty, you mean? Hm, he's one of the most influential men in the Outer Ring... You might be able to impress him by defeating me...
+DUMMY/INFO_KIRGO_CHARGE_BEER_05_08.wav|But if you really want to impress him, it's Kharim you need to beat. Only thing is, I'm afraid he might be too good for you!
+DUMMY/INFO_KIRGO_CHARGE_BEER_05_09.wav|If you still want to fight me, let me know! But I won't enjoy knocking you out cold.
+DUMMY/INFO_KIRGO_CHARGEREAL_05_01.wav|Follow me!
+DUMMY/INFO_KIRGO_INARENA_05_00.wav|Right, let's get to it. May the best man win!

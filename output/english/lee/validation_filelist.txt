@@ -1,0 +1,3 @@
+DUMMY/DIA_LEE_MITMACHEN_08_01.wav|You have a nerve! D'you honestly think I'll just take anybody who walks in here?
+DUMMY/SLD_700_LEE_ARMOR_M_INFO_08_03.wav|Without ore you won't get any armor either.
+DUMMY/SLD_700_LEE_ZWEIHAND2_INFO_08_09.wav|The key to success is varying your stances and changing positions.

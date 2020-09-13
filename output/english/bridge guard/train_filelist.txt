@@ -1,0 +1,6 @@
+DUMMY/INFO_GRD_275_PREEXIT_06_01.wav|Make sure you get to the Old Camp, they're holding a pickaxe for you, hee, hee!
+DUMMY/INFO_GRD_275_WASMACHTIHRHIER_06_02.wav|We make sure that no beasts cross the bridge.
+DUMMY/INFO_GRD_275_TIPS_06_01.wav|Yeah. Don't go in the forest in your own.
+DUMMY/INFO_GRD_275_TIPS_06_02.wav|Unless you're strong enough to fight off all the beasts.
+DUMMY/INFO_GRD_276_TIPS_07_01.wav|How nice for you.
+DUMMY/INFO_GRD_276_BLA_07_01.wav|No, that's the New Camp. The Old Camp is underneath the bridge.

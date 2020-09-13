@@ -1,0 +1,17 @@
+DUMMY/DIA_TORREZ_HELLO_04_01.wav|Speak to Milten! And now go!
+DUMMY/DIA_TORREZ_BELOHNUNG_04_01.wav|You have done us a great service and you shall have your reward. Choose carefully.
+DUMMY/DIA_TORREZ_BELOHNUNG_STR_04_01.wav|The expected choice. Here, take the ring.
+DUMMY/DIA_TORREZ_BELOHNUNG_DEX_04_01.wav|Dexterity wins over strength. A good decision.
+DUMMY/DIA_TORREZ_BELOHNUNG_SCROLLS_04_01.wav|Use them wisely. You can use each of them only once!
+DUMMY/DIA_TORREZ_BELOHNUNG_MANAMAX_04_01.wav|A wise choice! You have picked the most precious of all gifts. Drink the potion and your power will grow!
+DUMMY/DIA_TORREZ_BRIEFTAUSCH_04_03.wav|I understand. I have your reward here - show me the letter. Now!
+DUMMY/DIA_TORREZ_BRIEFTAUSCH_04_05.wav|Your reward is a Ring of Strength. It's a rare artefact, and will be of great use to you.
+DUMMY/DIA_TORREZ_BRIEFTAUSCH_04_06.wav|Now go!
+DUMMY/DIA_TORREZ_BRIEFTAUSCH_04_07.wav|The seal is broken.
+DUMMY/DIA_TORREZ_BRIEFTAUSCH_04_09.wav|Your reward is a healing potion. Be content with that. Messengers who deliver letters without seals usually don't get anything!
+DUMMY/DIA_TORREZ_PERM_04_01.wav|That's none of your business!
+DUMMY/KDF_405_TORREZ_BOOK_INFO_04_01.wav|For each of the Circles there is a book explaining it's magic. Study these books. Knowledge is power!
+DUMMY/KDF_405_TORREZ_BOOK_INFO_04_02.wav|Take the book of the First Circle and learn to understand the Fire.
+DUMMY/KDF_405_TORREZ_GREET_INFO_04_02.wav|May Innos watch over you! I trade in magic knowledge, and I can show you how to increase your magic powers!
+DUMMY/KDF_405_TORREZ_MANA_INFO_04_02.wav|I can help you to increase your power. What use you make of it is up to you.
+DUMMY/KDF_405_TORREZ_WANNABEMAGE_INFO_04_02.wav|Talk to Master Corristo, if he has time for you.

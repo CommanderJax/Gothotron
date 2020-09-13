@@ -1,0 +1,36 @@
+DUMMY/ORG_826_MORDRAG_GREET_11_00.wav|Hey, newcomer! I'm Mordrag. You should remember that name - you can buy any kind of goods from me at a cheap price!
+DUMMY/ORG_826_MORDRAG_TRADE_11_01.wav|Choose something...
+DUMMY/ORG_826_MORDRAG_COURIER_11_01.wav|What if I am?
+DUMMY/ORG_826_MORDRAG_COURIER_11_03.wav|The magicians' couriers bear seals which allow them entry to the castle. If you were one of us, you could get such a seal...
+DUMMY/ORG_826_MORDRAG_PROBLEM_11_01.wav|Really? What's that?
+DUMMY/ORG_826_MORDRAG_PROBLEM_11_03.wav|Really? Then you can tell them they should send someone along to enforce their wish.
+DUMMY/ORG_826_MORDRAG_PROBLEM_11_06.wav|We too need capable people in the New Camp, and nobody tells you what to do.
+DUMMY/ORG_826_MORDRAG_NCINFO_11_02.wav|We have our own mine. But the ore that is produced there isn't given to the damned king!
+DUMMY/ORG_826_MORDRAG_NCINFO_11_04.wav|Our magicians are working on a plan to break out of here. All the ore is collected for this plan.
+DUMMY/ORG_826_MORDRAG_NCINFO_11_05.wav|While Gomez and his people are lazing around, we drudge for freedom - that's what's going on.
+DUMMY/ORG_826_MORDRAG_JOINNEWCAMP_11_01.wav|If you're serious we can go now! I can take you to Lares. He's the head of our gang.
+DUMMY/ORG_826_MORDRAG_JOINNEWCAMP_11_02.wav|But if you prefer to beat me out of the Camp... Well, go for it!
+DUMMY/ORG_826_MORDRAG_GOTONEWCAMP_11_01.wav|O.K.! Follow me.
+DUMMY/ORG_826_MORDRAG_ATNEWCAMP_11_00.wav|Well, here we are.
+DUMMY/ORG_826_MORDRAG_ATNEWCAMP_LATE_11_00.wav|I thought you'd never arrive! Never mind - we're here!
+DUMMY/ORG_826_MORDRAG_ATNEWCAMP_11_01.wav|When you pass through the gate, you'll reach the New Camp. Talk to Lares. He'll help you. Give this to him. It's a precious ring.
+DUMMY/ORG_826_MORDRAG_ATNEWCAMP_11_02.wav|It's your ticket to see Lares. You need a good reason to be allowed to meet him.
+DUMMY/ORG_826_MORDRAG_ATNEWCAMP_11_03.wav|Well, thinking about it, I think I'll stay here for some time. I've earned enough for now, and things are heating up in the Old Camp.
+DUMMY/ORG_826_MORDRAG_ATNEWCAMP_11_04.wav|If you want, come and meet me at the bar - it's the hut out on the lake. Take care!
+DUMMY/ORG_826_MORDRAG_FIGHT_11_01.wav|Pardon me?
+DUMMY/INFO_MORDRAG_FIGHT_GETAWAY_11_01.wav|Big words from a small man...
+DUMMY/INFO_MORDRAG_FIGHT_OREBARONS_11_01.wav|Oh, that's what you mean! Why didn't you just say so...
+DUMMY/INFO_MORDRAG_FIGHT_THORUS_11_01.wav|Really? Thorus? That's all I wanted to know...
+DUMMY/ORG_826_MORDRAG_GOTOKALOM_11_01.wav|Tell me about it.
+DUMMY/ORG_826_MORDRAG_GOTOKALOM_11_03.wav|I get the feeling this problem will solve itself...
+DUMMY/ORG_826_MORDRAG_GOTOKALOMNOW_11_01.wav|You see... I knew I wouldn't have to take care of it myself.
+DUMMY/ORG_826_MORDRAG_GOTOKALOMNOW_11_03.wav|I'm sure you'll make it. Listen: It's important to find out the truth about this invocation story.
+DUMMY/ORG_826_MORDRAG_GOTOKALOMNOW_11_04.wav|I know that those sect loonies are planning a big invocation. Me, I don't believe in the Sleeper - but one thing's for sure:
+DUMMY/ORG_826_MORDRAG_GOTOKALOMNOW_11_05.wav|The Gurus have powerful magic at their command. Therefore it's better to know what's going on. You with me so far?
+DUMMY/ORG_826_MORDRAG_GOTOKALOMNOW_PRECISE_11_01.wav|Talk to Lester. I once spent a long time in the Sect Camp, and he helped me back then. He's with the good guys.
+DUMMY/ORG_826_MORDRAG_GOTOKALOMNOW_DOIT_11_01.wav|As soon as you know about their plans, come back and report.
+DUMMY/ORG_826_MORDRAG_RUNNING_11_01.wav|What?
+DUMMY/ORG_826_MORDRAG_RUNNING_11_09.wav|No! You mean you took part in their folly?
+DUMMY/ORG_826_MORDRAG_RUNNING_11_07.wav|What a scream! Those madcaps really believe all that, don't they?
+DUMMY/ORG_826_MORDRAG_RUNNING_11_11.wav|Me too. Let me know when the Gurus have finished making complete fools of themselves.
+DUMMY/ORG_826_MORDRAG_RUNNING_11_03.wav|Then get on with it...

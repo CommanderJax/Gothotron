@@ -1,0 +1,9 @@
+DUMMY/GRD_263_ASGHAN_NEST_INFO_06_02.wav|The whole bloody mountain is just one big crawler nest!
+DUMMY/GRD_263_ASGHAN_NEST_INFO_06_04.wav|It didn't matter how many crawlers we killed, more and more just kept coming out.
+DUMMY/GRD_263_ASGHAN_OPEN_INFO_06_02.wav|I've already told you: only if Ian...
+DUMMY/GRD_263_ASGHAN_OPEN_INFO_06_04.wav|Well then, if Ian is responsible for this... but only under one condition!
+DUMMY/GRD_263_ASGHAN_OPEN_INFO_06_06.wav|Just get me two or three templars for support, I don't want to be here on my own when the crawlers come out of the shaft!
+DUMMY/GRD_263_ASGHAN_OPEN_NOW_INFO_06_02.wav|Okay then, open the shaft now. Let the show begin.
+DUMMY/GRD_263_ASGHAN_LAIRFOUND_INFO_06_02.wav|That's good news. I'll just send a messenger to Thorus!
+DUMMY/GRD_263_ASGHAN_SMALLTALK_INFO_06_02.wav|Okay... so long as nobody don't get the idea of opening this gate, I don't need to hurt anybody, either.
+DUMMY/GRD_263_ASGHAN_SMALLTALK_INFO_06_04.wav|Minecrawlers. Big, bad minecrawlers. Lots and lots and lots of them.

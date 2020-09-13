@@ -1,0 +1,77 @@
+DUMMY/INFO_THORUS_DIEGOSENTME_09_01.wav|Huh... If Diego thinks you're okay, why doesn't HE take care of you?
+DUMMY/INFO_THORUS_DIEGOSENTME_09_02.wav|Look, let me explain: Diego's gonna test you. If HE thinks you're good enough, I'll let you into the castle to see Gomez.
+DUMMY/INFO_THORUS_DIEGOSENTME_09_03.wav|Whatever happens after that is up to you, okay?
+DUMMY/INFO_THORUS_TRYME_09_01.wav|It ain't that easy, kid! Any newcomer who wants to get anywhere needs a patron.
+DUMMY/INFO_THORUS_TRYME_09_02.wav|That patron has to be one of Gomez' people. He'll test you.
+DUMMY/INFO_THORUS_TRYME_09_03.wav|And if you fail, you're his responsibility - that's the law around here.
+DUMMY/INFO_THORUS_TRYMEAGAIN_09_01.wav|No. The things we guards deal with are a bit above you, kid.
+DUMMY/INFO_THORUS_TRYMEAGAIN_09_02.wav|You just stick to the tasks your patron sets for you.
+DUMMY/INFO_THORUS_TRYMEICANDOIT_09_01.wav|Oh? So you're intent on failing, eh... There is one thing that only someone who's not with Gomez can see to.
+DUMMY/INFO_THORUS_TRYMEICANDOIT_09_02.wav|But I'm warning you: You blow this, and you'll be in mighty big trouble.
+DUMMY/INFO_THORUS_MORDRAGKO_OFFER_09_01.wav|What I'm about to tell you is between you and me, and nobody else must ever hear about it, understood?
+DUMMY/INFO_THORUS_MORDRAGKO_OFFER_09_03.wav|We have a problem with a guy from the New Camp. His name's Mordrag. He's been stealing from the Ore Barons.
+DUMMY/INFO_THORUS_MORDRAGKO_OFFER_09_04.wav|Of course that applies to a lot of the rogues in the New Camp, but this guy has the nerve to come to OUR camp and sell OUR stolen goods to OUR boys!
+DUMMY/INFO_THORUS_MORDRAGKO_OFFER_09_05.wav|He's gone too far. But he knows I can't do anything about it.
+DUMMY/INFO_THORUS_MORDRAGKO_OFFER_09_07.wav|Because he's under the protection of the Mages.
+DUMMY/INFO_THORUS_MORDRAGKO_KILLHIM_09_01.wav|I want you to make sure I never see his face around here again. I don't care how you do it.
+DUMMY/INFO_THORUS_MORDRAGKO_MAGESPROTECT_09_01.wav|Because they use him as a gofer. Our local mages are in contact with the mages over in the New Camp. They often send gofers back and forth.
+DUMMY/INFO_THORUS_MORDRAGKO_MAGESPROTECT_09_02.wav|They're likely to become VERY unpleasant if I throw one of their gofers out of the Camp or have him killed.
+DUMMY/INFO_THORUS_MORDRAGKO_MAGESPROTECT_09_04.wav|You're new here. You'll be okay. But I'm responsible for what my boys do. That's why it's vital that you keep your mouth shut.
+DUMMY/INFO_THORUS_MORDRAGKO_MAGEPROBLEM_09_01.wav|Yeah, but they're a problem that's hard to solve. A few years back one of the Shadows tried to stab the High Magician of the Circle of Fire while he was sleeping.
+DUMMY/INFO_THORUS_MORDRAGKO_MAGEPROBLEM_09_02.wav|They found him later in the Outer Ring - in fact, he was scattered ALL OVER the Outer Ring.
+DUMMY/INFO_THORUS_MORDRAGKO_MORDRAGDEAD_09_01.wav|You mean you defeated him? That's not bad, kid.
+DUMMY/INFO_THORUS_MORDRAGFAILED_09_00.wav|You failed! I told you NOT TO MENTION MY NAME!!!
+DUMMY/INFO_THORUS_MORDRAGFAILED_09_01.wav|You've blown it! Just forget the whole thing! Don't you dare try to have anything else to do with the matter!
+DUMMY/INFO_THORUS_BRIBEGUARD_09_01.wav|For a certain amount...
+DUMMY/INFO_THORUS_BRIBEGUARD_09_02.wav|Well - it'd have to take a while to count the ore. Long enough to make sure me and my boys are busy counting while you slip by.
+DUMMY/INFO_THORUS_BRIBEGUARD_09_04.wav|Well, you could join up with Gomez, that'd get you in the castle for free.
+DUMMY/INFO_THORUS_GIVE1000ORE_09_01.wav|Alright, go ahead. You can go in the castle, but don't do anything stupid, okay?
+DUMMY/INFO_THORUS_GIVE1000ORE_09_02.wav|Don't try'n trick me, kid. You don't have 1000 nuggets of ore!
+DUMMY/INFO_THORUS_LETTERFORMAGES_09_01.wav|And you expect me to let you stroll inside the castle to hand it over and collect your reward?
+DUMMY/INFO_THORUS_LETTERFORMAGES_09_03.wav|Okay, show me the letter.
+DUMMY/INFO_THORUS_LETTERFORMAGES_09_05.wav|Okay, I've forgotten.
+DUMMY/INFO_THORUS_READYFORGOMEZ_09_01.wav|That's my decision!
+DUMMY/INFO_THORUS_READYFORGOMEZ_09_03.wav|Hmmm...
+DUMMY/INFO_THORUS_READYFORGOMEZ_09_04.wav|I must admit you seem to have done most things okay.
+DUMMY/INFO_THORUS_READYFORGOMEZ_09_05.wav|Okay! You can see Gomez. He alone will decide whether you get to join us or not.
+DUMMY/INFO_THORUS_READYFORGOMEZ_09_06.wav|From now on, you're on your own, kid.
+DUMMY/INFO_THORUS_KRAUTBOTE_09_01.wav|Show me!
+DUMMY/INFO_THORUS_KRAUTBOTE_09_02.wav|Hmmmmmmm...
+DUMMY/INFO_THORUS_KRAUTBOTE_09_04.wav|You don't have enough weed to be a gofer! I hope for your sake that you haven't sold the stuff elsewhere! Come back when you have the right amount!
+DUMMY/INFO_THORUS_KDWSIEGEL_09_01.wav|You have a messenger's amulet with you. That'll get you past the guards.
+DUMMY/INFO_THORUS_KDWSIEGEL_09_02.wav|I want nothing to do with the mages. So stop bothering me, will you?
+DUMMY/INFO_THORUS_KDWSIEGEL_09_03.wav|Sure you are. I guess you must have mislaid your amulet, eh?
+DUMMY/INFO_THORUS_STTGESCHAFFT_09_01.wav|Congratulations, kid! You'd better stick close to Diego from now on.
+DUMMY/INFO_THORUS_STTGESCHAFFT_09_02.wav|Only go to Gomez or Raven if you have something REALLY important to say.
+DUMMY/INFO_THORUS_PERM2_09_01.wav|We're not having much trouble from the New Camp. I'm more worried about those sect loonies.
+DUMMY/GRD_200_THORUS_GARDIST_INFO_09_02.wav|Yes. What you did in the mine not only shows some courage, but it also proves your strength and your fighting skills.
+DUMMY/GRD_200_THORUS_GARDIST_INFO_09_03.wav|I'm ready to accept you into the ranks of the guards.
+DUMMY/GRD_200_THORUS_GARDIST_INFO_09_04.wav|But you're not quite ready to become a guard yet. You need to gather a little more experience before I can take you on.
+DUMMY/GRD_200_THORUS_GARDIST_INFO_09_05.wav|I'm giving you a chance. What do you say?
+DUMMY/GRD_200_THORUS_AUFNAHME_INFO_09_02.wav|I'm glad to hear it. But first I must tell you something that I tell all new recruits. Listen carefully, I shall say this only once.
+DUMMY/GRD_200_THORUS_AUFNAHME_INFO_09_03.wav|So far, you've tried to get by on your own. Those days are over now. My boys stick together. We guards protect the Ore Barons, the ore, the camp and the mine.
+DUMMY/GRD_200_THORUS_AUFNAHME_INFO_09_04.wav|The diggers collect the ore, but we make sure that they don't get eaten by crawlers. The Ore Barons negotiate with the King, but we're the ones that protect them.
+DUMMY/GRD_200_THORUS_AUFNAHME_INFO_09_05.wav|Day and night, we're in the mine. Day and night, we stand at the gates of the Camp and make sure folks get to sleep peacefully.
+DUMMY/GRD_200_THORUS_AUFNAHME_INFO_09_07.wav|I only expect one thing from my boys: that they stick together. Only by standing together will we be able to hold on to what we have.
+DUMMY/GRD_200_THORUS_AUFNAHME_INFO_09_08.wav|And to survive.
+DUMMY/GRD_200_THORUS_AUFNAHME_INFO_09_09.wav|You'll learn everything else in due course. Be ready and help out wherever help is needed or something needs to be done.
+DUMMY/GRD_200_THORUS_AUFNAHME_INFO_09_10.wav|Go and ask Stone to give you some armor and a sword.
+DUMMY/GRD_200_THORUS_AUFNAHME_INFO_09_11.wav|You'll find Stone in the blacksmith's shop in the Inner Ring.
+DUMMY/GRD_200_THORUS_NOCHWAS_INFO_09_01.wav|Oh, one more thing...
+DUMMY/GRD_200_THORUS_NOCHWAS_INFO_09_02.wav|Welcome to the Guards.
+DUMMY/GRD_200_THORUS_WANNABEMAGE_INFO_09_02.wav|Well, in that case maybe you should talk to Corristo. He taught Milten. I'm sure there's nothing to stop you.
+DUMMY/GRD_200_THORUS_TEACH_09_01.wav|I can show you how to improve your skill and strength.
+DUMMY/GRD_200_THORUS_ZWEIHAND1_INFO_09_02.wav|Okay, let's go through the basics first.
+DUMMY/GRD_200_THORUS_ZWEIHAND1_INFO_09_03.wav|Hold the sword in a horizontal position. You'll need more swing to attack your opponent with such a heavy weapon.
+DUMMY/GRD_200_THORUS_ZWEIHAND1_INFO_09_04.wav|Raise your arm and swing it straight down. That's usually enough to knock the opponent down.
+DUMMY/GRD_200_THORUS_ZWEIHAND1_INFO_09_05.wav|Use the momentum of the weapon to bring it straight back up again.
+DUMMY/GRD_200_THORUS_ZWEIHAND1_INFO_09_06.wav|Two-handed swords are ideal for coordinating side hits to keep opponents at a distance.
+DUMMY/GRD_200_THORUS_ZWEIHAND1_INFO_09_07.wav|That should do to begin with. Have a practice.
+DUMMY/GRD_200_THORUS_ZWEIHAND2_INFO_09_02.wav|First of all, you need to change your basic stance. Hold the sword vertically, grasp the hilt firmly in both hands and hold it at the side of your body.
+DUMMY/GRD_200_THORUS_ZWEIHAND2_INFO_09_03.wav|Bring it down quickly and swing the blade over your shoulder. Now's your chance to do a quick slash to your right.
+DUMMY/GRD_200_THORUS_ZWEIHAND2_INFO_09_04.wav|Your opponent won't have time to come at you.
+DUMMY/GRD_200_THORUS_ZWEIHAND2_INFO_09_05.wav|Or bring the sword down from the top left in a forward thrust to drive your opponent back.
+DUMMY/GRD_200_THORUS_ZWEIHAND2_INFO_09_06.wav|Spin around to give your next blow the necessary momentum to strike your opponent down.
+DUMMY/GRD_200_THORUS_ZWEIHAND2_INFO_09_07.wav|If it isn't enough, use your remaining swing to wield the sword again.
+DUMMY/GRD_200_THORUS_ZWEIHAND2_INFO_09_08.wav|When you've finished your attack, block your opponent and wait for an opening to strike again.
+DUMMY/GRD_200_THORUS_ZWEIHAND2_INFO_09_09.wav|The key to success is varying your stances and changing positions.

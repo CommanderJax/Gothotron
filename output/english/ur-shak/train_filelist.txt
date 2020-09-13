@@ -1,0 +1,66 @@
+DUMMY/INFO_ORCSHAMAN_THX_17_01.wav|Owe thanks, stranger.
+DUMMY/INFO_ORCSHAMAN_THX_17_02.wav|Bad Orcs want kill me.
+DUMMY/INFO_ORCSHAMAN_THX_17_03.wav|Old brothers today enemies.
+DUMMY/INFO_ORCSHAMAN_WHO_17_03.wav|Be son of the spirit. People call shaman.
+DUMMY/INFO_ORCSHAMAN_TONGUE_17_02.wav|Ur-Shak be slave of humans in mine.
+DUMMY/INFO_ORCSHAMAN_TONGUE_17_03.wav|Run away. Happen many winters ago.
+DUMMY/INFO_ORCSHAMAN_MINE_17_02.wav|Mine be under village in Hollow.
+DUMMY/INFO_ORCSHAMAN_WHY_17_02.wav|Ur-Shak in disfavor.
+DUMMY/INFO_ORCSHAMAN_WHY_17_03.wav|Besmirch creed in KRUSHAK.
+DUMMY/INFO_ORCSHAMAN_WHY_17_04.wav|Believe KRUSHAK bad demon.
+DUMMY/INFO_ORCSHAMAN_KRUSHAK_17_02.wav|Humans call SLEEP.
+DUMMY/INFO_ORCSHAMAN_KRUSHAK_17_04.wav|Yes, humans say SLEEPER!
+DUMMY/INFO_ORCSHAMAN_SLEEPER_17_03.wav|Be sons of spirit, like Ur-Shak!
+DUMMY/INFO_ORCSHAMAN_SLEEPER_17_05.wav|Call KRUSHAK!
+DUMMY/INFO_ORCSHAMAN_SLEEPER_17_06.wav|Want defeat clan of enemy!
+DUMMY/INFO_ORCSHAMAN_SLEEPER_17_07.wav|Five brothers then build temple under earth for KRUSHAK!
+DUMMY/INFO_ORCSHAMAN_CURSE_17_02.wav|Brothers then give heart to KRUSHAK.
+DUMMY/INFO_ORCSHAMAN_CURSE_17_03.wav|But KRUSHAK be bad. KRUSHAK curse all who build temple.
+DUMMY/INFO_ORCSHAMAN_CURSE_17_04.wav|Brothers have no heart, be dead and live. Be both.
+DUMMY/INFO_ORCSHAMAN_CURSE_17_05.wav|KRUSHAK now have heart of brothers. Heart now be power for KRUSHAK.
+DUMMY/INFO_ORCSHAMAN_CURSE_17_07.wav|KRUSHAK curse all. Workers too. Be all dead and live, both at same time.
+DUMMY/INFO_ORCSHAMAN_OUTSIDE_17_02.wav|They seal temple. Brothers today worship KRUSHAK.
+DUMMY/INFO_ORCSHAMAN_OUTSIDE_17_03.wav|KRUSHAK get sacrifice, so no become bad.
+DUMMY/INFO_ORCSHAMAN_OUTSIDE_17_04.wav|Ur-Shak think sacrifice bad thing. Have said KRUSHAK bad.
+DUMMY/INFO_ORCSHAMAN_OUTSIDE_17_05.wav|Brothers no want to hear. Brothers say Ur-Shak go. Brothers hit Ur-Shak.
+DUMMY/INFO_ORCSHAMAN_INTEMPLE_17_02.wav|Ur-Shak say thanks to stranger. Stranger save Ur-Shak.
+DUMMY/INFO_ORCSHAMAN_INTEMPLE_17_03.wav|But entry of temple be home. Ur-Shak home no can go.
+DUMMY/INFO_ORCSHAMAN_MAP_17_03.wav|Stranger give map, then Ur-Shak finish map!
+DUMMY/INFO_ORCSHAMAN_MAP_17_04.wav|(scribbles map).
+DUMMY/INFO_ORCSHAMAN_FIGHT_17_02.wav|Brothers home very strong! Brothers be veeery many!
+DUMMY/INFO_ORCSHAMAN_FIGHT_17_03.wav|Stranger no go. Many warriors! Stranger die!
+DUMMY/INFO_ORCSHAMAN_FIGHT_17_04.wav|Other sons of spirit home. Stranger make fire, then stranger die!
+DUMMY/INFO_ORCSHAMAN_OTHERWAY_17_02.wav|Ur-Shak know way! Stranger wear ULU-MULU!
+DUMMY/INFO_ORCSHAMAN_OTHERWAY_17_04.wav|Be sign of friendship! Brothers respect ULU-MULU!
+DUMMY/INFO_ORCSHAMAN_OTHERWAY_17_05.wav|Stranger wear ULU-MULU, then stranger no die!
+DUMMY/INFO_ORCSHAMAN_ULUMULU_17_02.wav|Stranger go see friend of Ur-Shak!
+DUMMY/INFO_ORCSHAMAN_ULUMULU_17_03.wav|Friend of Ur-Shak give ULU-MULU! Stranger wear ULU-MULU, then stranger no die!
+DUMMY/INFO_ORCSHAMAN_ULUMULU_17_05.wav|Friend of Ur-Shak in mine of humans. Friend no run away with Ur-Shak. Friend be ill then.
+DUMMY/INFO_ORCSHAMAN_ULUMULU_17_09.wav|Ur-Shak no know word.
+DUMMY/INFO_ORCSHAMAN_ULUMULU_17_11.wav|Ur-Shak no understand!
+DUMMY/INFO_ORCSHAMAN_ULUMULU_17_13.wav|Ur-Shak prisoner in mine under village in Hollow.
+DUMMY/INFO_ORCSHAMAN_ULUMULU_17_14.wav|Ur-Shak think people call so!
+DUMMY/INFO_ORCSHAMAN_BYEBYE_17_02.wav|Ur-Shak say thanks to stranger. Stranger save Ur-Shak. Stranger now friend of Ur-Shak!
+DUMMY/INFO_ORCSHAMAN_BYEBYE_17_03.wav|Friend take present. Take Ur-Shak talisman! Talisman protect from breath of fire lizard!
+DUMMY/INFO_ORCSHAMAN_BYEBYE_17_04.wav|Ur-Shak can no go home. Ur-Shak now live here! Friend come when need help!
+DUMMY/INFO_ORCSHAMAN_FRIENDLYHELLO_17_02.wav|Ur-Shak be healthy!
+DUMMY/INFO_ORCSHAMAN_FRIENDLYHELLO_17_03.wav|Ur-Shak now looking find own ULU-MULU!
+DUMMY/INFO_ORCSHAMAN_FRIENDLYHELLO_17_04.wav|Maybe Ur-Shak go home with own ULU-MULU!
+DUMMY/INFO_ORCSHAMAN_FRIENDLYHELLO_17_05.wav|Friend come when need help!
+DUMMY/INFO_ORCSHAMAN_ORCCITY_17_01.wav|Ur-Shak greet friend!
+DUMMY/INFO_ORCSHAMAN_ORCCITY_17_02.wav|Friend have ULU-MULU! Be good!
+DUMMY/INFO_ORCSHAMAN_ORCCITY_17_03.wav|Friend no forget carry ULU-MULU in hand when go over bridge!
+DUMMY/INFO_ORCSHAMAN_ORCCITY_17_05.wav|Friend no go over bridge, else die!
+DUMMY/INFO_ORCSHAMAN_YOUHERE_17_02.wav|Ur-Shak watch brothers in home!
+DUMMY/INFO_ORCSHAMAN_YOUHERE_17_03.wav|Ur-Shak believe KRUSHAK awake soon!
+DUMMY/INFO_ORCSHAMAN_YOUHERE_17_04.wav|Ur-Shak wait here, fight KRUSHAK when wake up!
+DUMMY/INFO_ORCSHAMAN_SEAL_17_02.wav|Ur-Shak brothers seal temple in earth very good!
+DUMMY/INFO_ORCSHAMAN_SEAL_17_03.wav|Friend no can go in!
+DUMMY/INFO_ORCSHAMAN_SEAL_17_04.wav|Friend use magic from brothers who be sons of spirit like Ur-Shak!
+DUMMY/INFO_ORCSHAMAN_SCROLL_17_02.wav|Must go in cave of brothers who be sons of spirit like Ur-Shak!
+DUMMY/INFO_ORCSHAMAN_SCROLL_17_03.wav|But friend must watch out when use magic!
+DUMMY/INFO_ORCSHAMAN_SCROLL_17_04.wav|Brothers of Ur-Shak no like! ULU-MULU no help when friend use magic!
+DUMMY/INFO_ORCSHAMAN_IDOL_17_03.wav|Friend have found figure on column!
+DUMMY/INFO_ORCSHAMAN_IDOL_17_04.wav|Friend now can open gate to temple hall!
+DUMMY/INFO_ORCSHAMAN_IDOL_17_05.wav|Friend now must take figure from column!
+DUMMY/INFO_ORCSHAMAN_IDOL_17_06.wav|Figure now open door to temple hall!

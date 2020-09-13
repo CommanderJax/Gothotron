@@ -1,0 +1,57 @@
+DUMMY/INFO_TPL_13_EINERVONEUCHWERDEN_13_01.wav|Have you any idea what I have had to deprive myself of to be allowed to serve the Sleeper's chosen ones as a temple guard?
+DUMMY/INFO_TPL_13_EINERVONEUCHWERDEN_13_02.wav|Don't think you can just stroll in here and take all the highest honors.
+DUMMY/INFO_TPL_13_EINERVONEUCHWERDEN_13_03.wav|Before you even consider it, you should learn a little about the Sleeper's teachings.
+DUMMY/INFO_TPL_13_EINERVONEUCHWERDEN_13_04.wav|That'll take some time and it may knock some sense into you.
+DUMMY/INFO_TPL_13_WICHTIGEPERSONEN_13_01.wav|Our Gurus are the Sleepers's chosen ones! The Sleeper determines our fate and the Gurus prophesy it.
+DUMMY/INFO_TPL_13_DASLAGER_13_01.wav|That's unthinkable! An infidel in the Temple! Until you have pledged yourself to the Sleeper's service, you will not be allowed to enter the Temple!
+DUMMY/INFO_TPL_13_DIELAGE_13_01.wav|Since I've become one of the chosen protectors of the faith, I feel better than I have ever done before.
+DUMMY/INFO_TPL_13_DIELAGE_13_03.wav|You are an infidel. You do not understand.
+DUMMY/INFO_TPL_8_EINERVONEUCHWERDEN_08_01.wav|We're always looking for good men. But you will have to work hard to improve yourself. Only advanced novices may become templars.
+DUMMY/INFO_TPL_8_EINERVONEUCHWERDEN_08_02.wav|It is the greatest honor for any follower of the Brotherhood of the Sleeper.
+DUMMY/INFO_TPL_8_WICHTIGEPERSONEN_08_01.wav|We do what the Gurus command. It is our duty to serve them.
+DUMMY/INFO_TPL_8_WICHTIGEPERSONEN_08_03.wav|Y'Berion the Enlightened One is the head Guru. Below him are Cor Kalom and Cor Angar and a few others.
+DUMMY/INFO_TPL_8_DASLAGER_08_01.wav|As a newcomer you may walk practically wherever you choose. But infidels cannot be allowed to enter the Sleeper's temple.
+DUMMY/INFO_TPL_8_DASLAGER_08_02.wav|So only go where you are permitted to go. And do not disturb our masters in their meditation.
+DUMMY/INFO_TPL_8_DIELAGE_08_01.wav|I am warning you. Do not be disrespectful. You are talking to one of the chosen guards of the prophets.
+DUMMY/DIA_TPL_1415_TORWACHE_FIRST_13_00.wav|Greetings, stranger!
+DUMMY/DIA_TPL_1415_TORWACHE_FIRST_13_01.wav|You are treading on holy ground. This is the Brotherhood of the Sleeper.
+DUMMY/DIA_TPL_1415_TORWACHE_FIRST_13_02.wav|What brings you here?
+DUMMY/DIA_TPL_1415_TORWACHE_FIRST_JOIN_13_01.wav|Then be welcome. The Brotherhood of the Sleeper has a place for everybody who wants to be led by the spirit of the Sleeper.
+DUMMY/DIA_TPL_1415_TORWACHE_FIRST_JOIN_13_02.wav|If you're really serious, you should try to get Baal Namib's attention. He's standing in the courtyard just behind the gate.
+DUMMY/DIA_TPL_1415_TORWACHE_FIRST_JOIN_13_04.wav|But you may not speak to him. Wait until he addresses you.
+DUMMY/DIA_TPL_1415_TORWACHE_FIRST_JUSTLOOKING_13_01.wav|Strangers are welcome here.
+DUMMY/DIA_TPL_1415_TORWACHE_FIRST_JUSTLOOKING_13_02.wav|But it is important to follow our rules. There are certain areas strangers may not access.
+DUMMY/DIA_TPL_1415_TORWACHE_SIT_13_01.wav|Everything's quiet. Just go in.
+DUMMY/TPL_1415_TORWACHE_IMPORTANT_INFO_13_02.wav|Just speak to Cor Angar!
+DUMMY/TPL_1415_TEMPLER_ROCK_INFO_13_02.wav|You have to earn a templar's armor like I'm wearing. But you can have a novice's loincloth.
+DUMMY/TPL_1415_TEMPLER_ROCK_BUY_13_02.wav|Come back as soon as you have enough ore!
+DUMMY/TPL_1415_TEMPLER_ROCK_BUY_13_03.wav|This piece of cloth can save your life!
+DUMMY/DIA_TPL_1416_TORWACHE_LIFE_08_01.wav|I have an important task. The Enlightened One and his disciples rely on me.
+DUMMY/DIA_TPL_1416_TORWACHE_LIFE_08_02.wav|My previous life is a thing of the past now. From now on, I'm a GOR NA - a templar of the Sleeper.
+DUMMY/TPL_1436_TEMPLER_CRAWLER_INFO_13_03.wav|What we really want is the secretion of the crawlers, though. Our Guru Cor Kalom brews magic potions from the secretion of the minecrawlers' mandibles.
+DUMMY/TPL_1437_TEMPLER_NERV_INFO_13_02.wav|Listen, do you really need to accost everybody here?
+DUMMY/TPL_1437_TEMPLER_LEAVE_INFO_13_02.wav|I want my peace, got it? So just clear off and do something else - anything!
+DUMMY/TPL_1437_TEMPLER_LEAVENOW_INFO_13_02.wav|Well then, I'll try to make it clear to you.
+DUMMY/TPL_1437_TEMPLER_LEAVENOW_INFO_13_03.wav|Scram!
+DUMMY/TPL_1437_TEMPLER_LEAVENOW_INFO_13_04.wav|Leave this mine!
+DUMMY/TPL_1437_TEMPLER_LEAVENOW_INFO_13_05.wav|NEVER address me again!
+DUMMY/TPL_1437_TEMPLER_LEAVENOW_INFO_13_06.wav|Clear off! Leave me alone!
+DUMMY/TPL_1437_TEMPLER_LEAVENOW_INFO_13_07.wav|GET LOST!!
+DUMMY/TPL_1438_TEMPLER_EXIT_INFO_13_02.wav|May the Sleeper awaken!
+DUMMY/TPL_1438_TEMPLER_INFO_INFO_13_02.wav|We're hunting for minecrawlers. Go back to the Camp, you'll be safe there.
+DUMMY/TPL_1438_TEMPLER_WHY_INFO_13_02.wav|For their mandibles. They contain a valuable secretion.
+DUMMY/TPL_1438_TEMPLER_WHY_INFO_13_04.wav|A poison. Only our Guru Cor Kalom knows how to brew potions with it.
+DUMMY/TPL_1438_TEMPLER_KALOM_INFO_13_02.wav|One of the most powerful men in the whole Brotherhood. He knows many secrets, he can control other people's thoughts!
+DUMMY/TPL_1438_TEMPLER_KALOM_INFO_13_03.wav|Apart from that, he's an alchemist. He brews potions so we can make spiritual contact with the Sleeper. Just go down to the Camp. We're always looking for people!
+DUMMY/TPL_1438_TEMPLER_EGGSEARCH_INFO_13_02.wav|Go and see Gor Na Vid, Gor Na Kosh or Gor Na Bar. They know more about the crawlers than I do.
+DUMMY/TPL_1438_TEMPLER_TEACHZANGEN_INFO_13_01.wav|First you need to cut deep into the flesh. Be careful not to hit the mandible gland. If you do, the secretion will squirt out.
+DUMMY/TPL_1438_TEMPLER_TEACHZANGEN_INFO_13_03.wav|You bet! Did you ever meet Korgur Three-Fingers, the crawler hunter? Oh no, that was before you arrived. Well, let's go on...
+DUMMY/TPL_1438_TEMPLER_TEACHZANGEN_INFO_13_04.wav|Cut around the glands, leaving a wide gap, and then remove the flesh together with the mandible. If you stick to that, you won't have any problems removing the mandibles.
+DUMMY/INFO_TPL_1441_FIRSTWARN_13_01.wav|STOP! You can only enter the temple hill if you have a Guru's permission!
+DUMMY/INFO_TPL_1441_FIRSTWARN_CONDITION_YBERION_13_02.wav|Liars tend to lose their tongues easily, so you'd better watch what you're saying.
+DUMMY/INFO_TPL_1441_FIRSTWARN_CONDITION_LESTER_13_02.wav|Lester is trustworthy. I know him. You may pass.
+DUMMY/INFO_TPL_1441_LASTWARN_13_01.wav|One step further and you'll cease to exist.
+DUMMY/INFO_TPL_1442_FIRSTWARN_13_01.wav|STOP! You can only enter the temple hill if you have a Guru's permission!
+DUMMY/INFO_TPL_1442_FIRSTWARN_CONDITION_YBERION_13_02.wav|Liars tend to lose their tongues easily, so you'd better watch what you're saying.
+DUMMY/INFO_TPL_1442_FIRSTWARN_CONDITION_LESTER_13_02.wav|Lester is trustworthy. I know him. You may pass.
+DUMMY/INFO_TPL_1442_LASTWARN_13_01.wav|One step further and you'll cease to exist.

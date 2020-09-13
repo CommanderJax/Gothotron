@@ -1,0 +1,19 @@
+DUMMY/INFO_NOV_2_EINERVONEUCHWERDEN_02_01.wav|You mean you've decided to serve the Sleeper? A path of happiness and good fortune lies ahead of you.
+DUMMY/INFO_NOV_2_EINERVONEUCHWERDEN_02_02.wav|Go and talk to Cor Kalom. He'll decide what job you're most suited for.
+DUMMY/INFO_NOV_2_WICHTIGEPERSONEN_02_01.wav|Y'Berion, Cor Kalom and Cor Angar are our mentors.
+DUMMY/INFO_NOV_2_WICHTIGEPERSONEN_02_02.wav|They are our link to the Sleeper. During the invocations, they are the ones who make contact with the Sleeper.
+DUMMY/INFO_NOV_2_DASLAGER_02_01.wav|It is a place of faith, brother. We do not have much, but what we do have we share with all who are willing to listen to the Sleeper's teachings.
+DUMMY/INFO_NOV_2_DASLAGER_02_02.wav|Speak to one of the Gurus, and your soul will be enriched.
+DUMMY/INFO_NOV_2_DIELAGE_02_01.wav|I don't have much time. I have jobs to perform.
+DUMMY/INFO_NOV_3_EINERVONEUCHWERDEN_03_02.wav|Talk to the Gurus, they will guide you!
+DUMMY/INFO_NOV_3_WICHTIGEPERSONEN_03_01.wav|Y'Berion! The Sleeper be praised! He brought us to this glorious place.
+DUMMY/INFO_NOV_3_WICHTIGEPERSONEN_03_02.wav|All this was created through his visions.
+DUMMY/INFO_NOV_3_DASLAGER_03_01.wav|There's Fortuno. He gives free swampweed to all the followers of the sect.
+DUMMY/INFO_NOV_3_DIELAGE_03_01.wav|I'm real high, man!
+DUMMY/INFO_NOV_5_EINERVONEUCHWERDEN_05_01.wav|There's nothing simpler. Just talk to a couple of the junior Gurus. They'll help you.
+DUMMY/INFO_NOV_5_EINERVONEUCHWERDEN_05_02.wav|You'll come to like it here, you'll see.
+DUMMY/INFO_NOV_5_WICHTIGEPERSONEN_05_01.wav|The Gurus have everything under control. But if you don't draw attention to yourself, they'll leave you alone.
+DUMMY/INFO_NOV_5_DASLAGER_05_01.wav|It's the best place to be in the entire goddam colony.
+DUMMY/INFO_NOV_5_DASLAGER_05_02.wav|Even if you don't believe in the Sleeper's teachings, at least you get your daily ration of food and swampweed. All you have to do is talk to Fortuno.
+DUMMY/INFO_NOV_5_DASLAGER_05_04.wav|Down at Cor Kalom's lab, near the big temple courtyard.
+DUMMY/INFO_NOV_5_DIELAGE_05_01.wav|I can't complain. Say, are you new around here?

@@ -1,0 +1,76 @@
+DUMMY/INFO_MINE_SLD_11_EINERVONEUCHWERDEN_011_01.wav|If you wanna be one of us, you have to earn yourself a reputation.
+DUMMY/INFO_MINE_SLD_11_EINERVONEUCHWERDEN_011_02.wav|Go and prove your worth elsewhere, then maybe you'll be allowed to serve in the Hollow.
+DUMMY/INFO_MINE_SLD_11_WICHTIGEPERSONEN_011_01.wav|Here in the Hollow, everyone does what Okyl says. He knows all the bigshots in the Camp.
+DUMMY/INFO_MINE_SLD_11_WICHTIGEPERSONEN_011_02.wav|So if you do anything stupid, the water mages in the New Camp will know about it.
+DUMMY/INFO_MINE_SLD_11_DASLAGER_011_01.wav|Nothing but a hell of a lot of trouble if you try anything foolish.
+DUMMY/INFO_MINE_SLD_11_DIELAGE_011_01.wav|It's quiet. A bit too quiet for my liking.
+DUMMY/INFO_MINE_SLD_8_EINERVONEUCHWERDEN_08_01.wav|If you wanna work here in the Hollow, you'll have to work your way up in the New Camp first.
+DUMMY/INFO_MINE_SLD_8_EINERVONEUCHWERDEN_08_02.wav|Go and ask there.
+DUMMY/INFO_MINE_SLD_8_WICHTIGEPERSONEN_08_01.wav|Okyl's in charge here in the Hollow. Lee calls the shots in the Camp.
+DUMMY/INFO_MINE_SLD_8_WICHTIGEPERSONEN_08_02.wav|So you'd better have a word with both of them.
+DUMMY/INFO_MINE_SLD_8_DASLAGER_08_01.wav|We guard the entrance to the mine.
+DUMMY/INFO_MINE_SLD_8_DASLAGER_08_02.wav|No-one except our people are allowed in.
+DUMMY/INFO_MINE_SLD_8_DIELAGE_08_01.wav|What d'you ask me that for? Everything's under control.
+DUMMY/INFO_SLD_11_EINERVONEUCHWERDEN_11_01.wav|That's not so hard. If you're prepared to fight for our cause, Lee's bound to take you on.
+DUMMY/INFO_SLD_11_EINERVONEUCHWERDEN_11_02.wav|But he only takes people who are good with a sword. Well, are you?
+DUMMY/INFO_SLD_11_EINERVONEUCHWERDEN_11_04.wav|I thought so. If you're really serious, talk to Gorn. He's trained newcomers before.
+DUMMY/INFO_SLD_11_EINERVONEUCHWERDEN_11_05.wav|Maybe you'll be lucky and he'll take the time to train you.
+DUMMY/INFO_SLD_11_WICHTIGEPERSONEN_11_01.wav|We do as the mages say. But usually they don't say nothin'. They just hang out by the ore mound and bury their noses in their books.
+DUMMY/INFO_SLD_11_WICHTIGEPERSONEN_11_02.wav|Basically, Lee's in charge. He's our boss.
+DUMMY/INFO_SLD_11_DASLAGER_11_01.wav|Man, there's always trouble. The rogues do as they please and we mercenaries have to shield the mages and defend the Camp.
+DUMMY/INFO_SLD_11_DIELAGE_11_01.wav|All's quiet for now...
+DUMMY/INFO_SLD_11_DIELAGE_11_03.wav|If the rogues keep on attacking Gomez' convoys, it won't be long before him and his army come knocking down the gates.
+DUMMY/INFO_SLD_11_DIELAGE_11_04.wav|And that's not gonna be much fun.
+DUMMY/INFO_SLD_11_KRAUTPROBE_11_01.wav|Sure I do. Here's 10 Ore.
+DUMMY/INFO_SLD_11_KRAUTPROBE_NO_JOINT_11_00.wav|Get me some, then we'll talk.
+DUMMY/INFO_SLD_8_EINERVONEUCHWERDEN_08_01.wav|Lee won't have anyone join the mercenaries unless they've been here for years and have had a lot of experience.
+DUMMY/INFO_SLD_8_EINERVONEUCHWERDEN_08_02.wav|If you wanna stay in the Camp, you'll have to get to grips with the rogues first.
+DUMMY/INFO_SLD_8_WICHTIGEPERSONEN_08_01.wav|We mercenaries all follow Lee. He's made a deal with the mages - we protect 'em, they get us out of here.
+DUMMY/INFO_SLD_8_WICHTIGEPERSONEN_08_03.wav|Nope. Nobody's in charge of the Camp. Most people here are just guys that couldn't or wouldn't stay in the Old Camp.
+DUMMY/INFO_SLD_8_WICHTIGEPERSONEN_08_04.wav|We all do our own thing here. We only agree on one thing: It's better to pile the ore into a mound and blow it up than to send it on to that goddam king!
+DUMMY/INFO_SLD_8_DASLAGER_08_01.wav|Watch out while you're here. There are a lot of cut-throats around in the Camp.
+DUMMY/INFO_SLD_8_DASLAGER_08_02.wav|We have a number of unwritten laws here. One: Only the mercenaries can enter the mages' zone.
+DUMMY/INFO_SLD_8_DASLAGER_08_03.wav|Two: You try to get anywhere near the ore mound, you're a dead man. Three: Don't try to get into the bar on the lake.
+DUMMY/INFO_SLD_8_DASLAGER_08_04.wav|Ya see, that's the rogues' bar and they don't like new kids like you showing up there.
+DUMMY/INFO_SLD_8_DIELAGE_08_01.wav|As always. Making sure that no-one gets too close to the mages and the ore.
+DUMMY/INFO_SLD_8_KRAUTPROBE_08_01.wav|Why not. I'll give you 10 Ore for it.
+DUMMY/INFO_SLD_8_KRAUTPROBE_08_02.wav|Go and ask some of the other guys, they're bound to want some too.
+DUMMY/INFO_SLD_8_KRAUTPROBE_NO_JOINT_08_00.wav|Show me the weed first. You don't have any, do you?
+DUMMY/DIA_SLD_702_FIRST_04_00.wav|D'you know where you're heading?
+DUMMY/DIA_SLD_702_FIRST_04_02.wav|You're heading straight for Lee, our leader.
+DUMMY/DIA_SLD_702_PERM_04_01.wav|Nothing!
+DUMMY/DIA_SLD_702_PERM_04_02.wav|This isn't the Old Camp, and Lee isn't Gomez!
+DUMMY/DIA_SLD_702_PERM_04_03.wav|He doesn't need an army of henchmen to hide behind. He can defend himself.
+DUMMY/DIA_SLD_702_PERM_04_04.wav|WE are only here in case he needs us.
+DUMMY/INFO_SLD_723_FIRSTWARN_11_01.wav|STOP! Nobody may pass without the password!
+DUMMY/INFO_SLD_723_PAROLE_CRONOS_11_02.wav|If that's so, he'd have given you the password. Get lost, you liar!
+DUMMY/INFO_SLD_723_PAROLE_FORGOT_11_02.wav|Then come back as soon as you remember it and don't waste my time!
+DUMMY/INFO_SLD_723_PAROLE_FALSE1_11_02.wav|WRONG!
+DUMMY/INFO_SLD_723_PAROLE_FALSE2_11_02.wav|WRONG!
+DUMMY/INFO_SLD_723_LASTWARN_11_01.wav|I won't say it again! NO STEP FURTHER!
+DUMMY/INFO_SLD_732_FIRSTWARN_08_01.wav|STOP! Nobody may pass without the password!
+DUMMY/INFO_SLD_732_PAROLE_CRONOS_08_02.wav|If that's so, he'd have given you the password. Get lost, you liar!
+DUMMY/INFO_SLD_732_PAROLE_FORGOT_08_02.wav|Then come back as soon as you remember it and don't waste my time!
+DUMMY/INFO_SLD_732_PAROLE_FALSE1_08_02.wav|WRONG!
+DUMMY/INFO_SLD_732_PAROLE_TRUE_08_02.wav|That's right! You may pass!
+DUMMY/INFO_SLD_732_LASTWARN_08_01.wav|I won't say it again! NO STEP FURTHER!
+DUMMY/DIA_SLD_751_SOELDNER_INTRO_INFO_01_01.wav|Ah, a visitor! Don't make any trouble here or or else you'll be for it!
+DUMMY/DIA_SLD_751_SOELDNER_EXIT_1_INFO_01_02.wav|I hope we understand each other.
+DUMMY/DIA_SLD_751_SOELDNER_UMSEHEN_INFO_01_02.wav|Then mind you don't step on anybody's feet.
+DUMMY/DIA_SLD_751_SOELDNER_INMINE_INFO_01_02.wav|I can hardly believe you'll manage that. But just speak to Okyl.
+DUMMY/DIA_SLD_760_SOELDNER_INTRO_INFO_13_01.wav|What are you hanging about here for? I just tell you one thing: Keep your hands off the door.
+DUMMY/DIA_SLD_760_SOELDNER_EXIT_1_INFO_13_02.wav|I hope we understand each other.
+DUMMY/DIA_SLD_760_SOELDNER_EXIT_2_INFO_13_02.wav|Just go then.
+DUMMY/DIA_SLD_760_SOELDNER_UMSEHEN_INFO_13_02.wav|Then leave your fingers in your pockets or I'll chop them off.
+DUMMY/DIA_SLD_760_SOELDNER_INMINE_INFO_13_02.wav|Into the mine? I won't let anybody in here without express permission from Okyl.
+DUMMY/DIA_SLD_760_SOELDNER_INMINE_INFO_13_04.wav|Watch what you're saying and how you speak about our boss.
+DUMMY/DIA_SLD_760_SOELDNER_INMINE_INFO_13_05.wav|I'm gonna tell you something about Okyl, he's the toughest guy in the whole Camp. He once even sneaked into the castle in the Old Camp and stole a load of ore from the Ore Barons.
+DUMMY/DIA_SLD_760_SOELDNER_INMINE_INFO_13_06.wav|So show a bit more respect, please.
+DUMMY/DIA_SLD_760_SOELDNER_INMINE_INFO_13_07.wav|I don't know where he is, but if you meet him you should have that story in the back of your mind.
+DUMMY/DIA_SLD_761_SOELDNER_INTRO_INFO_03_01.wav|What are you doing at the mine here?
+DUMMY/DIA_SLD_761_SOELDNER_EXIT_1_INFO_03_02.wav|That's what I think as well.
+DUMMY/DIA_SLD_761_SOELDNER_EXIT_2_INFO_03_02.wav|Okay.
+DUMMY/DIA_SLD_761_SOELDNER_UMSEHEN_INFO_03_02.wav|Then you've come to the wrong place, because this is the mine entrance and you're not admitted here.
+DUMMY/DIA_SLD_761_SOELDNER_INMINE_INFO_03_02.wav|Suppose you can see that the mine is locked, so there's absolutely nothing for you to see.
+DUMMY/DIA_SLD_761_SOELDNER_BRIBE_INFO_03_02.wav|What should there be to do about it?
+DUMMY/DIA_SLD_761_SOELDNER_BRIBE_INFO_03_03.wav|One moment, if you're trying to bribe me, you have the wrong man here.

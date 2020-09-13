@@ -1,0 +1,46 @@
+DUMMY/INFO_BLOODWYN_EXIT_SCHUTZGELD_08_01.wav|Take care of yourself, kid.
+DUMMY/INFO_BLOODWYN_EXIT_SCHUTZGELD_08_02.wav|Don't you worry about anything here in the Camp! We'll be looking out for you.
+DUMMY/INFO_BLOODWYN_HELLO_08_00.wav|Hey, you!
+DUMMY/INFO_BLOODWYN_HELLO_08_02.wav|I'm warning you! People like you can get into trouble awfully quick round here!
+DUMMY/INFO_BLOODWYN_HELLO_08_03.wav|And most of the guys they chuck in here are bastards!
+DUMMY/INFO_BLOODWYN_HELLO_08_04.wav|They think they can do what they like to you. But we won't allow that.
+DUMMY/INFO_BLOODWYN_HELLO_08_05.wav|Gomez wants some peace in the Camp, and we guards make sure he gets it. But it's a job that doesn't come cheap.
+DUMMY/INFO_BLOODWYN_FORGETIT_08_01.wav|Have it your own way, kid. You'll soon regret turning down a friendly offer!
+DUMMY/INFO_BLOODWYN_SOLLDROHUNGSEIN_08_01.wav|On the contrary! It's an offer of friendship!
+DUMMY/INFO_BLOODWYN_HELLO_HOWMUCH_08_02.wav|Not much. 10 ore, that's all I need.
+DUMMY/INFO_BLOODWYN_HELLO_OKTAKEIT_08_01.wav|You seem to be a clever lad. From now on, we'll be watching out for you.
+DUMMY/INFO_BLOODWYN_HELLO_OKTAKEIT_08_02.wav|But that doesn't mean to say you can do what you like around here, okay?
+DUMMY/INFO_BLOODWYN_HELLO_NOTNOW_08_01.wav|Then I'll take whatever you have - that's okay. You can give me the rest next time I see you.
+DUMMY/INFO_BLOODWYN_HELLO_NOTNOW_TENOREMORE_08_00.wav|Hey, look at that? Looks like someone can't count to 10, eh?
+DUMMY/INFO_BLOODWYN_HELLO_NOTNOW_TENOREMORE_08_01.wav|I'm just gonna take everything you have. That'll help me forget you lied to me.
+DUMMY/INFO_BLOODWYN_HELLO_NOTNOW_LESSTHANTEN_08_00.wav|Oh, I take small donations too. It's the thought that counts! Thanks for the ore, kid!
+DUMMY/INFO_BLOODWYN_HELLO_NOTNOW_LESSTHANTEN_08_01.wav|From now on, I'll be watching out for you whenever you're in the Camp.
+DUMMY/INFO_BLOODWYN_HELLO_NOTNOW_NOORE_08_00.wav|Hm, you really are broke, aren't you. Well, I guess there's always next time...
+DUMMY/INFO_BLOODWYN_PAYDAY_08_00.wav|Ah, good to see you, my friend!
+DUMMY/INFO_BLOODWYN_PAYDAY_08_01.wav|How about your daily contribution? Your 10 ore is due, you know.
+DUMMY/INFO_BLOODWYN_PAYDAY_DEN_08_00.wav|Hey, you!
+DUMMY/INFO_BLOODWYN_PAYDAY_DEN_08_02.wav|The time's come for you to prove you're a true friend.
+DUMMY/INFO_BLOODWYN_PAYDAY_PAYAGAIN_08_01.wav|My thoughts exactly!
+DUMMY/INFO_BLOODWYN_PAYDAY_PAYNOMORE_08_01.wav|You disappoint me! We're not friends anymore. See to it that you don't get mugged and robbed on your own now!
+DUMMY/INFO_BLOODWYN_PAYDAY_PAYNOMORE_08_03.wav|We'll see...
+DUMMY/INFO_BLOODWYN_DOCH_08_01.wav|There now! You see, you CAN make the right choices.
+DUMMY/INFO_BLOODWYN_DOCH_08_02.wav|And from now on, you'll keep paying me your daily contribution, won't you?
+DUMMY/INFO_BLOODWYN_DOCH_NOORE_08_00.wav|Then come back when you have it.
+DUMMY/INFO_BLOODWYN_PAYFORJESSE_08_01.wav|What you should do is pay YOUR 10 ore.
+DUMMY/INFO_BLOODWYN_PAYFORJESSE_08_02.wav|Never mind about Jesse. He's a loser, he's not got long anyway.
+DUMMY/INFO_BLOODWYN_PAYFORJESSE_08_04.wav|Okay, man, if that's the way you want it.
+DUMMY/INFO_BLOODWYN_PAYFORJESSE_08_06.wav|That's an omen, man! Think again! Paying for that bum is a waste of good ore!
+DUMMY/GRD_233_BLOODWYN_WELCOME_INFO_08_01.wav|You're one of us now. Well done. The Guards need men like you!
+DUMMY/INFO_BLOODWYN_DIE_08_01.wav|It's the traitor in our midst! PAH! And we called you a guard!
+DUMMY/INFO_BLOODWYN_DIE_08_02.wav|Looks like we've overlooked one of the rebellious fire mages!
+DUMMY/INFO_BLOODWYN_DIE_08_03.wav|It's the Shadow that betrayed us!
+DUMMY/INFO_BLOODWYN_DIE_08_05.wav|So you're in cahoots with the New Camp, huh?
+DUMMY/INFO_BLOODWYN_DIE_08_07.wav|Guess you must have thought you could go on like that forever.
+DUMMY/INFO_BLOODWYN_DIE_08_09.wav|Traitors like you must die.
+DUMMY/INFO_BLOODWYN_DIE_08_10.wav|DIE, TRAITOR!!!
+DUMMY/INFO_BLOODWYN_DIE_08_11.wav|So you've ventured out of your New Camp? That was mighty stupid of you!
+DUMMY/INFO_BLOODWYN_DIE_08_12.wav|Oh, so you've ventured out of your swamp camp? That was mighty stupid of you!
+DUMMY/INFO_BLOODWYN_DIE_08_14.wav|Haven't you heard about the attack on your mine?
+DUMMY/INFO_BLOODWYN_DIE_08_16.wav|Sorry, but we can't let you go shooting your mouth off!
+DUMMY/INFO_BLOODWYN_DIE_08_18.wav|You should've thought of that before!
+DUMMY/INFO_BLOODWYN_DIE_08_20.wav|So have I! KILL HIM!

@@ -1,0 +1,13 @@
+DUMMY/INFO_RUFUS_WASSER_02_01.wav|Thanks, man. My mouth's like a desert!
+DUMMY/INFO_RUFUS_WASSER_NOWATER_02_00.wav|Water! Hey, man! There's none left! Don't tell me everyone got some except me, again?
+DUMMY/DIA_RUFUS_HELLO_02_01.wav|Ask someone else, will ya. I do nothin' but work out here in the fields, I don't know nothin'.
+DUMMY/DIA_RUFUS_HELLO_02_02.wav|Man, I'd love to tell the Rice Lord to do his own damn dirty work!
+DUMMY/DIA_RUFUS_WHY_02_02.wav|Sure, I said. I was new here and I wanted to make myself useful.
+DUMMY/DIA_RUFUS_WHY_02_03.wav|The next day, when I was taking a short rest, the guy turned up again.
+DUMMY/DIA_RUFUS_WHY_02_04.wav|You don't wanna let your colleagues do all their work by themselves, do you?' he asked.
+DUMMY/DIA_RUFUS_WHY_02_05.wav|I told him I was exhausted from the previous day's work, that I needed a rest and all that. But he never listened.
+DUMMY/DIA_RUFUS_WHY_02_06.wav|He grabbed me by the collar and dragged me back to the field.
+DUMMY/DIA_RUFUS_WHY_02_07.wav|From that day on, he stood outside my doorstep every day - until I got used to going on my own. I didn't want any trouble with those guys.
+DUMMY/DIA_RUFUS_WHY_02_08.wav|They're real cut-throats, you'd better steer clear of them.
+DUMMY/DIA_RUFUS_RICELORD_02_01.wav|He was one of the first to arrive here. He helped found the Camp and start up the rice fields.
+DUMMY/DIA_RUFUS_RICELORD_02_02.wav|These days he just hangs out at the warehouse stretching his stomach, the fat pig!

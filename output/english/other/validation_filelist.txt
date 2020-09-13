@@ -1,0 +1,4 @@
+DUMMY/INFO_FINDNPC_OC_DIEGO_01_01.wav|During the day he's usually at the castle entrance with Thorus.
+DUMMY/INFO_FINDNPC_OC_DIEGO_12_01.wav|During the day he's usually at the castle entrance with Thorus.
+DUMMY/INFO_EXIT_06_02.wav|I'll see you.
+DUMMY/GLOBAL_001_07_02.wav|Es gibt hier im Knast drei groﬂe Lager.

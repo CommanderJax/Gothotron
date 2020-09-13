@@ -1,0 +1,70 @@
+DUMMY/INFO_GRD_13_EINERVONEUCHWERDEN_13_01.wav|Then you have a long way ahead, boy!
+DUMMY/INFO_GRD_13_WICHTIGEPERSONEN_13_01.wav|I do. And I'm telling ya: You'd better watch what you're saying, boy!
+DUMMY/INFO_GRD_13_DASLAGER_13_01.wav|You don't. Only Gomez' people get to go in there.
+DUMMY/INFO_GRD_13_DASLAGER_WACHENBESTECHEN_13_01.wav|You have a nerve, kid. I guess you might persuade 'em to look the other way for a minute - if you give 'em enough ore.
+DUMMY/INFO_GRD_13_DASLAGER_WACHENBESTECHEN_13_02.wav|But if Gomez hears that they've let fresh meat like you go marching into his castle, he'll have the lot of 'em thrown in the dungeons.
+DUMMY/INFO_GRD_13_DASLAGER_WACHENBESTECHEN_13_03.wav|Of course, that risk'll make it all the dearer to get in.
+DUMMY/INFO_GRD_13_DASLAGER_WACHENBESTECHEN_13_04.wav|But even if you did get inside, what would you do in there? All the buildings are strictly guarded.
+DUMMY/INFO_GRD_13_DASLAGER_GOMEZSPRECHEN_13_01.wav|Gomez ain't interested in new kids that haven't proved their worth.
+DUMMY/INFO_GRD_13_DASLAGER_GOMEZSPRECHEN_13_02.wav|If you're serious, have a word with Thorus.
+DUMMY/INFO_GRD_13_DIELAGE_13_02.wav|As long as you're new, it doesn't matter. But as soon as you decide which camp to join you're up to your neck in it.
+DUMMY/INFO_GRD_6_EINERVONEUCHWERDEN_06_01.wav|You must be one of the new ones, eh? If you're looking for a camp to join, try the sect loonies, they're not fussy about who they take on.
+DUMMY/INFO_GRD_6_EINERVONEUCHWERDEN_06_02.wav|We don't take just anyone, not unless you wanna go digging in the Old Mine!
+DUMMY/INFO_GRD_6_WICHTIGEPERSONEN_06_01.wav|Thorus is the one that makes sure things don't fall apart. He's right under Gomez.
+DUMMY/INFO_GRD_6_DASLAGER_06_01.wav|So I see.
+DUMMY/INFO_GRD_6_DASLAGER_06_03.wav|You make trouble here, you get punished.
+DUMMY/INFO_GRD_6_DASLAGER_WASISTAERGER_06_02.wav|If you mess with one of them, we'll deal with you.
+DUMMY/INFO_GRD_6_DASLAGER_WASISTAERGER_06_03.wav|If I catch you rummaging around in other people's huts...
+DUMMY/INFO_GRD_6_DIELAGE_06_01.wav|You lookin' for trouble?
+DUMMY/INFO_GRD_7_EINERVONEUCHWERDEN_07_01.wav|You?! You're kidding. You think you can just come in here strutting and get straight to the top, or what?
+DUMMY/INFO_GRD_7_EINERVONEUCHWERDEN_07_02.wav|Gomez has only the best people for guards.
+DUMMY/INFO_GRD_7_EINERVONEUCHWERDEN_07_03.wav|You're gonna have to work your way up like everyone else, and prove your loyalty as a Shadow.
+DUMMY/INFO_GRD_7_WICHTIGEPERSONEN_07_01.wav|Thorus controls all that goes on in the Camp. Diego's his lieutenant.
+DUMMY/INFO_GRD_7_WICHTIGEPERSONEN_07_02.wav|If you want to get anywhere here, they're the guys you need to talk to.
+DUMMY/INFO_GRD_7_DASLAGER_07_01.wav|Na. Most of them are just ordinary diggers.
+DUMMY/INFO_GRD_7_DASLAGER_07_02.wav|Only we guards and the Shadows are with Gomez.
+DUMMY/INFO_GRD_7_DASLAGER_WASISTAERGER_07_01.wav|We guard the Camp and protect the diggers.
+DUMMY/INFO_GRD_7_DASLAGER_WASISTAERGER_07_02.wav|We get paid by Gomez and the diggers pay us protection money. It's a pretty lucrative business.
+DUMMY/INFO_GRD_7_DASLAGER_SCHATTEN_07_01.wav|The Shadows see to it that Gomez' orders are obeyed.
+DUMMY/INFO_GRD_7_DASLAGER_SCHATTEN_07_02.wav|Most of them are common bootlickers trying to work their way up through the ranks. If you wanna make it anywhere round here, that's the way to go.
+DUMMY/INFO_GRD_7_DASLAGER_SCHATTEN_07_03.wav|You do your chores long enough without failing, and you may become one of us.
+DUMMY/INFO_GRD_7_DASLAGER_SCHATTEN_07_04.wav|Once you're with Gomez, nobody in the entire colony will push you around anymore, kid!
+DUMMY/INFO_GRD_7_DASLAGER_BUDDLER_07_02.wav|When they've been in the mine for a while they come out here to spend their loot.
+DUMMY/INFO_GRD_7_DASLAGER_BUDDLER_07_03.wav|Once they've squandered the lot, they go back into the mine. That's what most people round here do.
+DUMMY/INFO_GRD_7_DIELAGE_07_01.wav|For you, you mean? Until you decide which camp you're with, nobody's gonna take you seriously, kid!
+DUMMY/INFO_MINE_GRD_13_MINE_13_01.wav|The mine's the heart of the Old Camp. No mine, no ore. No ore, no goods. Get it?
+DUMMY/INFO_MINE_GRD_13_WICHTIGEPERSONEN_13_01.wav|Asghan's our boss. But you leave him alone. Ian's the one that deals with guys like you.
+DUMMY/INFO_MINE_GRD_13_DASLAGER_13_01.wav|The Brotherhood pays the Old Camp in swampweed, so they let them hunt crawlers in the mine.
+DUMMY/INFO_MINE_GRD_13_DIELAGE_13_01.wav|I ain't had a fight in ages!
+DUMMY/INFO_MINE_GRD_6_MINE_06_01.wav|The diggers collect the ore and if they don't, they get a good beating!
+DUMMY/INFO_MINE_GRD_6_WICHTIGEPERSONEN_06_01.wav|Asghan's our boss, but Ian organizes things, like ore and the diggers.
+DUMMY/INFO_MINE_GRD_6_MINECRAWLER_06_01.wav|Those beasts are nothing but trouble. I don't know what causes us more work, those creatures or the diggers.
+DUMMY/INFO_MINE_GRD_6_DIELAGE_06_01.wav|Well, what do you think?
+DUMMY/INFO_MINE_GRD_7_MINE_07_01.wav|The diggers collect the ore and we protect them from the crawlers.
+DUMMY/INFO_MINE_GRD_7_WICHTIGEPERSONEN_07_01.wav|Ian and Asghan. If you want anything, you'd better talk to them.
+DUMMY/INFO_MINE_GRD_7_MINECRAWLER_07_01.wav|The whole lot of 'em should be wiped out, if you ask me!
+DUMMY/INFO_MINE_GRD_7_DIELAGE_07_01.wav|Man, you're getting on my nerves!
+DUMMY/DIA_GRD_218_FIRSTIN_07_00.wav|Hold it! What are you doing?
+DUMMY/DIA_GRD_218_FIRSTIN_07_02.wav|Are you kidding?
+DUMMY/DIA_GRD_218_FIRSTIN_07_04.wav|I will. If you're lying, you're as good as dead!
+DUMMY/DIA_GRD_218_FIRSTIN_07_06.wav|Yeah, get moving!
+DUMMY/INFO_GRD_218_FIRSTWARN_INFO_07_01.wav|STOP! Not another step!
+DUMMY/INFO_GRD_218_FIRSTWARN_INFO_07_03.wav|The Ore Barons' house is out of bounds for scum like you!
+DUMMY/INFO_GRD_237_FIRSTWARN_07_01.wav|You'd better not stay here. The Orc land starts behind that barricade!
+DUMMY/INFO_GRD_237_FIRSTWARN_07_03.wav|Let me put it like this: You may as well give me all your ore before you go out there and let the Orcs rip you to ribbons!
+DUMMY/INFO_GRD_237_FIRSTWARN_07_05.wav|Pity, I'd have loved to take care of your ore.
+DUMMY/INFO_GRD_237_FIRSTWARN_07_07.wav|Oh, now I call that very civil of you.
+DUMMY/INFO_GRD_237_FIRSTWARN_07_09.wav|In that case, you'd better not move another step!
+DUMMY/INFO_GRD_237_LASTWARN_07_01.wav|Are you deaf? One more step and you're worm food!
+DUMMY/DIA_GRD_245_HELLO_13_01.wav|That's the Ore Barons' house. You'd better behave yourself if you go in there!
+DUMMY/GRD_264_GARDIST_GARDEAUFNAHME_INFO_07_01.wav|Hey, that was a good job you did with the crawlers! You've earned your place among the guards!
+DUMMY/GRD_264_GARDIST_GARDEAUFNAHME_INFO_07_02.wav|Go over to the Old Camp and speak to Thorus about it!
+DUMMY/GRD_277_GARDIST_SITTINGORK_INFO_06_02.wav|He's our prisoner. He's lucky that the gearwheel of the masher has broken. That's why this son of a bitch is being allowed to have a break.
+DUMMY/GRD_277_GARDIST_SITTINGORK_INFO_06_03.wav|As soon as the masher is repaired, it's back to work for him. He's not here to laze around all the time!
+DUMMY/GRD_277_GARDIST_WORKINGORK_INFO_06_02.wav|Yeah, we're fast when it comes to making people work.
+DUMMY/INFO_ERPRESSER_INFO_13_01.wav|Hey, boy, if you want to pass, you have to pay 10 ore or you'll be whacked, got it?
+DUMMY/INFO_ERPRESSER_CHOICE_AUFSMAUL_13_02.wav|Thanks, man. You just made my day.
+DUMMY/INFO_ERPRESSER_CHOICE_ZAHLEN_13_02.wav|A shame.
+DUMMY/INFO_ERPRESSER_CHOICE_ZAHLEN_13_04.wav|That's a shame...
+DUMMY/INFO_BEREITSERPRESST_INFO_13_02.wav|You've paid. You may pass. Now go before I change my mind.
+DUMMY/INFO_BEREITSAUFSMAUL_INFO_13_02.wav|Get lost, before I wipe that dumb look off your face for you!

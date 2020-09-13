@@ -1,0 +1,7 @@
+DUMMY/TPL_1401_GORNAKOSH_SUGGEST_INFO_13_02.wav|Then you'll need my blade. I'll join you.
+DUMMY/TPL_1401_GORNAKOSH_INFO_INFO_13_02.wav|I'm hunting minecrawlers.
+DUMMY/TPL_1401_GORNAKOSH_INFO_INFO_13_04.wav|There's just a single rule to remember when hunting crawlers: When you see them, run at them and kill them as fast as you can.
+DUMMY/TPL_1401_GORNAKOSH_INFO_INFO_13_05.wav|Fight without fear and kill without mercy.
+DUMMY/TPL_1401_GORNAKOSH_CRAWLER_INFO_13_02.wav|They act instinctively, anything non-crawler is killed.
+DUMMY/TPL_1401_GORNAKOSH_CRAWLER_INFO_13_03.wav|Use this knowledge in your fight against them.
+DUMMY/TPL_1401_GORNAKOSH_VICTORY_INFO_13_02.wav|Wonderful! Now go back to the Camp and finish this mission. Cor Kalom will be waiting for you!

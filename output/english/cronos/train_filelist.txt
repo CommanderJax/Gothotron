@@ -1,0 +1,33 @@
+DUMMY/DIA_CRONOS_BRIEF_08_01.wav|We are the Magicians of the Circle of Water. The Magicians of the Circle of Fire live in the Old Camp.
+DUMMY/DIA_CRONOS_BRIEF_08_03.wav|Well, occasionally we send messengers to our brothers in the Old Camp...
+DUMMY/DIA_CRONOS_BRIEF_08_04.wav|But we only entrust these messages to Lares' men. He's been seeing to it for many years now that our messengers arrive safely.
+DUMMY/DIA_CRONOS_BARRIER_08_01.wav|We need major amounts of magic ore.
+DUMMY/DIA_CRONOS_BARRIER_08_02.wav|We'll release the entire magic power in a great magic rite to blow up the Barrier.
+DUMMY/DIA_CRONOS_BARRIER_08_03.wav|Of course such a big amount of ore attracts a lot of rogues and crooks!
+DUMMY/DIA_CRONOS_BARRIER_08_04.wav|That's why we need a man to defend our plan.
+DUMMY/DIA_CRONOS_WANNAJOIN_08_01.wav|If you want to join us, you should see Lee or Lares.
+DUMMY/DIA_CRONOS_WANNAMAGE_08_01.wav|We cannot afford to spread our knowledge among our enemies.
+DUMMY/DIA_CRONOS_WANNAMAGE_08_02.wav|We will not even consider instructing you unless you prove your loyalty to us.
+DUMMY/DIA_CRONOS_BANDIT_08_01.wav|I do indeed. But you'll need to carry the sign of one of our messengers, else Gomez' men won't let you enter the castle.
+DUMMY/DIA_CRONOS_BANDIT_08_02.wav|Here, take the letter and the sign. And now hurry up!
+DUMMY/DIA_CRONOS_BRIEFBACK_08_01.wav|Ah, good! Here's a small reward for your efforts...
+DUMMY/INFO_CRONOS_NEWS_08_02.wav|What could be so important that our spiritual leader should interrupt his important studies for it?
+DUMMY/INFO_CRONOS_KALOM_08_03.wav|I've never trusted him. Second Guru or not, he's vain, insidious and he's capable of anything.
+DUMMY/INFO_CRONOS_KALOM_08_04.wav|The Brotherhood is better off without him!
+DUMMY/INFO_CRONOS_KALOM_08_05.wav|I'll tell Saturas about it as soon as I get the chance. Leave now!
+DUMMY/INFO_CRONOS_YBERION_08_02.wav|WHAAAAT??? How could that happen?
+DUMMY/INFO_CRONOS_YBERION_08_05.wav|That's very sad. Y'Berion was a reliable ally.
+DUMMY/INFO_CRONOS_YBERION_08_06.wav|But it's no reason to justify interrupting Saturas' studies.
+DUMMY/INFO_CRONOS_SLEEPER_08_02.wav|All of a sudden they now think their Sleeper is a demon?
+DUMMY/INFO_CRONOS_SLEEPER_08_03.wav|Sounds like another mad idea of the Brotherhood, but...
+DUMMY/INFO_CRONOS_SLEEPER_08_04.wav|... should they be right... all of us in the colony here might be in grave danger.
+DUMMY/INFO_CRONOS_SLEEPER_08_05.wav|You must report to Saturas at once. He must decide what is to be done.
+DUMMY/INFO_CRONOS_SLEEPER_08_07.wav|Go to the upper level. Tell the guards there that you have my permission to pass.
+DUMMY/INFO_CRONOS_SLEEPER_08_08.wav|The password is TETRIANDOCH.
+DUMMY/INFO_CRONOS_SLEEPER_08_09.wav|Saturas is by the pentagram.
+DUMMY/INFO_CRONOS_SLEEPER_08_10.wav|He spends almost all day there, studying how to blow up the big ore mound.
+DUMMY/INFO_CRONOS_REWARD_08_02.wav|As the keeper of the ore, I'd like to give you a small portion of our ore for your great deeds on behalf of the Camp.
+DUMMY/INFO_CRONOS_REWARD_08_03.wav|I hope you'll make as good use of it as we do!
+DUMMY/KDW_604_CRONOS_MANA_INFO_08_02.wav|I can help you to increase your power. Use it wisely.
+DUMMY/KDW_604_CRONOS_GREET_INFO_08_02.wav|May the blessing of Adanos be with you. I can help you to increase your magic powers or give you some useful items.
+DUMMY/KDW_604_CRONOS_GREET_INFO_08_03.wav|What can I do for you?

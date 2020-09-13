@@ -1,0 +1,3 @@
+DUMMY/DIA_GILBERT_FIRST_04_00.wav|What are you doing here? Don't often get visitors up here, he he!
+DUMMY/DIA_GILBERT_FIRST_04_01.wav|Very clever of you to find my hiding place.
+DUMMY/DIA_GILBERT_HALLO_04_02.wav|I guess nobody remembers that now. But I'm staying here. There's too many blockheads running about in the Old Camp for my liking.

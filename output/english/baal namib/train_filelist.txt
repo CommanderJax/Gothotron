@@ -1,0 +1,11 @@
+DUMMY/DIA_BAALNAMIB_FIRSTTALK_02_01.wav|The Sleeper has chosen you. Do you really want to join us?
+DUMMY/DIA_BAALNAMIB_FIRSTTALK_MUTE_02_01.wav|Well?
+DUMMY/DIA_BAALNAMIB_FIRSTTALK_SLEEPER_02_01.wav|Go to Cor Kalom. Tell him I sent you because you are a true supporter of the faith!
+DUMMY/GUR_1204_BAALNAMIB_ARMOR_INFO_02_02.wav|The time has not yet come for you to wear the heavy armor of a novice.
+DUMMY/GUR_1204_BAALNAMIB_ARMOR_INFO_02_03.wav|Come back as soon as you have enough ore.
+DUMMY/GUR_1204_BAALNAMIB_ARMOR_INFO_02_04.wav|This armor protects your body, like the Sleeper protects your spirit!
+DUMMY/INFO_BAALNAMIB_BROTHERHOOD_YBWO_02_02.wav|He's inside the temple hill. As always.
+DUMMY/INFO_BAALNAMIB_BROTHERHOOD_YBWAS_02_02.wav|A great invocation will be taking place. But for it to begin, we need a magical object.
+DUMMY/INFO_BAALNAMIB_BROTHERHOOD_YBWAS_02_03.wav|Y'Berion is looking for men brave enough to get him the artifact.
+DUMMY/INFO_BAALNAMIB_BROTHERHOOD_YBWAS_02_05.wav|If it were easy, we'd already have the object. Talk to Y'Berion first. He'll explain it to you.
+DUMMY/INFO_BAALNAMIB_BROTHERHOOD_OK_02_02.wav|May the Sleeper protect you.

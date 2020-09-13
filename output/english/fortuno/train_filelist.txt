@@ -1,0 +1,6 @@
+DUMMY/DIA_FORTUNO_GREET_05_00.wav|Come closer! Every newcomer to this place receives a gift of welcome!
+DUMMY/DIA_FORTUNO_GETGESCHENK_05_01.wav|Here, take three rolls of swampweed. It's Northern Dark. Good stuff.
+DUMMY/DIA_FORTUNO_GETGESCHENK_05_02.wav|You can have more of it every day, but if you want more than your daily ration, well, you need to pay.
+DUMMY/DIA_FORTUNO_DAILYRATION_05_01.wav|Here, take it. Three of the Northern Dark - but don't smoke them all at once.
+DUMMY/DIA_FORTUNO_DAILYRATION_05_02.wav|You've already had your daily ration. If you want more, come back tomorrow or buy something.
+DUMMY/DIA_FORTUNO_BUYJOINTS_05_01.wav|What do you want from me? Or do you want to sell something?

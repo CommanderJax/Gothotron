@@ -1,0 +1,3 @@
+DUMMY/INFO_TPL_1455_GORBOBA_08_01.wav|Get lost, you aren't wanted here.
+DUMMY/INFO_TPL_1455_GORBOBA1_08_02.wav|YES! I will stop you - you won't prevent Master Kalom from awakening the Sleeper.
+DUMMY/INFO_TPL_1455_GORBOBA1_08_03.wav|Don't try to attack me, the high priest has transferred part of his powers to Master Kalom and us. Now we are immortal.

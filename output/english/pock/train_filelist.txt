@@ -1,0 +1,10 @@
+DUMMY/INFO_POCK_WASSER_04_01.wav|Thanks, boy! I needed that!
+DUMMY/INFO_POCK_WASSER_NOWATER_04_00.wav|But you don't have any left. Never mind, boy. I'll ask the others.
+DUMMY/DIA_POCK_HELLO_04_01.wav|It's good to see a fresh face.
+DUMMY/DIA_POCK_HELLO_04_03.wav|Darned right, boy. I was one of the first.
+DUMMY/DIA_POCK_KNOWMUCH_04_01.wav|So so. I spend most of my time out here, just picking rice.
+DUMMY/DIA_POCK_KNOWMUCH_04_02.wav|That's what let me get so old. We get some rice and the odd schnapps. It's not much, but it's enough.
+DUMMY/DIA_POCK_WHYJAIL_04_02.wav|So one day the soldiers came and brought me here. But it's no worse in here than it is out there. At least I won't starve in here.
+DUMMY/DIA_POCK_WHYJAIL_04_03.wav|I'd always paid my taxes before - all my life. But that wasn't good enough for that son of a bitch with the crown!
+DUMMY/DIA_POCK_FORGOTALL_04_01.wav|It's good to see a new face.
+DUMMY/DIA_POCK_FORGOTALL_04_03.wav|No! No, we can't have done. I've never seen you before in my life.

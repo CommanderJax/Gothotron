@@ -1,0 +1,45 @@
+DUMMY/INFO_BAALLUKOR_DEAD_13_02.wav|Master Cor Angar sent us here to investigate the caves.
+DUMMY/INFO_BAALLUKOR_DEAD_13_03.wav|We expected to find nothing but stuffy graves and half decomposed mummies.
+DUMMY/INFO_BAALLUKOR_DEAD_13_04.wav|Suddenly the darkness shifted and there were Orcs everywhere. I don't know what they're looking for here, but their appearing here is more than unusual!
+DUMMY/INFO_BAALLUKOR_DEAD_13_06.wav|Dead! I unwittingly led them to their destruction. I hope the Sleeper will pardon me.
+DUMMY/INFO_BAALLUKOR_SUMMONING_13_02.wav|Not so far. But what about Y'Berion? Has he come to yet?
+DUMMY/INFO_BAALLUKOR_SUMMONING_13_04.wav|We need to solve the riddle of these caves. After all these dreadful losses, I can't go back to the community empty-handed.
+DUMMY/INFO_BAALLUKOR_SUMMONING_13_05.wav|But my fighting skills are limited and the Orcs don't react to my magic spells like the gullible people in the Old Camp do.
+DUMMY/INFO_BAALLUKOR_HELP_13_02.wav|Good. Excellent. There are three tunnels leading out of this hall. We should search 'em all.
+DUMMY/INFO_BAALLUKOR_HELP_13_03.wav|Go ahead. I'll follow you!
+DUMMY/INFO_BAALLUKOR_FOUNDNONE_13_02.wav|We'll need to search the three tunnels.
+DUMMY/INFO_BAALLUKOR_FOUNDONE_13_02.wav|There must be a second half. We should search all three tunnels!
+DUMMY/INFO_BAALLUKOR_FIRSTWAIT_13_01.wav|We can't go on here! Maybe these niches bear hints.
+DUMMY/INFO_BAALLUKOR_FIRSTSCROLL_13_02.wav|Very good! It's the other half of the Orcish spell scroll.
+DUMMY/INFO_BAALLUKOR_FIRSTSCROLL_13_03.wav|It looks like an Orcish spell scroll, but it's been torn in two.
+DUMMY/INFO_BAALLUKOR_FIRSTSCROLL_13_04.wav|There must be another half somewhere.
+DUMMY/INFO_BAALLUKOR_SECONDWAIT_13_01.wav|Hmmm... this tunnel leads to a dead end! Maybe you'll find some clues here that'll help us further.
+DUMMY/INFO_BAALLUKOR_SECONDSCROLL_13_02.wav|Very good! It's the other half of the Orcish spell scroll.
+DUMMY/INFO_BAALLUKOR_SECONDSCROLL_13_03.wav|It looks like an Orcish spell scroll, but it's been torn in two.
+DUMMY/INFO_BAALLUKOR_SECONDSCROLL_13_04.wav|There must be another half somewhere.
+DUMMY/INFO_BAALLUKOR_BOTHSCROLLS_13_02.wav|The two halves match. But I can't translate these Orcish signs.
+DUMMY/INFO_BAALLUKOR_RUNES_13_01.wav|Hang on! This is interesting...
+DUMMY/INFO_BAALLUKOR_RUNES_13_03.wav|Be silent and take a look at the ornamental runes in this cave.
+DUMMY/INFO_BAALLUKOR_RUNES_13_04.wav|Yeah, these should suffice to translate the two halves of the parchment.
+DUMMY/INFO_BAALLUKOR_RUNES_13_06.wav|I have it! It's a teleportation spell. It seems that it can only unfold its powers in a certain place.
+DUMMY/INFO_BAALLUKOR_RUNES_13_07.wav|Strange!
+DUMMY/INFO_BAALLUKOR_WHATNOW_13_02.wav|The big hall we passed through earlier seemed a very... strange... place. Let's just go back there!
+DUMMY/INFO_BAALLUKOR_HALLWITHOUT_13_01.wav|This place... I can't explain it, but this place here...
+DUMMY/INFO_BAALLUKOR_HALLWITHOUT_13_02.wav|Oh, forget it. Must have been my imagination.
+DUMMY/INFO_BAALLUKOR_HALLWITH_13_01.wav|This place has a special aura... the aura of the hidden.
+DUMMY/INFO_BAALLUKOR_HALLWITH_13_03.wav|The vision... We're very close to our target...
+DUMMY/INFO_BAALLUKOR_DOOR_13_01.wav|Behind this wall... that must be it!
+DUMMY/INFO_BAALLUKOR_DOOR_13_02.wav|My magic powers are still very weak.
+DUMMY/INFO_BAALLUKOR_DOOR_13_03.wav|Use the Orcish teleportation spell here, in front of this wall.
+DUMMY/INFO_BAALLUKOR_TELEPORT_13_01.wav|You've found the hidden place. My instincts have not deceived me.
+DUMMY/INFO_BAALLUKOR_ALTAR_13_01.wav|NO! This can't be true! There's nothing here but... but dust and... and bones.
+DUMMY/INFO_BAALLUKOR_ALTAR_13_02.wav|NO!
+DUMMY/INFO_BAALLUKOR_ALTAR_13_03.wav|MASTER, SPEAK TO ME!!!
+DUMMY/INFO_BAALLUKOR_ALTAR_13_04.wav|SLEEPER, REVEAL YOURSELF!!!
+DUMMY/INFO_BAALLUKOR_ALTAR_13_05.wav|NOOOOOO!!!
+DUMMY/INFO_BAALLUKOR_ALTAR_13_07.wav|This is all your fault. Your unholy presence has enraged the almighty Sleeper!
+DUMMY/INFO_BAALLUKOR_ALTAR_13_08.wav|Now I shall have to suffer for your sacrilegious behavior!
+DUMMY/INFO_BAALLUKOR_ALTAR_13_09.wav|I need to make a sacrifice for the master. A HUMAN SACRIFICE!!!
+DUMMY/INFO_BAALLUKOR_ALTAR_13_10.wav|Then he'll be sure to enlighten me and make me his servant.
+DUMMY/INFO_BAALLUKOR_ALTAR_13_11.wav|DIE, INFIDEL!!!!
+DUMMY/INFO_BAALLUKOR_ALTAR_13_12.wav|AIIIEEEEHHHHHH!!!!!!

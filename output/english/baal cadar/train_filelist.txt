@@ -1,0 +1,24 @@
+DUMMY/DIA_BAALCADAR_SLEEPSPELL_02_00.wav|What are you doing? I'm trying to meditate with my disciples.
+DUMMY/DIA_BAALCADAR_SLEEPSPELL_02_01.wav|Who taught you to use the magical powers of the Sleeper?
+DUMMY/DIA_BAALCADAR_SLEEPSPELL_02_03.wav|You seem to be an intelligent student. I will teach you.
+DUMMY/GUR_1208_BAALCADAR_TEACH_INFO_02_02.wav|The power of your spirit is the key.
+DUMMY/GUR_1208_BAALCADAR_FIRSTTEST_INFO_02_02.wav|Many have learnt the language of the runes, but only very few understand their magic.
+DUMMY/GUR_1208_BAALCADAR_FIRSTTEST_INFO_02_03.wav|I will try to teach you.
+DUMMY/GUR_1208_BAALCADAR_KREIS1_INFO_02_02.wav|Hear my words:
+DUMMY/GUR_1208_BAALCADAR_KREIS1_INFO_02_03.wav|A long time ago the Sleeper appeared and sent mankind a vision.
+DUMMY/GUR_1208_BAALCADAR_KREIS1_INFO_02_04.wav|But many people refused to see his signs, they were blinded by their greed for ore.
+DUMMY/GUR_1208_BAALCADAR_KREIS1_INFO_02_06.wav|The moment they obeyed the Sleeper's call, the First Circle was born. The magic of the runes will be understood by anybody who follows the Sleeper.
+DUMMY/GUR_1208_BAALCADAR_KREIS2_INFO_02_02.wav|Then listen and understand:
+DUMMY/GUR_1208_BAALCADAR_KREIS2_INFO_02_03.wav|The Sleeper led Y'Berion and his faithful disciples to this place, where they settled.
+DUMMY/GUR_1208_BAALCADAR_KREIS2_INFO_02_04.wav|They worked without respite - for days, weeks, months. The Camp grew. More and more men joined them, following the Sleeper's call.
+DUMMY/GUR_1208_BAALCADAR_KREIS2_INFO_02_05.wav|Together they tried to contact the Sleeper on a spiritual level.
+DUMMY/GUR_1208_BAALCADAR_KREIS2_INFO_02_06.wav|The Second Circle was born.
+DUMMY/GUR_1208_BAALCADAR_KREIS3_INFO_02_02.wav|Mark this:
+DUMMY/GUR_1208_BAALCADAR_KREIS3_INFO_02_03.wav|The visions became clear, but the spiritual power of the Brotherhood was insufficient for contact.
+DUMMY/GUR_1208_BAALCADAR_KREIS3_INFO_02_04.wav|One of the Gurus, an alchemist, solved the problem. He brewed a potion extracted from the secretion of a minecrawler. The brothers took it before prayers and their spiritual powers were united for the very first time.
+DUMMY/GUR_1208_BAALCADAR_KREIS3_INFO_02_05.wav|At the same time, the novices set out for the Camps, to preach the Sleeper's word and to convince the infidels of the truth.
+DUMMY/GUR_1208_BAALCADAR_KREIS3_INFO_02_06.wav|Thus the Third Circle was accomplished.
+DUMMY/GUR_1208_BAALCADAR_KREIS4_INFO_02_02.wav|A long time has passed since the Camp was founded. Many things have changed.
+DUMMY/GUR_1208_BAALCADAR_KREIS4_INFO_02_03.wav|The faith has grown, it has been strengthened and it has spread.
+DUMMY/GUR_1208_BAALCADAR_KREIS4_INFO_02_05.wav|Perseverance and stability of faith represent the Fourth Circle.
+DUMMY/GUR_1208_BAALCADAR_KREIS4_INFO_02_06.wav|Now you know everything a brother needs to know about magic. You have been a good student.

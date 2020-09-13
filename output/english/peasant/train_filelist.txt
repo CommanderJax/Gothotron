@@ -1,0 +1,17 @@
+DUMMY/INFO_BAU_2_WICHTIGEPERSONEN_02_01.wav|Yeah. That's right. Better to be working here of your own free will than being forced into it by the Rice Lord's thugs.
+DUMMY/INFO_BAU_2_DASLAGER_02_01.wav|It's dangerous going there. Lee's mercenaries and the mages are okay, but you gotta watch out for the rogues!
+DUMMY/INFO_BAU_2_DIELAGE_02_01.wav|What do you want? Did the Rice Lord send you? I'm already working as hard as I can!
+DUMMY/INFO_BAU_2_WASSER_02_01.wav|Thanks, man. My mouth's like a desert!
+DUMMY/INFO_BAU_2_WASSER_NOWATER_02_00.wav|Water! Hey, man! There's none left! Don't tell me everyone got some except me, again?
+DUMMY/INFO_BAU_4_WICHTIGEPERSONEN_04_01.wav|You could say the Rice Lord's our leader. But most of us only work for him because they're scared of him and his thugs.
+DUMMY/INFO_BAU_4_WICHTIGEPERSONEN_04_02.wav|Not like me. I been around a few years and I've had enough of being knocked around by the rogues in the Camp... the rice fields are just right for me.
+DUMMY/INFO_BAU_4_DASLAGER_04_01.wav|Be careful at the Camp, boy! A lot of cut-throats hang out there, just waiting to lay their hands on a newcomer like you.
+DUMMY/INFO_BAU_4_DIELAGE_04_01.wav|There's a lot of work. We need a lot of rice to feed all these people.
+DUMMY/INFO_BAU_4_WASSER_04_01.wav|Thanks, boy! I needed that!
+DUMMY/INFO_BAU_4_WASSER_NOWATER_04_00.wav|But you don't have any left. Well, never mind, boy. I'll ask the others.
+DUMMY/INFO_BAU_9_WICHTIGEPERSONEN_09_01.wav|Everyone's! The Rice Lord's supposed to be watching over the work, but if you ask me he spends all day sitting in his bunker counting his sacks.
+DUMMY/INFO_BAU_9_WICHTIGEPERSONEN_09_02.wav|Well, him and Homer did set all this up...
+DUMMY/INFO_BAU_9_DASLAGER_09_01.wav|It's full to the brim with bastards. If it was up to me, I'd have the mercenaries throw all the rogues out of the Camp.
+DUMMY/INFO_BAU_9_DASLAGER_09_02.wav|They don't do their share and only make trouble.
+DUMMY/INFO_BAU_9_WASSER_09_01.wav|Thanks, man! A bit longer and I'd have started drinking mud.
+DUMMY/INFO_BAU_9_WASSER_NOWATER_09_00.wav|You've run out. I'll get some from the others.

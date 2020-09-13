@@ -1,0 +1,42 @@
+DUMMY/INFO_ENTERCASTLE_09_01.wav|Only Gomez' men are allowed in the castle.
+DUMMY/INFO_WORKFORGOMEZ_09_01.wav|Oh yeah? And what makes you think Gomez'll be interested in having you work for him?
+DUMMY/INFO_GRD_212_FIRSTWARN_INFO_13_01.wav|HOLD IT!
+DUMMY/INFO_GRD_212_FIRSTWARN_INFO_13_03.wav|You can't enter the castle without permission! Now get out of here!
+DUMMY/INFO_GRD_212_LASTWARN_13_01.wav|Are you deaf? One more step and you're worm food!
+DUMMY/INFO_GRD_212_ABBLITZEN_13_01.wav|Interesting! I wanna get out of the goddamn colony!
+DUMMY/INFO_GRD_212_ABBLITZEN_13_02.wav|I can think of better things than stopping bums like you from going where they've no business.
+DUMMY/INFO_GRD_212_ABBLITZEN_13_04.wav|No, I can't! Thorus can.
+DUMMY/INFO_GRD_212_FIRSTIN_13_00.wav|Stop!
+DUMMY/INFO_GRD_212_PASSGATE_13_01.wav|Only if you quit asking stupid questions.
+DUMMY/INFO_GRD_213_FIRSTWARN_INFO_07_01.wav|HOLD IT!
+DUMMY/INFO_GRD_213_FIRSTWARN_INFO_07_03.wav|You can't go in the castle! Beat it!
+DUMMY/INFO_GRD_213_LASTWARN_07_01.wav|Are you deaf? One more step and you're worm food!
+DUMMY/GRD_213_TORWACHE_WELCOME_INFO_07_01.wav|I hear you're one of us now? Not bad for someone who's not been here long.
+DUMMY/INFO_GRD_213_ABBLITZEN_07_01.wav|Excitement? That's not a bad idea - I ain't beaten up anyone like you in ages.
+DUMMY/INFO_GRD_213_PASSGATE_07_01.wav|Don't hang around here - get inside.
+DUMMY/DIA_GRD_214_TORWACHE_JOB_07_01.wav|I make sure no-one gets in if Gomez don't want 'em to.
+DUMMY/DIA_GRD_214_TORWACHE_JOB_07_02.wav|So don't make trouble when you're inside, or you won't be going nowhere.
+DUMMY/GRD_214_TORWACHE_SEETHORUS_INFO_07_01.wav|Hey, I'm glad you're here. Thorus wants to see you!
+DUMMY/GRD_214_TORWACHE_SEETHORUS_INFO_07_03.wav|I'm sure he'll tell you soon enough.
+DUMMY/GRD_214_TORWACHE_NODUSTY_INFO_07_01.wav|HEY, YOU!!! You wouldn't be trying to smuggle Dusty out o' here, would you?
+DUMMY/GRD_214_TORWACHE_NODUSTY_INFO_07_03.wav|You won't be wanting anymore soon!
+DUMMY/DIA_GRD_215_TORWACHE_FIRST_06_00.wav|Where d'you think you're going?
+DUMMY/DIA_GRD_215_TORWACHE_FIRST_06_02.wav|You ain't come to make trouble, have you?
+DUMMY/DIA_GRD_215_TORWACHE_FIRST_TROUBLE_06_01.wav|Hey, this guy's funny... I don't like funny guys.
+DUMMY/DIA_GRD_215_TORWACHE_FIRST_JUSTLOOKING_06_01.wav|That'll cost you 10 ore.
+DUMMY/DIA_GRD_215_TORWACHE_FIRST_DIEGO_06_01.wav|Okay - in you go, then.
+DUMMY/DIA_GRD_215_TORWACHE_FIRST_NOPAY_06_01.wav|Then beat it.
+DUMMY/DIA_GRD_215_TORWACHE_FIRST_PAY_06_01.wav|Get along in then.
+DUMMY/DIA_GRD_215_TORWACHE_FIRST_PAY_NOORE_06_01.wav|I'll make an exception, just this once, 'cos you're new here.
+DUMMY/DIA_GRD_215_TORWACHE_PERM_06_01.wav|Nah. Everything's the same as ever.
+DUMMY/DIA_GRD_281_GUARDGATE_07_01.wav|Good. None of the rogues from the New Camp are to be seen anywhere!
+DUMMY/INFO_ORG_829_HELLO_06_01.wav|Not too bad, but I don't have anything to smoke.
+DUMMY/INFO_ORG_829_OFFERJOINT_06_01.wav|Sure! Are you one of the dealers from the Sect Camp or what?
+DUMMY/INFO_ORG_829_OFFERJOINT_NO_JOINT_06_00.wav|Hey, man! Don't take the piss, okay? I don't like it!
+DUMMY/INFO_ORG_829_SPECIALINFO_06_01.wav|Sure! When you reach the Camp, go to Gorn. He's one of the mages' mercenaries, but he's okay. He used to be one of us.
+DUMMY/INFO_ORG_829_SPECIALINFO_06_03.wav|Well, an outlaw, of course. One of the kick-the-Ore Barons-in-the-butt rogues!
+DUMMY/INFO_ORG_829_PERM_06_01.wav|Just go in and find out.
+DUMMY/INFO_ORG_830_HELLO_13_01.wav|So what?
+DUMMY/INFO_ORG_830_WHAT_13_02.wav|If you think I'll let you have a drag... Forget it!
+DUMMY/INFO_ORG_830_AUFHALTEN_13_01.wav|No. That's too much trouble for me. Besides, someone like you won't do much damage in there.
+DUMMY/INFO_ORG_830_PERM_13_01.wav|Like always - calm, just a couple of brawls.

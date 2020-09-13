@@ -1,0 +1,12 @@
+DUMMY/DIA_SKIP_FIRST_12_01.wav|I take care of the guards' weapons.
+DUMMY/DIA_SKIP_FIRST_12_03.wav|Only to Gomez and his men.
+DUMMY/DIA_SKIP_FIRST_GOMEZ_12_01.wav|The usual, eh? New armor and the best weapon I have in stock.
+DUMMY/DIA_SKIP_FIRST_GOMEZ_12_02.wav|Get out of here, before I come after you!
+DUMMY/DIA_SKIP_FIRST_THORUS_12_01.wav|Oh?
+DUMMY/DIA_SKIP_FIRST_THORUS_STRANGER_12_01.wav|Yeah? And I suppose he has nothing better to do than send you to me, right?
+DUMMY/DIA_SKIP_FIRST_THORUS_KICKASS_12_01.wav|Oh yeah? The way I see it, unless you get out of here a bit fast, I'll be the one kicking YOUR butt!
+DUMMY/DIA_SKIP_FIRST_THORUS_ASKHIM_12_01.wav|You bet I will. But not right now. I bet he'll be interested to hear the stories you're telling about him.
+DUMMY/DIA_SKIP_FIRST_THORUS_ASKHIM_12_02.wav|I don't know who let you in here, but you'd better take the shortest way out again!
+DUMMY/DIA_SKIP_FIRST_THORUS_KICKASSAGAIN_12_01.wav|Okay, man, what do you want?
+DUMMY/GRD_211_SKIP_TRADE_INFO_12_02.wav|I could sell you a few things.
+DUMMY/GRD_211_SKIP_WELCOME_INFO_12_01.wav|Hey, you've made it pretty far, considering you ain't been here long!

@@ -1,0 +1,15 @@
+DUMMY/INFO_NEFARIUS_WOSATURAS_04_01.wav|Go through the big round gate. You'll find him there.
+DUMMY/INFO_NEFARIUS_WANNAMAGE_04_01.wav|Not so fast, my boy!
+DUMMY/INFO_NEFARIUS_WANNAMAGE_04_02.wav|Before we let a young man join us, he needs to have done something great.
+DUMMY/INFO_NEFARIUS_WANNAMAGE_04_03.wav|And he must have served us for some time.
+DUMMY/INFO_NEFARIUS_WANNAMAGE_04_04.wav|If you're really serious, you should join our mercenaries. There you can serve us.
+DUMMY/INFO_NEFARIUS_WANNAMAGE_04_05.wav|And maybe one day you'll be granted a chance to do something great.
+DUMMY/INFO_NEFARIUS_NOWREADY_04_01.wav|Become one of our mercenaries, then we'll see...
+DUMMY/INFO_NEFARIUS_NOWREADY_04_02.wav|I see, you've become one of our mercenaries. Very good, very good...
+DUMMY/INFO_NEFARIUS_NOWREADY_04_03.wav|Time will attend to the rest...
+DUMMY/INFO_NEFARIUS_OCNEWS_04_00.wav|Is there any news of our friends in the Old Camp?
+DUMMY/INFO_NEFARIUS_OCNEWS_04_02.wav|No! The cretin! I warned Corristo - he was never to be trusted! You must tell Saturas about it!
+DUMMY/INFO_NEFARIUS_OCNEWS_04_03.wav|Wait!
+DUMMY/INFO_NEFARIUS_OCNEWS_04_04.wav|You have braved great dangers on our behalf.
+DUMMY/INFO_NEFARIUS_OCNEWS_04_05.wav|I think you are now ready to wear the robe of a Magician of Water.
+DUMMY/INFO_NEFARIUS_OCNEWS_04_06.wav|But now speak to Saturas! Hurry!

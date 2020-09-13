@@ -1,0 +1,6 @@
+DUMMY/VLK_584_SNIPES_DEAL_INFO_07_02.wav|I have a deal to suggest.
+DUMMY/VLK_584_SNIPES_DEAL_INFO_07_03.wav|If you make Aaron leave the chest alone, I'll give you 10 ore!
+DUMMY/VLK_584_SNIPES_DEAL_RUN_INFO_07_02.wav|Here, you've already earned the 10 ore.
+DUMMY/VLK_584_SNIPES_DEAL_2_INFO_07_02.wav|You made good business there.
+DUMMY/VLK_584_SNIPES_DEAL_2_INFO_07_04.wav|I'm always glad when I can get one over on the guards. And if they found the content of the chest with me, I'd be a dead man.
+DUMMY/VLK_584_SNIPES_DEAL_2_INFO_07_05.wav|I said 30 ore! Give me the ore and I'll give you the key!

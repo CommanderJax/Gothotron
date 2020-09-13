@@ -1,0 +1,4 @@
+DUMMY/GUR_1202_CORANGAR_WIETEMPLER_08_01.wav|First, you will have to serve as a novice for a while to prove that you truly believe in the Sleeper.
+DUMMY/GUR_1202_CORANGAR_WANNABETPL_INFO_08_07.wav|Remember: A focused spirit and a trained body may withstand any threat.
+DUMMY/INFO_CORANGAR_FINDHERB_LOOK_08_03.wav|On your way now.
+DUMMY/GUR_1202_CORANGAR_DEATH_INFO_08_00.wav|Y'BERION IS DEAD. Our spiritual leader has left us!

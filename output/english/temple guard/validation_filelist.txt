@@ -1,0 +1,3 @@
+DUMMY/TPL_1415_TORWACHE_IMPORTANT_INFO_13_01.wav|Hey, I've heard what happened in the mine. Good work. You deserve to be admitted to the templars!
+DUMMY/TPL_1415_TEMPLER_ROCK_INFO_13_04.wav|You won't get it for free though!
+DUMMY/TPL_1438_TEMPLER_ZANGEN_INFO_13_02.wav|It's not that easy to do that. I can teach you.

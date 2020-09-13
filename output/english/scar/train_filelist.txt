@@ -1,0 +1,8 @@
+DUMMY/DIA_SCAR_HELLO_08_01.wav|They call me Scar.
+DUMMY/DIA_SCAR_WHAT_08_01.wav|Me and Arto make sure nobody gets to see Gomez unless they're invited.
+DUMMY/DIA_SCAR_FRAU_08_01.wav|So what?
+DUMMY/DIA_SCAR_FRAU_08_03.wav|Look, in case you're interested in her, let me give you some advice: Forget her.
+DUMMY/DIA_SCAR_FRAU_08_04.wav|She's only just got here and Gomez has her locked in his room.
+DUMMY/DIA_SCAR_FRAU_08_05.wav|When he's done with her, he might just send her down. But for now, she's HIS - so you'd better take your mind off her.
+DUMMY/DIA_SCAR_PERM_08_01.wav|All you need to know is that he's the most powerful man in the colony.
+DUMMY/DIA_SCAR_PERM_08_02.wav|He gets what he wants, but all he really wants is power.

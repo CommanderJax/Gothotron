@@ -1,0 +1,27 @@
+DUMMY/DIA_GORNATOTH_ANGARTALKED_11_00.wav|Cor Angar has spoken to you? What did he say?
+DUMMY/DIA_GORNATOTH_ANGARTALKED_NORMAL_11_01.wav|It would appear he has a high opinion of you. He never speaks to anybody.
+DUMMY/DIA_GORNATOTH_ANGARTALKED_NORMAL_11_02.wav|It is an honor even to be noticed by him. The last time he spoke to ME was about two months ago.
+DUMMY/DIA_GORNATOTH_ANGARTALKED_SHARK_11_01.wav|What...? A holy task is waiting for me!
+DUMMY/DIA_GORNATOTH_ANGARTALKED_SHARK_11_02.wav|My master's wish is my command.
+DUMMY/DIA_GORNATOTH_ANGARTALKED_UNWORTHY_11_01.wav|Never! He could not have said that! Not about ME!
+DUMMY/TPL_1402_GORNATOTH_GETSTUFF_INFO_11_02.wav|I'm delighted to have the honor of handing our armor to the man who found the minecrawler eggs.
+DUMMY/TPL_1402_GORNATOTH_GETSTUFF_INFO_11_03.wav|May this armor protect you, as the Sleeper protects the Brotherhood!
+DUMMY/INFO_GORNATOTH_ARMOR_11_02.wav|I could give you better armor, but you must make a generous contribution to the Brotherhood!
+DUMMY/INFO_GORNATOTH_ARMOR_M_11_02.wav|You're not experienced enough! Prove your worth as a templar, then you'll earn the right to wear better armor.
+DUMMY/INFO_GORNATOTH_ARMOR_M_11_03.wav|As soon as you are able to make a sufficient donation to our community, you shall have better armor!
+DUMMY/INFO_GORNATOTH_ARMOR_M_11_04.wav|Now that you're able to make the donation, you'll be protected by new armor.
+DUMMY/INFO_GORNATOTH_ARMOR_H_11_02.wav|You're not experienced enough! Prove your worth as a member of our community, then you'll be allowed to wear such exquisite armor.
+DUMMY/INFO_GORNATOTH_ARMOR_H_11_03.wav|Meanwhile, you have earned the right to wear such armor, but at the moment you're not able to make the sufficient donation to the community!
+DUMMY/INFO_GORNATOTH_ARMOR_H_11_04.wav|From now on, wear this armor as a sign of the highest honor!
+DUMMY/INFO_GORNATOTH_ARMOR_BACK_11_02.wav|Whatever you want. You know where to find me!
+DUMMY/TPL_1402_GORNATOTH_TEACH_11_01.wav|Strength and dexterity are as important as the power of the mind.
+DUMMY/TPL_1402_GORNATOTH_TRAIN_11_01.wav|That's a good decision! Before you can improve your technique, you'll have to learn how to hold the weapon right.
+DUMMY/TPL_1402_GORNATOTH_TRAIN_11_02.wav|Beginners often tend to hold one-handed weapons with both hands. Now, you'd better not even start getting into that habit, it'll only get in the way.
+DUMMY/TPL_1402_GORNATOTH_TRAIN_11_03.wav|Hold the weapon with one hand, blade up, and keep swinging it.
+DUMMY/TPL_1402_GORNATOTH_TRAIN_11_04.wav|You have to learn to harmonize your weapon's swing with your own movements. That'll make you faster in the attack.
+DUMMY/TPL_1402_GORNATOTH_TRAIN_11_05.wav|If you keep in mind what I've taught you, your fights will be more elegant and a lot faster in future.
+DUMMY/TPL_1402_GORNATOTH_TRAIN_11_06.wav|Oh yeah, one more thing: Some hits cause more damage than others! As a beginner, you don't stand much of a chance of making critical hits.
+DUMMY/TPL_1402_GORNATOTH_TRAIN_11_07.wav|But the further you progress, the better you get.
+DUMMY/TPL_1402_GORNATOTH_TRAINAGAIN_INFO_11_02.wav|Okay, you know the basics. Holding the weapon lower down will let you put more force into your first strike.
+DUMMY/TPL_1402_GORNATOTH_TRAINAGAIN_INFO_11_03.wav|Use the swing, remember? Okay, now you need to use your body more. When you've struck twice, spin around. That'll confuse the opponent and put you in an excellent position.
+DUMMY/TPL_1402_GORNATOTH_TRAINAGAIN_INFO_11_05.wav|And back to the front. Don't forget: practice makes perfect. So, get going and become a real master of the art of one-handed fighting.

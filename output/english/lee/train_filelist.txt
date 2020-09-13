@@ -1,0 +1,47 @@
+DUMMY/DIA_LEE_GREET_08_01.wav|That's right, boy!
+DUMMY/DIA_LEE_DEFINE_08_01.wav|Very simple: Protect the ore - protect the mages.
+DUMMY/DIA_LEE_DEFINE_08_02.wav|Sometimes the mages have a special task for one of us.
+DUMMY/DIA_LEE_MITMACHEN_08_02.wav|You can only become one of us after you spent a certain time in the Camp. I'll observe you!
+DUMMY/SLD_700_LEE_BECOMESLD_INFO_08_01.wav|Your deeds for the people in the Old Mine have demonstrated that you're quite a good man.
+DUMMY/SLD_700_LEE_BECOMESLD_INFO_08_02.wav|I'd be willing to let you join the mercenaries.
+DUMMY/SLD_700_LEE_BECOMESLD_INFO_08_03.wav|But you're not ready for the mercenaries yet. Just collect some more experience and you'll be there.
+DUMMY/SLD_700_LEE_BECOMESLD_INFO_08_04.wav|Ich gebe dir eine Chance. Wie siehts aus?
+DUMMY/DIA_LEE_NOWREADY_08_01.wav|You still don't have enough experience. You need to improve your abilities.
+DUMMY/SLD_700_LEE_BECOMESLDNOW_INFO_08_02.wav|A good decision. You won't regret it.
+DUMMY/SLD_700_LEE_BECOMESLDNOW_INFO_08_03.wav|Tell me something: Why? Why have you joined us and not the Old Camp or the Brotherhood?
+DUMMY/SLD_700_LEE_BECOMESLDNOW_NOOTHER_08_02.wav|The only thing that's worth anything in here is the hope of freedom. Welcome, MERCENARY!
+DUMMY/SLD_700_LEE_BECOMESLDNOW_FREEDOM_08_02.wav|We'll get our freedom back. Welcome, MERCENARY.
+DUMMY/SLD_700_LEE_BECOMESLDNOW_JUSTBECAUSE_08_02.wav|I only hope it doesn't just sort of happen that we stay trapped in here forever. Welcome, MERCENARY.
+DUMMY/SLD_700_LEE_DAMNPAST_INFO_08_01.wav|There was a time when I led a very different life.
+DUMMY/SLD_700_LEE_DAMNPAST_INFO_08_02.wav|I was one of the best generals of this country.
+DUMMY/SLD_700_LEE_DAMNPAST_INFO_08_03.wav|I've spent my whole life fighting for my country.
+DUMMY/SLD_700_LEE_DAMNPAST_INFO_08_04.wav|But the nobles didn't like me, because the King listened to my advice. And they knew I posed a threat to their dirty business.
+DUMMY/SLD_700_LEE_DAMNPAST_INFO_08_05.wav|I hadn't counted on their insidiousness. They used the King's wife to get me.
+DUMMY/SLD_700_LEE_DAMNPAST_INFO_08_06.wav|I was blamed for her pointless murder. King Rhobar had no other choice.
+DUMMY/SLD_700_LEE_DAMNPAST_INFO_08_07.wav|The services I had rendered my country saved me from the gallows. But they robbed me of my freedom.
+DUMMY/SLD_700_LEE_DAMNPAST_INFO_08_08.wav|One day I'll be free again. Then I shall return and take revenge.
+DUMMY/SLD_700_LEE_DAMNPAST_INFO_08_09.wav|I shall have my revenge.
+DUMMY/DIA_LEE_FMTAKEN_08_01.wav|They've gone too far, they'll be sorry for it.
+DUMMY/SLD_700_LEE_CHANGESIDE_INFO_08_02.wav|You've done much for our camp. I can make good use of men like you.
+DUMMY/SLD_700_LEE_CHANGESIDE_INFO_08_03.wav|Let's keep it short. Welcome to the New Camp, MERCENARY!
+DUMMY/SLD_700_LEE_CHANGESIDE_INFO_08_04.wav|Here take some armor. Good that you're here with us.
+DUMMY/SLD_700_LEE_ARMOR_INFO_08_02.wav|You'll first have to earn your armor. Apart from that they don't come cheap.
+DUMMY/SLD_700_LEE_ARMOR_M_INFO_08_02.wav|You're not experienced enough to wear better armor. Come back as soon as you've gained more experience.
+DUMMY/SLD_700_LEE_ARMOR_M_INFO_08_04.wav|This armor is a good piece of work. It'll protect your body well.
+DUMMY/SLD_700_LEE_ARMOR_H_INFO_08_02.wav|You're not experienced enough to wear the heavy armor. Come back as soon as you've gained more experience.
+DUMMY/SLD_700_LEE_ARMOR_H_INFO_08_03.wav|Without ore you won't get armor either.
+DUMMY/SLD_700_LEE_ARMOR_H_INFO_08_04.wav|This armor is the best piece you'll ever get inside the Barrier. And believe me, it's worth the ore.
+DUMMY/SLD_700_LEE_TEACH_08_01.wav|I can help you to get stronger and more dexterous.
+DUMMY/SLD_700_LEE_ZWEIHAND1_INFO_08_02.wav|Okay, let's go through the basics first.
+DUMMY/SLD_700_LEE_ZWEIHAND1_INFO_08_03.wav|Hold the sword in a horizontal position. You'll need a great swing to attack your opponent with such a heavy weapon.
+DUMMY/SLD_700_LEE_ZWEIHAND1_INFO_08_04.wav|Raise your arm and swing it straight down. That's usually enough to knock the opponent down.
+DUMMY/SLD_700_LEE_ZWEIHAND1_INFO_08_05.wav|Use the momentum of the weapon to bring it straight back up again.
+DUMMY/SLD_700_LEE_ZWEIHAND1_INFO_08_06.wav|Two-handed swords are ideal for coordinating side hits to keep the opponents at a distance.
+DUMMY/SLD_700_LEE_ZWEIHAND1_INFO_08_07.wav|That should do to begin with. Have a practice.
+DUMMY/SLD_700_LEE_ZWEIHAND2_INFO_08_02.wav|First of all, you need to change your basic stance. Hold the sword vertically, grasp the hilt firmly in both hands and hold it at the side of your body.
+DUMMY/SLD_700_LEE_ZWEIHAND2_INFO_08_03.wav|Bring it down quickly and swing the blade over your shoulder. Now's your chance to do a quick slash to your right.
+DUMMY/SLD_700_LEE_ZWEIHAND2_INFO_08_04.wav|Your opponent won't stand a chance of coming at you.
+DUMMY/SLD_700_LEE_ZWEIHAND2_INFO_08_05.wav|Or bring the sword down from the top left in a forward thrust to drive your opponent back.
+DUMMY/SLD_700_LEE_ZWEIHAND2_INFO_08_06.wav|Spin round to give your next blow the necessary momentum to strike your opponent down.
+DUMMY/SLD_700_LEE_ZWEIHAND2_INFO_08_07.wav|If it isn't enough, use your remaining swing to wield the sword again.
+DUMMY/SLD_700_LEE_ZWEIHAND2_INFO_08_08.wav|When you've finished your attack, block your opponent and wait for an opening to strike again.

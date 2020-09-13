@@ -1,0 +1,5 @@
+DUMMY/INFO_MINE_SLD_11_DASLAGER_011_02.wav|Oh yeah, and more trouble if you try to get in the mine or the gatehouse without permission.
+DUMMY/INFO_SLD_11_KRAUTPROBE_11_02.wav|If you get your hands on any more - you know...
+DUMMY/INFO_SLD_723_PAROLE_TRUE_11_02.wav|That's right! You may pass!
+DUMMY/INFO_SLD_732_PAROLE_FALSE2_08_02.wav|WRONG!
+DUMMY/DIA_SLD_751_SOELDNER_EXIT_2_INFO_01_02.wav|Just go then.

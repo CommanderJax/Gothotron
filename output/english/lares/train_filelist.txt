@@ -1,0 +1,33 @@
+DUMMY/ORG_801_LARES_YOUHERE_11_00.wav|How did you get in here? What's up with Roscoe?
+DUMMY/ORG_801_LARES_YOUHERE_11_02.wav|What do you want?
+DUMMY/ORG_801_LARES_WANNAJOIN_11_01.wav|Oh yeah? What have you got to show for yourself then?
+DUMMY/ORG_801_LARES_BRINGLIST_11_02.wav|Show me!
+DUMMY/ORG_801_LARES_BRINGLIST_11_04.wav|Indeed! D'you know what we're going to do with it? We'll add to it and you'll take the list back to the Old Camp!
+DUMMY/ORG_801_LARES_BRINGLIST_11_05.wav|Then, when they deliver the stuff to the mine, we'll mug 'em and take the lot! It won't take a minute... Hah! Here's the list. You know what to do.
+DUMMY/ORG_801_LARES_BRINGLISTBACK_11_01.wav|Good! I positioned some men on the path to the Old Mine. Thorus' guards are lying dead in the forest even as we speak.
+DUMMY/ORG_801_LARES_BRINGLISTANTEIL_11_01.wav|Go to see Gorn. He'll give you something.
+DUMMY/ORG_801_LARES_BRINGLISTANTEIL_11_03.wav|Yeah, that's right.
+DUMMY/ORG_801_LARES_BRINGLISTANTEIL_11_05.wav|Knowing too much isn't good for you. Just go to see him and collect your share.
+DUMMY/ORG_801_LARES_MORDRAGSENTME_11_01.wav|A precious piece! It's part of normal procedure here to share your booty with your gang leader.
+DUMMY/ORG_801_LARES_MORDRAGSENTME_11_02.wav|But the fact that he gave YOU the ring proves that he must think a lot of you.
+DUMMY/ORG_801_LARES_MORDRAGSENTME_11_03.wav|I want you to go to him and tell him something from me.
+DUMMY/ORG_801_LARES_MORDRAGSENTME_11_04.wav|Tell him I want somebody in the Sect Camp. The Brotherhood is planning something big - I want to know exactly what's going on there.
+DUMMY/ORG_801_LARES_VORBEIGEMOGELT_11_01.wav|That's right. But that alone won't be enough.
+DUMMY/ORG_801_LARES_GETKRAUT_11_01.wav|Baal Isidro from the Sect Camp has weed worth at least 400 ore on him. I want you to get it from him. I don't care how you do it.
+DUMMY/ORG_801_LARES_GETKRAUT_11_04.wav|If you have the weed, sell it. Bring me the 400 ore.
+DUMMY/ORG_801_LARES_GETKRAUT_11_05.wav|Then we'll talk again to see if you'll be admitted to the gang.
+DUMMY/ORG_801_LARES_400ORE_11_01.wav|Good! Very good. I believe that should be sufficient now.
+DUMMY/ORG_801_LARES_400ORE_NOORE_11_00.wav|Count again. I hope you haven't spent half of it on booze.
+DUMMY/ORG_801_LARES_REICHT_AUFNAHME_11_00.wav|I should say so!
+DUMMY/ORG_801_LARES_REICHT_AUFNAHME_11_01.wav|And I've even got a present for you. A better armor. It's not much, but you've earned it.
+DUMMY/ORG_801_LARES_REICHT_11_02.wav|Mordrag has spoken up for you.
+DUMMY/ORG_801_LARES_REICHT_11_03.wav|You've become quite popular since you brought the list here.
+DUMMY/ORG_801_LARES_REICHT_11_04.wav|But you're not ready yet. Do your tasks.
+DUMMY/ORG_801_LARES_GOTOKALOM_11_01.wav|You're now a member of our gang. You're free to do what you want.
+DUMMY/ORG_801_LARES_GOTOKALOM_11_02.wav|If you want to make yourself useful, go to Mordrag and help him with the sect business.
+DUMMY/ORG_801_LARES_GOTOKALOM_11_03.wav|Mordrag, one of our people in the Old Camp, has been killed. Before he died, he sent us a message. It said that something big's going on in the Sect Camp.
+DUMMY/ORG_801_LARES_GOTOKALOM_11_04.wav|Go to the Brotherhood's camp and find out what's going on.
+DUMMY/ORG_801_LARES_GOTOKALOM_11_05.wav|Mordrag, one of our people in the Old Camp, has come back.
+DUMMY/ORG_801_LARES_GOTOKALOM_11_06.wav|Go to see him. Tell him I want somebody in that Sect Camp. The Brotherhood is planning something big - I want to know exactly what's going on.
+DUMMY/ORG_801_LARES_GOTOKALOM_11_07.wav|Help him.
+DUMMY/ORG_801_LARES_WHERELEARN_INFO_11_02.wav|With me. I can help you to improve your dexterity and strength.

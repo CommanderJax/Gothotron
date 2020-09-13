@@ -1,0 +1,7 @@
+DUMMY/DIA_JEREMIAH_HALLO_04_02.wav|Here - have a bottle. But don't tell Silas.
+DUMMY/DIA_JEREMIAH_PERM_04_01.wav|I can hardly keep up with these guys. Man, can they drink!
+DUMMY/DIA_JEREMIAH_PERM_04_02.wav|It's a good thing really. While I'm busy, the Rice Lord's lapdogs leave me alone.
+DUMMY/DIA_JEREMIAH_HORATIO_04_01.wav|He's a damn swine! His thugs pick on the weak and force 'em to work in the fields.
+DUMMY/DIA_JEREMIAH_HORATIO_04_02.wav|The only one who could stand up to him is Horatio. But he doesn't do violence.
+DUMMY/DIA_JEREMIAH_HORATIO_04_03.wav|I did once hear him say he'd love to smash the Rice Lord's head in, but he'd never really do it.
+DUMMY/DIA_JEREMIAH_HORATIO_04_04.wav|It'd go against his beliefs.

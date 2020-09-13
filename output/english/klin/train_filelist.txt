@@ -1,0 +1,21 @@
+DUMMY/DIA_WEDGE_PSST_05_02.wav|Exactly... Come over here!
+DUMMY/DIA_WEDGE_HELLO_05_01.wav|You've just arrived, haven't you? I noticed it straight away.
+DUMMY/DIA_WEDGE_HELLO_05_02.wav|There are a lot of things you need to know. I can teach you a few things.
+DUMMY/DIA_WEDGE_HELLO_05_03.wav|Besides, you have to watch who you talk to. Butch, for example - that's the guy over there, next to the campfire... Be aware of him!
+DUMMY/DIA_WEDGE_WARNSOFBUTCH_05_01.wav|He has the mean habit of beating up the new ones. So you'd better avoid meeting him.
+DUMMY/DIA_WEDGE_LEHRER_05_01.wav|It depends... What do you want to know?
+DUMMY/DIA_WEDGE_LEHRER_SCHLEICHEN_05_01.wav|It's all a matter of keeping your balance. You also have to learn how to control your breath.
+DUMMY/DIA_WEDGE_LEHRER_SCHLEICHEN_05_02.wav|Pay attention to your posture and nobody will hear you moving.
+DUMMY/DIA_WEDGE_LEHRER_LOCKPICK_05_01.wav|You'd like to know that, wouldn't you! It's not too difficult to begin with.
+DUMMY/DIA_WEDGE_LEHRER_LOCKPICK_05_02.wav|Above all, you have to make sure that your lockpick doesn't break off.
+DUMMY/DIA_WEDGE_LEHRER_LOCKPICK2_05_01.wav|Only when you've gained some experience can you tell when a lockpick is going to break. It makes a different sound!
+DUMMY/DIA_WEDGE_LEHRER_LOCKPICK2_05_02.wav|I think you have it. Learn to listen for the gentle clicking of the lock and you won't lose so many lockpicks in future.
+DUMMY/DIA_WEDGE_LEHRER_LOCKPICK2_05_03.wav|An expert in this field stands a good chance of opening a trunk without breaking his lockpick.
+DUMMY/DIA_WEDGE_LEHRER_PICKPOCKET_05_01.wav|So you want to relieve a few people of their belongings? Well then.
+DUMMY/DIA_WEDGE_LEHRER_PICKPOCKET_05_02.wav|I'll teach you how to improve your skills, but it's still very likely that you'll get caught.
+DUMMY/DIA_WEDGE_LEHRER_PICKPOCKET_05_03.wav|You should only take the risk if nobody but your victim is around.
+DUMMY/DIA_WEDGE_LEHRER_PICKPOCKET_05_04.wav|Only an expert can take things from people's pockets without them noticing!
+DUMMY/DIA_WEDGE_LEHRER_PICKPOCKET_05_05.wav|Forget it! You'll never make a skilled thief unless you can sneak around.
+DUMMY/DIA_WEDGE_LEHRER_PICKPOCKET2_05_01.wav|I think you've progressed far enough to be taught the final tricks of the trade.
+DUMMY/DIA_WEDGE_LEHRER_PICKPOCKET2_05_02.wav|But you should know that even the best can get caught sometimes.
+DUMMY/DIA_WEDGE_LEHRER_PICKPOCKET2_05_03.wav|Take care.

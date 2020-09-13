@@ -1,0 +1,6 @@
+DUMMY/DIA_CUTTER_HELLO_08_01.wav|I don't think I've seen you here before. Who are you?
+DUMMY/DIA_CUTTER_BURG_08_01.wav|Gomez and his gang took it over after the big uprising.
+DUMMY/DIA_CUTTER_BURG_08_02.wav|I knew right away it was better to join up with him.
+DUMMY/DIA_CUTTER_BURG_08_05.wav|Yeah, but there ain't nothing in them now. Nobody ever went down there after the big uprising.
+DUMMY/DIA_CUTTER_PERM_08_01.wav|Quiet. We're the biggest, strongest camp in the whole of the colony. Nobody messes with us.
+DUMMY/GRD_208_CUTTER_WELCOME_INFO_08_01.wav|You've made the right choice. You'll enjoy being a guard!

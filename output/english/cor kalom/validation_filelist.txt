@@ -1,0 +1,5 @@
+DUMMY/GUR_1201_CORKALOM_JOINPSI_10_13.wav|Don't hang around here! Do something. Take these weeds and give them to Gomez in the Old Camp.
+DUMMY/MIS_1_PSI_KALOM_SUCCESS_10_01.wav|Yes?
+DUMMY/GUR_1201_CORKALOM_VISION_INFO_10_07.wav|He made me understand that the path I have embarked upon is right, but the means aren't strong enough.
+DUMMY/MIS_2_PSI_KALOM_BRINGMCQEGGS_SUCCESS_ORE_10_02.wav|Take this ore as a sign of gratitude from the entire Brotherhood!
+DUMMY/GUR_1201_CORKALOM_EXIT_10_02.wav|May the Sleeper enlighten you.

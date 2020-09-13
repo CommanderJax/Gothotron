@@ -1,0 +1,3 @@
+DUMMY/ORG_804_ORGANISATOR_TOLARES_06_01.wav|I doubt he'll talk to you.
+DUMMY/INFO_ORG_876_FIRSTWARN_INFO_06_00.wav|And where do YOU want to go?
+DUMMY/INFO_ORG_876_LASTWARN_06_00.wav|Are you deaf or what, pal!

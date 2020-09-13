@@ -1,0 +1,2 @@
+DUMMY/DIA_SILAS_HEHLER_06_02.wav|Well, the boys carry in enough ore. Where should they spend it if not here?
+DUMMY/DIA_SILAS_TRADE_06_01.wav|You'll have to pay for it.

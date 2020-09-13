@@ -1,0 +1,5 @@
+DUMMY/INFO_XARDAS_FOUNDTEMPLE_14_04.wav|Maybe you really are the man the Orcish prophecies told of!
+DUMMY/INFO_XARDAS_LOADSWORD_14_02.wav|Show it to me.
+DUMMY/INFO_XARDAS_LOADSWORD02_14_02.wav|You'd need a very strong magical source of power for that purpose.
+DUMMY/INFO_XARDAS_BETTERARMOR_14_11.wav|But take this key. It opens a chest in which I used to store some particularly rare artefacts.
+DUMMY/INFO_XARDAS_MAKERUNEDOIT_14_03.wav|This decision is final. Do you really want me to remove the jewel?

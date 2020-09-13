@@ -1,0 +1,21 @@
+DUMMY/DIA_GRAVO_HALLO_04_01.wav|Well, since I stopped working in the mine, I can't really complain.
+DUMMY/DIA_GRAVO_HALLO_04_03.wav|I help people who have problems.
+DUMMY/DIA_GRAVO_HALLO_04_04.wav|If you get into trouble with influential people here, I can help you sort the thing out.
+DUMMY/DIA_GRAVO_HELPHOW_04_02.wav|Thorus can be quite stubborn - when he's pissed off with you once, he'll never talk to you again. And that's a bad thing.
+DUMMY/DIA_GRAVO_HELPHOW_04_04.wav|They put in a good word for you, and Thorus is your friend again. Of course the boys want to see some ore for these kind of favors. Your ore.
+DUMMY/DIA_GRAVO_HELPHOW_04_05.wav|And I take care that your ore gets to the right people...
+DUMMY/B_GRAVO_HELPATTITUDE_ANGRY_04_00.wav|That's right, you're in his bad books.
+DUMMY/B_GRAVO_HELPATTITUDE_ANGRY_04_01.wav|I'll have some people talk to him. 100 ore and I'll take care of the problem.
+DUMMY/B_GRAVO_HELPATTITUDE_ANGRY_04_02.wav|Well, let's see how much you have... Ah! Yeah, that should be enough. You can consider the affair settled.
+DUMMY/B_GRAVO_HELPATTITUDE_ANGRY_04_03.wav|And don't talk to anyone about it. Just behave as if nothing had happened at all.
+DUMMY/B_GRAVO_HELPATTITUDE_NOORE_04_02.wav|Dann kann ich nichts für dich tun - tut mit leid, Junge.
+DUMMY/B_GRAVO_HELPATTITUDE_HOSTILE_04_00.wav|You call that trouble? That's an understatement, I think. I think he would like to tear you into little pieces, boy.
+DUMMY/B_GRAVO_HELPATTITUDE_HOSTILE_04_01.wav|It won't be cheap if I'm to convince some people to calm him down again. It'll cost you 500 ore at least.
+DUMMY/B_GRAVO_HELPATTITUDE_HOSTILE_04_02.wav|Let's see what you have there... You seem to be a rich boy. I'll take the 500 and sort the thing out.
+DUMMY/B_GRAVO_HELPATTITUDE_HOSTILE_04_03.wav|And remember: He is never ever to know that I took care of the problem - so don't you talk to anybody about it, you understand?
+DUMMY/B_GRAVO_HELPATTITUDE_NOPROB_04_00.wav|As far as I know he doesn't have a problem with you - don't worry.
+DUMMY/DIA_GRAVO_HELPANGRYNOW_04_01.wav|I think so, but I warn you, my help could cost between 100 and 500 ore.
+DUMMY/DIA_GRAVO_INFLUENCE_04_01.wav|You want to impress the right people, do you?
+DUMMY/DIA_GRAVO_INFLUENCE_04_02.wav|Diego has the most power of all the Shadows. He trusts Fingers, Whistler and Sly.
+DUMMY/DIA_GRAVO_INFLUENCE_04_03.wav|Dexter and Fisk sell their stuff on the market square. They have many customers, even the guards, and that makes them rather influential.
+DUMMY/DIA_GRAVO_INFLUENCE_04_04.wav|And then there's Scatty. He's in charge of the arena, and determines who fights and all that. Many people here owe him ore - he's important as well.

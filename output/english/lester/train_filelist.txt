@@ -1,0 +1,73 @@
+DUMMY/INFO_LESTER_EXIT_05_01.wav|Let's go!
+DUMMY/INFO_LESTER_EXIT_05_02.wav|May the Sleeper protect you!
+DUMMY/DIA_LESTER_SAKRILEG_05_00.wav|You addressed a Guru! Never do that again! It's sacrilege! If a master wants to talk to you, HE shall address YOU.
+DUMMY/DIA_LESTER_HALLO_05_01.wav|I'm Lester. I take care of the strangers who arrive here.
+DUMMY/DIA_LESTER_HALLO_05_02.wav|You're lucky that you didn't talk to Baal Namib. No stranger is allowed to talk to the Gurus.
+DUMMY/DIA_LESTER_WANNATALKTOMASTER_05_01.wav|Forget it! I'm sure I can help you with any of your problems.
+DUMMY/DIA_LESTER_CAMPINFO_05_01.wav|What do you want to know?
+DUMMY/DIA_LESTER_CAMPINFO_GIL_05_01.wav|The Gurus form the highest guild. They are the spirit of this camp, for they have great power. The templars use their spiritual power in battle.
+DUMMY/DIA_LESTER_CAMPINFO_GIL_05_02.wav|They have an indomitable willpower. You should NEVER get into trouble with them. As for myself, I am a novice. We pray to the Sleeper and do all the work in the Camp.
+DUMMY/DIA_LESTER_CAMPINFO_GIL_05_03.wav|Some of the novices are allowed to join the Gurus, but to get that far you need to study for many years.
+DUMMY/DIA_LESTER_CAMPINFO_SLEEPER_05_01.wav|The Sleeper's a divine creature. He causes visions - at least to the Gurus.
+DUMMY/DIA_LESTER_CAMPINFO_SLEEPER_05_02.wav|We pray to him, for he will give us freedom.
+DUMMY/DIA_LESTER_CAMPINFO_SLEEPER_05_04.wav|Hey, I've been inside the Barrier for two years. Do you know how long TWO YEARS can be?
+DUMMY/DIA_LESTER_CAMPINFO_SLEEPER_05_05.wav|You can't imagine what I'm willing to believe and do, just to get out of here again!
+DUMMY/DIA_LESTER_CAMPINFO_HERB_05_01.wav|Well, the weed's grown in the swamp. Of course it has to be processed before it can be smoked. That's what we novices do.
+DUMMY/DIA_LESTER_CAMPINFO_HERB_05_02.wav|The weeds have a tranquilizing and relaxing effect. They help you concentrate on the essentials and increase your awareness.
+DUMMY/DIA_LESTER_CAMPINFO_HERB_05_03.wav|We trade them for goods from the Old Camp and we use them to recruit new people as well.
+DUMMY/DIA_LESTER_CAMPINFO_HERB_05_04.wav|The result is, of course, that some people only join us for the weed. Well, at least they help us with the work in the Camp.
+DUMMY/DIA_LESTER_WANNAJOIN_05_01.wav|Cor Kalom decides whether you're ready to join the Brotherhood.
+DUMMY/DIA_LESTER_WANNAJOIN_05_02.wav|But he relies on the advice of other Gurus. Baal Namib, over there, is one of them.
+DUMMY/DIA_LESTER_WANNAJOIN_05_03.wav|First you'll have to prove that you're worthy and then one of the Gurus will send you to Cor Kalom.
+DUMMY/DIA_LESTER_HOWPROOFWORTHY_05_01.wav|It might not look like it, but the Gurus observe everything you do here in the Camp.
+DUMMY/DIA_LESTER_HOWPROOFWORTHY_05_02.wav|If they think that you deserve to become a member of the community, they'll talk to you.
+DUMMY/DIA_LESTER_HOWPROOFWORTHY_05_03.wav|You're bound to have opportunities in the Camp to prove that you're worthy.
+DUMMY/DIA_LESTER_WEITWEG_05_01.wav|You have to know what he wants to hear.
+DUMMY/DIA_LESTER_WEITWEG_05_03.wav|Listen: When we're with him the next time, you'll address me and we'll have a little talk.
+DUMMY/DIA_LESTER_WEITWEG_05_04.wav|Baal Namib is worried because many of the novices don't only pray to the Sleeper, but also to their former gods.
+DUMMY/DIA_LESTER_WEITWEG_05_05.wav|You'll tell me that you've renounced the old gods and that, in future, you'll pray only to the Sleeper.
+DUMMY/DIA_LESTER_WEITWEG_05_06.wav|Then I'll ask you why you made this decision and you'll say that you had a vision in which the Sleeper summoned you.
+DUMMY/DIA_LESTER_WEITWEG_05_07.wav|He'll be interested then. Do you think you'll manage that?
+DUMMY/DIA_LESTER_SHOWHALLO_05_00.wav|AH! IT'S GOOD TO SEE YOU AGAIN. HOW HAVE YOU BEEN DOING?
+DUMMY/DIA_LESTER_SHOW_05_01.wav|REALLY? WHAT MADE YOU DO THAT?
+DUMMY/DIA_LESTER_SHOW_05_03.wav|WHAT DID HE SAY?
+DUMMY/DIA_LESTER_SHOW_05_05.wav|YOU'RE A VERY RICH MAN, STRANGER: THE SLEEPER DOESN'T REWARD MANY PEOPLE LIKE THAT.
+DUMMY/DIA_LESTER_GUIDEOFFER_05_01.wav|I can show you the most important places.
+DUMMY/PC_PSIONIC_SOON_INFO_05_02.wav|If you stopped asking me, we'd get there much faster.
+DUMMY/PC_PSIONIC_CHANGE_INFO_05_02.wav|Suppose you know where to find me.
+DUMMY/PC_PSIONIC_GUIDEFIRST_SMITH_INFO_05_02.wav|Follow me!
+DUMMY/PC_PSIONIC_GUIDEFIRST_TEMPEL_INFO_05_02.wav|Follow me!
+DUMMY/PC_PSIONIC_GUIDEFIRST_TARIN_INFO_05_02.wav|Follow me!
+DUMMY/PC_PSIONIC_GUIDEFIRST_HERB_INFO_05_02.wav|Follow me!
+DUMMY/PC_PSIONIC_TRAIN_INFO_05_01.wav|Down there you'll find Baal Cadar. He teaches the novices.
+DUMMY/PC_PSIONIC_TEMPEL_INFO_05_01.wav|That's the temple! I'll wait for you, but if you take too long, I'll go back to Baal Namib.
+DUMMY/PC_PSIONIC_SMITH_INFO_05_01.wav|That's the smithy! Have a look around; I'll wait here for about an hour, then I'll leave.
+DUMMY/PC_PSIONIC_HERB_INFO_05_01.wav|If you climb up this ladder you'll meet Kalom, the alchemist. Down here is Fortuno, the weed merchant.
+DUMMY/PC_PSIONIC_HERB_INFO_05_02.wav|I'll wait for you right here. But don't take too long, otherwise I'll go back.
+DUMMY/PC_PSIONIC_SEND_INFO_05_00.wav|I'm glad you're here. I have news for you.
+DUMMY/PC_PSIONIC_SEND_INFO_05_04.wav|The Gurus are trying to contact the Sleeper. But they need something to unite their powers.
+DUMMY/PC_PSIONIC_SEND_INFO_05_06.wav|They need a magical object, a focus.
+DUMMY/PC_PSIONIC_BROTHERHOOD_TODO_05_02.wav|Talk to Y'Berion. He's the most powerful man around here. This is the opportunity to attain his favor.
+DUMMY/PC_PSIONIC_FOLLOWME_INFO_05_01.wav|Hey, what are you doing here?
+DUMMY/PC_PSIONIC_FOLLOWME_INFO_05_03.wav|You're looking for the focus stones? You're really brave.
+DUMMY/PC_PSIONIC_FOLLOWME_INFO_05_05.wav|I'll believe that when I see it with my own eyes.
+DUMMY/PC_PSIONIC_FOLLOWME_INFO_05_07.wav|I'm weighing up if it's worthwhile paying a visit to the mountain fort.
+DUMMY/PC_PSIONIC_FOLLOWME_INFO_05_08.wav|You know,... there is a document I'd like to get. On the other hand it's quite risky to go in there.
+DUMMY/PC_PSIONIC_NORMAL_INFO_05_02.wav|I've learned a lot from the Gurus. Their magic can be really helpful.
+DUMMY/PC_PSIONIC_STORY_INFO_05_02.wav|Many years ago, the lord of this area lived in this mountain fort. He controlIed the land and the mines.
+DUMMY/PC_PSIONIC_STORY_INFO_05_03.wav|Like any other aristocrat, he had, of course, a document to verify his tenure. And I'll get this document.
+DUMMY/PC_PSIONIC_STORY_INFO_05_05.wav|That's right. But if the water mages manage to destroy the Barrier, the document might become quite valuable again.
+DUMMY/PC_PSIONIC_COMEWITHME_INFO_05_02.wav|That's a good idea. You go first, I'll stay near you.
+DUMMY/PC_PSIONIC_FOKUSPLACE_INFO_05_01.wav|Look, looks like the focus you're looking for is up there.
+DUMMY/PC_PSIONIC_COMEBACK_INFO_05_01.wav|Where are you going? We're not finished here yet!
+DUMMY/PC_PSIONIC_IAMHURT_INFO_05_02.wav|Take this healing potion.
+DUMMY/PC_PSIONIC_URKUNDE_INFO_05_02.wav|Hey, well done. Take these magic scrolls as a reward. With them you'll be able to reach the focus.
+DUMMY/PC_PSIONIC_URKUNDE_INFO_05_03.wav|I'll wait for you down by the focus platform.
+DUMMY/PC_PSIONIC_TIP_INFO_05_02.wav|Master Y'Berion used to say: A student tries to move things with his hands and feet, the master moves them with his spiritual powers.
+DUMMY/PC_PSIONIC_LEAVE_INFO_05_01.wav|I'll stay here to find the document.
+DUMMY/PC_PSIONIC_BALKON_INFO_05_01.wav|I'll go and have a look up there.
+DUMMY/PC_PSIONIC_FINISH_INFO_05_01.wav|Now both of us have what we wanted. I'll stay here to read the old books.
+DUMMY/PC_PSIONIC_CHESTCLOSED_INFO_05_03.wav|Have you found the document yet?
+DUMMY/PC_PSIONIC_CHESTCLOSED_INFO_05_05.wav|Did you have a look around the library?
+DUMMY/PC_PSIONIC_COMEAGAIN_INFO_05_02.wav|Alright, you go first!
+DUMMY/INFO_LESTER_DIEGOMILTEN_05_02.wav|I'll stay here to read the old books.

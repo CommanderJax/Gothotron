@@ -1,0 +1,30 @@
+DUMMY/DIA_BAALTARAN_GREET_05_01.wav|I am Baal Taran of the Brotherhood of the Sleeper.
+DUMMY/DIA_BAALTARAN_BRUDERSCHAFT_05_01.wav|We're a community of believers in a new faith.
+DUMMY/DIA_BAALTARAN_BRUDERSCHAFT_05_02.wav|Our camp is situated in the east, in the swamp. I've come to preach the words of the Sleeper to strangers like you.
+DUMMY/DIA_BAALTARAN_SLEEPER_05_01.wav|The Sleeper is our redeemer. He disclosed himself five years ago through Y'Berion, our master.
+DUMMY/DIA_BAALTARAN_SLEEPER_05_02.wav|Since then, we have all renounced the three gods. And you should do so as well.
+DUMMY/DIA_BAALTARAN_SLEEPER_05_03.wav|The gods just stood by and watched while we were exiled to this prison. But the Sleeper will lead us to freedom.
+DUMMY/DIA_BAALTARAN_LEHRE_05_01.wav|The Sleeper is a powerful being, maybe even more powerful than Innos, the god of light.
+DUMMY/DIA_BAALTARAN_LEHRE_05_02.wav|He is with us in spirit. But his power is still limited. He has been sleeping for a thousand years, but now the moment of his awakening is near.
+DUMMY/DIA_BAALTARAN_LEHRE_05_03.wav|He has chosen us to be witnesses to his awakening and to spread his word.
+DUMMY/DIA_BAALTARAN_LEHRE_05_04.wav|So listen, all those who join the Sleeper will have immortal souls, but those who are against him will be punished.
+DUMMY/DIA_BAALTARAN_LEHRE_05_05.wav|But the Sleeper is compassionate and sends proof of his might to all who doubt him.
+DUMMY/DIA_BAALTARAN_FREIHEIT_05_01.wav|We are preparing a great invocation of the Sleeper, in which all novices create the contact together.
+DUMMY/DIA_BAALTARAN_FREIHEIT_05_02.wav|In this invocation, the Sleeper will reveal the path to freedom.
+DUMMY/DIA_BAALTARAN_BEWEIS_05_01.wav|He speaks to us through visions. Whoever hears his voice, no longer doubts his might.
+DUMMY/DIA_BAALTARAN_BEWEIS_05_02.wav|If you take the weed which grows in the swamp, you will be close to the Sleeper and able to hear him. Some people even see images.
+DUMMY/DIA_BAALTARAN_WAYTOST_05_02.wav|He's near the market place, on the other side of the castle. I believe he's even got his own hut there.
+DUMMY/DIA_BAALTARAN_INTOCASTLE_05_01.wav|I fear I cannot, brother. The only ones among us who may enter the castle are those who supply the weed to Gomez.
+DUMMY/DIA_BAALTARAN_INTOCASTLE_05_02.wav|We gather swampweed and sell part of it to the Old Camp, in exchange for goods from the outside world.
+DUMMY/DIA_BAALTARAN_INTOCASTLE_05_03.wav|If you were one of the couriers working for Cor Kalom, you could get into the castle. But for that you would need to be one of us.
+DUMMY/DIA_BAALTARAN_INTOCASTLE_05_04.wav|What do you want to do in the castle anyway?
+DUMMY/DIA_BAALTARAN_INTOCASTLE_MEETSOMEONE_05_01.wav|Do you? Who? And why don't you just wait until he comes out?
+DUMMY/DIA_BAALTARAN_INTOCASTLE_LETTER_05_01.wav|Oh? And where did you get that from? The mages gave you that before they threw you in here, right?
+DUMMY/DIA_BAALTARAN_INTOCASTLE_LETTER_05_02.wav|You're stupid to tell people about it. But don't worry - I won't tell anybody.
+DUMMY/DIA_BAALTARAN_INTOCASTLE_LETTER_05_04.wav|Most people would love to earn the reward you get for a message from the outside world.
+DUMMY/DIA_BAALTARAN_INTOCASTLE_MAGE_05_01.wav|Oh! Well, they never leave the castle. You really will have to get in.
+DUMMY/DIA_BAALTARAN_INTOCASTLE_MAGE_05_02.wav|What do you want from them anyway? Magic runes? Or potions?
+DUMMY/DIA_BAALTARAN_INTOCASTLE_FORGETIT_05_01.wav|Fine, man. I just wanted to help...
+DUMMY/DIA_BAALTARAN_INTOCASTLE_EXACTLY_05_01.wav|I knew it! What else would a guy like you want with the mages.
+DUMMY/DIA_BAALTARAN_INTOCASTLE_EXACTLY_05_02.wav|I can give you some good advice: Forget the mages. They take far too much ore for their stuff.
+DUMMY/DIA_BAALTARAN_INTOCASTLE_EXACTLY_05_03.wav|Magic runes and potions are much cheaper in our camp.

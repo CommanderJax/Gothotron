@@ -1,0 +1,2 @@
+DUMMY/DIA_WEDGE_PSST_05_00.wav|Sshh... hey, you!
+DUMMY/DIA_WEDGE_LEHRER_LOCKPICK_05_03.wav|If you're a little bit more patient in the future, you'll see that you won't need that many lockpicks any more!

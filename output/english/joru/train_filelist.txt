@@ -1,0 +1,26 @@
+DUMMY/DIA_JORU_GREET_07_01.wav|I'm teaching the words of the Sleeper to the novices.
+DUMMY/DIA_JORU_GREET_07_02.wav|I'm still a novice myself, but soon I'll be a Baal - one of the Gurus.
+DUMMY/DIA_JORU_GREET_07_04.wav|But I'm still putting that off. There's no rush - you understand? I can still become a master anytime.
+DUMMY/DIA_JORU_GREET_07_05.wav|At the moment I'm quite happy about my current task.
+DUMMY/DIA_JORU_TESTER_07_01.wav|I test the new substances developed by Cor Kalom in his alchemy lab with my pals here.
+DUMMY/DIA_JORU_TESTER_07_02.wav|His aide gives us something new every couple of days. And we test it.
+DUMMY/DIA_JORU_TESTER_07_03.wav|This weed opens your spirit. If you take the right amount, you can get in touch with the Sleeper.
+DUMMY/DIA_JORU_SLEEPERCONTACT_07_01.wav|No. Not yet. But that's because we never get enough of the stuff.
+DUMMY/DIA_JORU_SLEEPERCONTACT_07_02.wav|Kalom always wants to hear about the effect of it, but I get the impression he's not really interested in my opinion at all.
+DUMMY/DIA_JORU_SLEEPERCONTACT_07_03.wav|If I find the stuff stimulating, he passes it straight on to the Gurus...
+DUMMY/DIA_JORU_SLEEPERCONTACT_07_04.wav|But soon I'll be a Guru myself, then I can go right to my limits and listen to the voice of the Sleeper myself.
+DUMMY/DIA_JORU_JOINPSI_07_01.wav|You want to join us? That's good! Just wait... yes, I think I can help you.
+DUMMY/DIA_JORU_JOINPSI_07_02.wav|I'm not a Guru yet, but I have some influence in the Brotherhood.
+DUMMY/DIA_JORU_JOINPSI_07_03.wav|You'd have to do me a favor. Have you seen Fortuno yet?
+DUMMY/DIA_JORU_JOINPSI_JA_07_00.wav|Then you have your daily ration? If you give it to me then we're in business.
+DUMMY/DIA_JORU_JOINPSI_NEIN_07_00.wav|Then go, see him and collect your daily ration. If you leave me all the swampweed he gives you, we're in business.
+DUMMY/DIA_JORU_JOINTSRUNNING_07_01.wav|Good! You must have noticed that none of the Gurus wants to talk to you.
+DUMMY/DIA_JORU_JOINTSRUNNING_07_02.wav|You can change that by impressing them. I can tell you how to do that.
+DUMMY/DIA_JORU_JOINTSRUNNING_NO_JOINTS_07_00.wav|We agreed on three Northern Dark and nothing else! Get me the weeds, THEN we can do business!
+DUMMY/DIA_JORU_IMPRESSGURUS_07_01.wav|Baal Cadar instructs the novices in the magic of the Sleeper.
+DUMMY/DIA_JORU_IMPRESSGURUS_07_02.wav|If you want his attention, use magic.
+DUMMY/DIA_JORU_IMPRESSGURUS_07_03.wav|But don't give him the Fist of Wind! Send one of his audience to sleep or something like that.
+DUMMY/DIA_JORU_IMPRESSGURUS_07_04.wav|Baal Namib is over there at the main gate. He's one of the toughest guys. I think Lester might be able to help you with him. Speak to him as soon as his master is away.
+DUMMY/DIA_JORU_IMPRESSGURUS_07_05.wav|The other Gurus are basically quite okay - just try to make yourself useful.
+DUMMY/DIA_JORU_IMPRESSGURUS_07_07.wav|Hey - a deal's a deal.
+DUMMY/DIA_JORU_GETMAGIC_07_02.wav|Maybe another Guru can help you.

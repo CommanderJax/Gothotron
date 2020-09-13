@@ -1,0 +1,26 @@
+DUMMY/STT_301_IAN_EXIT_INFO_13_02.wav|Don't make any trouble.
+DUMMY/STT_301_IAN_HI_INFO_13_02.wav|Yes, I'm Ian. And this is my mine. So don't touch or break anything.
+DUMMY/STT_301_IAN_GOMEZ_INFO_13_02.wav|Yes, of course this is the mine of the Old Camp. But in here there's only one boss - and that's me.
+DUMMY/STT_301_IAN_ORE_INFO_13_02.wav|We dig for ore day and night. This means a storage of 200 sacks per month and another 20 sacks which will be melted down.
+DUMMY/STT_301_IAN_ORE_INFO_13_03.wav|Hundreds of blades can be forged with the ore we supply to the King.
+DUMMY/STT_301_IAN_MORE_INFO_13_03.wav|An army equipped with these weapons has a decisive advantage in battle.
+DUMMY/STT_301_IAN_MAGIC_INFO_13_02.wav|Unfortunately the magic powers of the ore vanish during the smelting process. They know the right smelting technique in the blast furnaces of Nordmar.
+DUMMY/STT_301_IAN_MINE_INFO_13_02.wav|If you want to look around here you need to be careful. There are minecrawlers in the caves. You'd better stay in the main shaft.
+DUMMY/STT_301_IAN_MINE_INFO_13_03.wav|And leave the templars alone. Even if they only hang around most of the time, they're the best fighters you can ever have at your side when it comes down to the crawlers.
+DUMMY/STT_301_IAN_MINE_INFO_13_05.wav|I have some work to do. And don't keep my boys from doing their work.
+DUMMY/STT_301_IAN_WANTLIST_INFO_13_02.wav|Anybody could say that. Get lost.
+DUMMY/STT_301_IAN_GETLIST_INFO_13_02.wav|Alright, here's the list. Tell them to hurry up with the deliveries.
+DUMMY/STT_301_IAN_NEST_INFO_13_02.wav|There are probably dozens of nests here.
+DUMMY/STT_301_IAN_NEST_INFO_13_04.wav|I don't have time to see to it now. Our masher doesn't work any more. The gearwheel broke a few hours ago.
+DUMMY/STT_301_IAN_NEST_INFO_13_05.wav|I've no idea where to get a new one.
+DUMMY/STT_301_IAN_NEST_INFO_13_06.wav|Just get me a gearwheel, then I'll see to your problem.
+DUMMY/STT_301_IAN_GEAR_RUN_INFO_13_02.wav|No idea. I'm as much at a loss as you are!
+DUMMY/STT_301_IAN_GEAR_RUN_INFO_13_03.wav|But there's an old broken masher in a side shaft. Maybe you'll be lucky there.
+DUMMY/STT_301_IAN_GEAR_SUC_INFO_13_02.wav|Hey, well done. I think that'll work. Now what about you, you're looking for the nest of the minecrawlers... hm...
+DUMMY/STT_301_IAN_GEAR_SUC_INFO_13_03.wav|Just go to Asghan and tell him to open the gate, so you can search the dark shafts.
+DUMMY/STT_301_IAN_GEAR_SUC_INFO_13_04.wav|Just tell him Everything's gonna be fine. Then he'll know that I've given you permission.
+DUMMY/STT_301_IAN_GOTOASGHAN_INFO_13_02.wav|I've already told you, go to Asghan. He's the chief of the guards. You'll find him somewhere on the lowest level.
+DUMMY/STT_301_IAN_AFTERALL_INFO_13_02.wav|Then we'll finally have peace and quiet here again. Hahaha!
+DUMMY/STT_301_IAN_AFTERALL_INFO_13_03.wav|No offence. Good work, boy!
+DUMMY/STT_301_IAN_AFTERALL_INFO_13_04.wav|Here, take this crate of beer for your efforts.
+DUMMY/STT_301_IAN_NOTENOUGH_INFO_13_02.wav|What? Is that all the eggs you found? Well, so what. You've proved you can fight.

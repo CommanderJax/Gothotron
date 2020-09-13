@@ -1,0 +1,2 @@
+DUMMY/ORG_843_SHARKY_FISK_INFO_10_03.wav|Why not... tell Fisk he can count on me in the next few days.
+DUMMY/ORG_843_SHARKY_GREET_INFO_10_02.wav|Do you want to buy something?

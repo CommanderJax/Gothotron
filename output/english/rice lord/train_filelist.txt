@@ -1,0 +1,7 @@
+DUMMY/DIA_RICELORD_HELLO_12_01.wav|Why? You looking for work?
+DUMMY/DIA_RICELORD_ARBEIT_12_01.wav|Go and see Lefty. He's usually to the right of the shed.
+DUMMY/DIA_RICELORD_TRADE_12_01.wav|What have you got to offer?
+DUMMY/DIA_RICELORD_LEFTYSENTME_12_01.wav|Oh yeah. What did he say?
+DUMMY/DIA_RICELORD_GETWATER_12_01.wav|Right. Here's a dozen bottles of water.
+DUMMY/DIA_RICELORD_GETWATER_12_02.wav|There's about twice that amount of peasants, so make sure you share it out evenly.
+DUMMY/DIA_RICELORD_GETWATER_TOOLATE_12_00.wav|That was yesterday, lad! You'd better go to him. He has something to tell you.

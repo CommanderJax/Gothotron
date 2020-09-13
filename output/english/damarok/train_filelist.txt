@@ -1,0 +1,2 @@
+DUMMY/KDF_401_DAMAROK_HEAL_INFO_14_01.wav|If you are injured, I shall heal you.
+DUMMY/KDF_401_DAMAROK_HEALINFO_INFO_14_02.wav|The body heals, the spirit grows clear.

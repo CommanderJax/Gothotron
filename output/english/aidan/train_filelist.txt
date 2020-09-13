@@ -1,0 +1,13 @@
+DUMMY/DIA_AIDAN_HELLO_13_03.wav|If you know how to cut up the beasts the right way, yeah.
+DUMMY/ORG_859_AIDAN_CREATURES_13_01.wav|What do you wanna know?
+DUMMY/ORG_859_AIDAN_CREATURES_TAUGHTALL_13_00.wav|I've taught you everything I know.
+DUMMY/ORG_859_AIDAN_CREATURES_ZAHN_13_01.wav|The most important thing is to make sure the teeth don't splinter. To avoid that, put your knife near the center of the tooth and lever it out carefully.
+DUMMY/ORG_859_AIDAN_CREATURES_ZAHN_13_02.wav|You can take the teeth of wolves, shadowbeasts and snappers.
+DUMMY/ORG_859_AIDAN_CREATURES_FELL_13_01.wav|It's very important to skin them from the front to the back. Once you get the hang of it, it'll be easy. Furs are very valuable!
+DUMMY/ORG_859_AIDAN_CREATURES_FELL_13_02.wav|The furs of wolves and shadowbeasts can be used to make clothes. When you examine the fur of a killed animal, you'll soon notice if it can be used or not.
+DUMMY/ORG_859_AIDAN_CREATURES_KRALLE_13_01.wav|Actually it's quite simple if you know what to do. Bend the claws forward - never backwards - and you MUSTN'T pull them out either!
+DUMMY/ORG_859_AIDAN_CREATURES_KRALLE_13_02.wav|Lizards' claws are especially useful. From now on, you'll know which creature's claws to take.
+DUMMY/ORG_859_AIDAN_CREATURES_HAUT_13_01.wav|The only reptiles suited for this purpose are lurkers and swampsharks.
+DUMMY/ORG_859_AIDAN_CREATURES_HAUT_13_02.wav|If you slit the skin at the sides, it'll peel off by itself. From now on you should be able to skin reptiles.
+DUMMY/ORG_859_AIDAN_CREATURES_KEINE_LP_13_00.wav|You need more experience, otherwise my knowledge won't be of any use to you.
+DUMMY/ORG_859_AIDAN_CREATURES_KEIN_ERZ_13_00.wav|I wanna see some ore first. Like I said: Everything has its price!

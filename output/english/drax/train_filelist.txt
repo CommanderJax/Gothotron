@@ -1,0 +1,31 @@
+DUMMY/ORG_819_DRAX_HUNTHERE_06_01.wav|Looks like it... what do you want?
+DUMMY/ORG_819_DRAX_HUNTHERE_06_03.wav|I could teach you a few things - but everything has its price.
+DUMMY/ORG_819_DRAX_HUNTHERE_06_05.wav|A good gulp of beer will do to start with - then we'll see.
+DUMMY/ORG_819_DRAX_SCAVENGER_06_01.wav|Scavengers, that's what we call the big birds, should be attacked one after the other. It's easy to lure single scavengers from the pack.
+DUMMY/ORG_819_DRAX_SCAVENGER_06_02.wav|If you come too close, they'll become irritated. After a while they'll storm in your direction. At this point, you should be waiting for them with a raised weapon.
+DUMMY/ORG_819_DRAX_SCAVENGER_06_03.wav|If you manage to strike the beast before it hits you, you have to keep fighting, then you'll be able to defeat the creature without being hurt yourself.
+DUMMY/ORG_819_DRAX_SCAVENGER_06_04.wav|If it hits YOU first - well - just don't let them.
+DUMMY/ORG_819_DRAX_SCAVENGER_KEIN_BIER_06_01.wav|Then go and fetch some. That'll be the best free hint you'll get in a long time. And as you're going anyway, bring some ore with you as well!
+DUMMY/ORG_819_DRAX_CREATURES_06_01.wav|A lot - but it'll cost you more than a beer.
+DUMMY/ORG_819_DRAX_CREATURES_06_02.wav|If you know how, you can take the creatures' teeth, claws and skin. It's hard to get them but they are valuable.
+DUMMY/ORG_819_DRAX_CREATURES_06_03.wav|At least every merchant will trade those things with you.
+DUMMY/ORG_819_DRAX_CREATURES_TAUGHTALL_06_00.wav|I've told you everything I know.
+DUMMY/ORG_819_DRAX_CREATURES_PRETTYMUCH_06_01.wav|Possibly, but you can earn a lot of ore with this knowledge.
+DUMMY/ORG_819_DRAX_CREATURES_PRETTYMUCH_06_02.wav|All the animals you kill without knowing how to cut them up will just rot away.
+DUMMY/ORG_819_DRAX_CREATURES_PRETTYMUCH_06_03.wav|That's a wasted opportunity of skinning them and selling the fur at a high price.
+DUMMY/ORG_819_DRAX_CREATURES_PRETTYMUCH_06_04.wav|If I were you, I'd try to gain this knowledge as soon as possible.
+DUMMY/ORG_819_DRAX_CREATURES_ZAHN_06_01.wav|The most important thing is to make sure the teeth don't splinter. To avoid that, put your knife near the center of the tooth and lever it out carefully.
+DUMMY/ORG_819_DRAX_CREATURES_ZAHN_06_02.wav|You can take the teeth of wolves, shadowbeasts and snappers.
+DUMMY/ORG_819_DRAX_CREATURES_KEINE_LP_06_00.wav|You have to gain more experience otherwise my knowledge won't be of any use to you.
+DUMMY/ORG_819_DRAX_CREATURES_KEIN_ERZ_06_00.wav|I want to see some ore first. Like I said: Everything has its price!
+DUMMY/ORG_819_DRAX_CREATURES_FELL_06_01.wav|It's very important to skin them from the back to the front. Once you get the hang of it, it'll be easy. Furs are very valuable!
+DUMMY/ORG_819_DRAX_CREATURES_FELL_06_02.wav|The furs of wolves and shadowbeasts can be used to make clothes. When you examine the fur of a killed animal, you'll soon notice if it can be used or not.
+DUMMY/ORG_819_DRAX_CREATURES_KEINE_LP_06_01.wav|You need more experience, otherwise my knowledge won't be of any use to you.
+DUMMY/ORG_819_DRAX_CREATURES_KRALLE_06_01.wav|Actually it's quite simple if you know what to do. Bend the claws forward - never backwards - and you MUSTN'T pull them out either!
+DUMMY/ORG_819_DRAX_CREATURES_KRALLE_06_02.wav|Claws can be taken especially from lizards. From now on, you'll know which creature's claws to take.
+DUMMY/ORG_819_DRAX_CREATURES_KEINE_LP_06_02.wav|You need more experience, otherwise my knowledge won't be of any use to you.
+DUMMY/ORG_819_DRAX_CREATURES_KEIN_ERZ_06_02.wav|I want to see some ore first. Like I said: Everything has its price!
+DUMMY/ORG_819_DRAX_CREATURES_HAUT_06_01.wav|The only reptiles suited for this purpose are lurkers and swampsharks.
+DUMMY/ORG_819_DRAX_CREATURES_HAUT_06_02.wav|If you slit the skin at the sides, it'll peel off by itself. From now on you should be able to skin reptiles.
+DUMMY/ORG_819_DRAX_CREATURES_KEINE_LP_06_03.wav|You need more experience, otherwise my knowledge won't be of any use to you.
+DUMMY/ORG_819_DRAX_CREATURES_KEIN_ERZ_06_03.wav|I want to see some ore first. Like I said: Everything has its price!

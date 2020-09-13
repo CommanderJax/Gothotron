@@ -1,0 +1,14 @@
+DUMMY/DIA_CAVALORN_HUNTER_12_01.wav|I'm a hunter - above all I hunt scavengers.
+DUMMY/DIA_CAVALORN_LEHRER_12_01.wav|That depends - what do you want to know?
+DUMMY/DIA_CAVALORN_LEHRER_BOW_12_01.wav|For a beginner it's not hard to get better. It's a question of your posture.
+DUMMY/DIA_CAVALORN_LEHRER_BOW_12_03.wav|If you hit certain parts of the body, you only need one shot. As a beginner, you've only got a very small chance of hitting these parts.
+DUMMY/DIA_CAVALORN_LEHRER_BOW_12_04.wav|But if you bear in mind what I've told you, you'll hit better next time.
+DUMMY/DIA_CAVALORN_LEHRER_SCHLEICHEN_12_01.wav|Good idea. That's most important if you want to enter huts to get at somebody from behind.
+DUMMY/DIA_CAVALORN_LEHRER_SCHLEICHEN_12_02.wav|If you bend your knees when walking, you can see the floor better and you have better control over your body as well.
+DUMMY/DIA_CAVALORN_LEHRER_SCHLEICHEN_12_03.wav|But everybody will notice you in this posture, so make sure nobody sees you when you sneak around!
+DUMMY/DIA_CAVALORN_LEHRER_SCHLEICHEN_12_04.wav|Keep in mind what I told you, and above all: Never get caught!
+DUMMY/DIA_CAVALORN_LEHRER_BOW_2_INFO_12_02.wav|You're a good hunter already. Now acquire the remaining knowledge.
+DUMMY/DIA_CAVALORN_LEHRER_BOW_2_INFO_12_03.wav|To become a good marksman, you need to stop trying to be one.
+DUMMY/DIA_CAVALORN_LEHRER_BOW_2_INFO_12_04.wav|Discover the laws of the eye, tension, trajectory and target. Always watch out and be prepared at all times.
+DUMMY/DIA_CAVALORN_LEHRER_BOW_2_INFO_12_05.wav|You've mastered the technique very well now. Now go and apply your knowledge and skill.
+DUMMY/STT_336_CAVALORN_SELLBOW_INFO_12_02.wav|Here. I sell the best bows in the Old Camp.

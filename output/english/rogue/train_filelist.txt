@@ -1,0 +1,54 @@
+DUMMY/INFO_MINE_ORG_13_MINE_13_01.wav|This hole in the rock is gonna get us out of here. Once we have enough ore, we can forget about the Old Camp.
+DUMMY/INFO_MINE_ORG_13_WICHTIGEPERSONEN_13_01.wav|Okyl calls the shots.
+DUMMY/INFO_MINE_ORG_13_WICHTIGEPERSONEN_13_02.wav|But he usually leaves us rogues alone.
+DUMMY/INFO_MINE_ORG_13_DIELAGE_13_01.wav|No worse than yesterday.
+DUMMY/INFO_MINE_ORG_6_MINE_06_01.wav|In the mine? The guys in there stay there. No-one gets in, and no-one gets out.
+DUMMY/INFO_MINE_ORG_6_MINE_06_02.wav|You just be glad you're out.
+DUMMY/INFO_MINE_ORG_6_WICHTIGEPERSONEN_06_01.wav|Nobody gives me orders, but you have to know how to get there.
+DUMMY/INFO_MINE_ORG_6_WICHTIGEPERSONEN_06_02.wav|That's a trade secret! But between you and me, it ain't all that hard for a rogue.
+DUMMY/INFO_MINE_ORG_6_DIELAGE_06_01.wav|Me, work? If I was a working man, I wouldn't be in the Dome, if you know what I mean.
+DUMMY/INFO_MINE_ORG_7_MINE_07_01.wav|The camp? You mean the Hollow. It ain't so bad, really. The scrapers collect ore, the mercenaries stand on guard, and we rogues keep 'em all under control.
+DUMMY/INFO_MINE_ORG_7_WICHTIGEPERSONEN_07_01.wav|That depends on who you take your orders from.
+DUMMY/INFO_MINE_ORG_7_WICHTIGEPERSONEN_07_02.wav|Whatever, if Okyl wants something, you'll do well not to object. He can get pretty ugly when he's pissed off.
+DUMMY/INFO_MINE_ORG_7_DIELAGE_07_01.wav|Man, you're getting on my nerves!
+DUMMY/INFO_ORG_13_EINERVONEUCHWERDEN_13_01.wav|Go out into the fields and help the peasants collect the rice.
+DUMMY/INFO_ORG_13_WICHTIGEPERSONEN_13_01.wav|Lee's the head of the mercenaries, if THAT's what you mean. But I'm no mercenary and I'm damned if I'll let them boss me around!
+DUMMY/INFO_ORG_13_DASLAGER_13_01.wav|Then go on in and take a look round. So long as you're not one of Gomez' men, no-one'll stop you.
+DUMMY/INFO_ORG_13_DIELAGE_13_01.wav|And what do YOU want?
+DUMMY/INFO_ORG_13_KRAUTPROBE_13_01.wav|You got some? I'll have a stalk for 10 Ore.
+DUMMY/INFO_ORG_13_KRAUTPROBE_13_02.wav|Come back anytime, brother.
+DUMMY/INFO_ORG_13_KRAUTPROBE_NO_JOINT_13_00.wav|But you've got none. Hey! Don't piss me around!
+DUMMY/INFO_ORG_6_EINERVONEUCHWERDEN_06_01.wav|Lares decides who gets to join the gang.
+DUMMY/INFO_ORG_6_EINERVONEUCHWERDEN_06_02.wav|But you'll need a good reason if you wanna see him.
+DUMMY/INFO_ORG_6_EINERVONEUCHWERDEN_06_04.wav|Like someone sending you to him.
+DUMMY/INFO_ORG_6_WICHTIGEPERSONEN_06_01.wav|You've just come from the Old Camp, eh?
+DUMMY/INFO_ORG_6_WICHTIGEPERSONEN_06_02.wav|Nobody's the boss here. That damned Lee keeps trying to keep us on a leash, but we do as we see fit.
+DUMMY/INFO_ORG_6_WICHTIGEPERSONEN_06_03.wav|If we did have any kind of a boss, it'd be Lares. But he's wise enough not to get involved in other people's business!
+DUMMY/INFO_ORG_6_DASLAGER_06_01.wav|In the middle of the cave there's a huge hole full of ore. If you're planning on getting your hands on it somehow - forget it!
+DUMMY/INFO_ORG_6_DASLAGER_06_02.wav|I tried it myself once, but those mercenaries keep watch night and day.
+DUMMY/INFO_ORG_6_DIELAGE_06_01.wav|Man! What do you think? Eating rice all day and waiting all the time for a chance to get some ore.
+DUMMY/INFO_ORG_6_DIELAGE_06_02.wav|Then off to the bar and fill myself up to the brim with rice schnapps!
+DUMMY/INFO_ORG_6_KRAUTPROBE_06_01.wav|Sure. Here's 10 Ore.
+DUMMY/INFO_ORG_6_KRAUTPROBE_06_02.wav|Come by again when you get some more, will ya?
+DUMMY/INFO_ORG_6_KRAUTPROBE_NO_JOINT_06_00.wav|Where? I don't see no weed.
+DUMMY/INFO_ORG_7_EINERVONEUCHWERDEN_07_01.wav|You can join our gang. But first you have to prove you're against Gomez.
+DUMMY/INFO_ORG_7_EINERVONEUCHWERDEN_07_03.wav|If I were you, I'd get something important from the Old Camp or the Old Mine and take it to Lares.
+DUMMY/INFO_ORG_7_WICHTIGEPERSONEN_07_01.wav|Lares is the head of the gang. Most folks accept him.
+DUMMY/INFO_ORG_7_WICHTIGEPERSONEN_07_02.wav|But he don't tell us what to do.
+DUMMY/INFO_ORG_7_DASLAGER_07_01.wav|It's a kind of community for community's sake, if you know what I mean. We all do as we please, but there are so many of us that Gomez can't wipe us out that easily.
+DUMMY/INFO_ORG_7_DASLAGER_07_02.wav|Although that's probably what he dreams of at night.
+DUMMY/INFO_ORG_7_DASLAGER_07_04.wav|We steal from him!
+DUMMY/INFO_ORG_7_DIELAGE_07_01.wav|You've not been here long, have you?
+DUMMY/INFO_ORG_7_DIELAGE_07_02.wav|The mages have been preparing for the blasting of the ore mound for years. They say it won't be long now.
+DUMMY/INFO_ORG_7_DIELAGE_07_03.wav|At least it looks that way, considering the huge mound that the scrapers have assembled so far.
+DUMMY/INFO_ORG_7_KRAUTPROBE_07_01.wav|I'll give you 10 Ore for it - here.
+DUMMY/INFO_ORG_7_KRAUTPROBE_07_02.wav|Anytime you need to get rid of some more, just stop by.
+DUMMY/INFO_ORG_7_KRAUTPROBE_NO_JOINT_07_00.wav|Where? I see no weed.
+DUMMY/ORG_804_ORGANISATOR_GREET_06_00.wav|Now where are YOU going?
+DUMMY/ORG_804_ORGANISATOR_WAYTO_06_01.wav|To Lares.
+DUMMY/ORG_804_ORGANISATOR_TOLARES_06_03.wav|I won't stop you.
+DUMMY/ORG_804_ORGANISATOR_PERM_06_01.wav|Sort that out with Roscoe.
+DUMMY/INFO_ORG_804_FIRSTWARN_INFO_06_00.wav|Gomez' servants don't get in here! Go!
+DUMMY/INFO_ORG_804_LASTWARN_06_00.wav|Go while you can still walk!
+DUMMY/ORG_825_ORGANISATOR_PERM_07_01.wav|We make sure none of Lee's or Gomez' people come too close to Lares.
+DUMMY/INFO_ORG_876_FIRSTWARN_INFO_06_02.wav|Forget it! Silas only wants to see scrapers and rogues in his bar.

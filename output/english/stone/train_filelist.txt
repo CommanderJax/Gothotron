@@ -1,0 +1,30 @@
+DUMMY/DIA_STONE_HELLO_06_01.wav|That's right.
+DUMMY/DIA_STONE_NOTSELLING_06_01.wav|Skip deals with the weapons. I just hand out the armor.
+DUMMY/DIA_STONE_NOTSELLING_06_03.wav|Only armor for guards. And you're no guard. So you'll have to get your armor elsewhere!
+DUMMY/GRD_219_STONE_GETSTUFF_INFO_06_02.wav|So, Thorus has accepted you, eh? Congratulations!
+DUMMY/GRD_219_STONE_GETSTUFF_INFO_06_03.wav|Another one eager to stick his neck out for Gomez. Oh well, what do I care?
+DUMMY/GRD_219_STONE_GETSTUFF_INFO_06_04.wav|Here, takes this armor and sword. Welcome to the Guards.
+DUMMY/GRD_219_STONE_BETTERARMOR_INFO_06_02.wav|You can have it when you're ready for it and only if you have enough ore...
+DUMMY/GRD_219_STONE_BETTERARMOR_INFO_M_06_02.wav|Thorus says you have to make your way as a guard before you can have better armor!
+DUMMY/GRD_219_STONE_BETTERARMOR_INFO_M_06_03.wav|I have one in stock, but you don't seem to have enough ore with you! Come back when you can afford it!
+DUMMY/GRD_219_STONE_BETTERARMOR_INFO_M_06_04.wav|Alright, here's your new guard's armor! Don't let the mercenaries make too many dents in it, hahaha!
+DUMMY/GRD_219_STONE_BETTERARMOR_INFO_H_06_02.wav|Only the upper class of guards can have one of them. And I'm afraid it's gonna be a long time before you make it that far.
+DUMMY/GRD_219_STONE_BETTERARMOR_INFO_BACK_06_02.wav|Do as you please. You know where to find me!
+DUMMY/DIA_GRD_219_STONE_06_01.wav|What do you want? You don't look like one of Gomez' henchmen?
+DUMMY/DIA_GRD_219_STONE1_06_02.wav|Then how did you get here? Gomez had the key to the dungeons...
+DUMMY/DIA_GRD_219_STONE1_06_04.wav|Are you trying to tell me YOU're the guy that wiped out Gomez?
+DUMMY/DIA_GRD_219_STONE1_06_07.wav|But why are you releasing me?
+DUMMY/DIA_GRD_219_STONE1_06_09.wav|Well, thank you...
+DUMMY/DIA_GRD_219_STONE1_06_10.wav|... I'm much obliged to you. Come and see me at the smithy, we can talk there.
+DUMMY/DIA_GRD_219_STONE3_06_02.wav|You know, I was thinking: There's not much I can give you, so I'll forge something for you.
+DUMMY/DIA_GRD_219_STONE3_06_03.wav|Maybe a ring or some such thing...
+DUMMY/DIA_GRD_219_STONE2_06_02.wav|Gomez - the bastard - claimed I was in cahoots with the fire mages. The only reason he didn't kill me is because I'm the best smith in the whole Old Camp.
+DUMMY/DIA_GRD_219_STONE2_06_03.wav|So he threw me into the rat's nest and only let me out when he needed me to make something for him.
+DUMMY/DIA_GRD_219_STONE4_06_02.wav|Sure I can. Hand it over and hang on a minute.
+DUMMY/DIA_GRD_219_STONE4_06_03.wav|Here is the reinforced armor. We're quits now.
+DUMMY/DIA_GRD_219_STONE5_06_02.wav|That's not difficult, hold on.
+DUMMY/DIA_GRD_219_STONE5_06_03.wav|This ring will give you extra life energy. That should be more than enough to settle the score between us.
+DUMMY/DIA_GRD_219_STONE6_06_02.wav|A protection ring? Okay, I'll start right away. Just wait a while.
+DUMMY/DIA_GRD_219_STONE6_06_03.wav|You asked for a protection ring, you have one, so now we're quits.
+DUMMY/DIA_GRD_219_STONE7_06_02.wav|... Something to increase magic powers...? An amulet! That's it, I'll forge an amulet for you. It won't take long.
+DUMMY/DIA_GRD_219_STONE7_06_03.wav|Right, the amulet's finished, and I must say I've made a good job of it. We're quits now.

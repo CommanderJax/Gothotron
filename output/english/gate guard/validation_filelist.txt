@@ -1,0 +1,3 @@
+DUMMY/INFO_GRD_212_FIRSTIN_13_02.wav|I won't forget your face, pal! You get into trouble and it won't end quickly!
+DUMMY/DIA_GRD_217_FIRST_06_01.wav|Move your ass! Get in, or get out - I don't care. Just as long as you get out of my sight.
+DUMMY/INFO_ORG_830_WHAT_13_01.wav|What's it look like? I'm smoking.

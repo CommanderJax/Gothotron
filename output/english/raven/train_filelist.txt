@@ -1,0 +1,21 @@
+DUMMY/DIA_RAVEN_FIRSTIN_10_00.wav|What can I do for you?
+DUMMY/DIA_RAVEN_WHO_10_01.wav|I'm Raven. Gomez' right hand man. Anyone who wants to see Gomez has to talk to ME first.
+DUMMY/DIA_RAVEN_KRAUTBOTE_10_02.wav|You'll find him in the room on the right, behind the entrance, or in the kitchen in the big tower.
+DUMMY/DIA_RAVEN_KRAUTBOTE_10_03.wav|Course he sleeps at night. I wouldn't disturb him then, if I were you.
+DUMMY/DIA_RAVEN_AUFNAHME_10_01.wav|We're always on the lookout for good men. You seem to have your wits about you. You might be okay.
+DUMMY/DIA_RAVEN_AUFNAHME_10_02.wav|I'll take you to Gomez. Follow me. And don't touch anything!
+DUMMY/DIA_RAVEN_THERE_10_01.wav|Gomez is over there. If you don't show him some respect, I'll take pleasure in teaching it to you personally, have you got that?
+DUMMY/DIA_RAVEN_PERM_10_01.wav|The Old Mine's doing well. The last load of supplies from the outside world was massive.
+DUMMY/DIA_RAVEN_BINDABEI_10_01.wav|Great! In that case, you can prove your worth with a first task.
+DUMMY/DIA_RAVEN_BINDABEI_10_02.wav|It shouldn't be too difficult for you, provided your connections are as good as you say.
+DUMMY/DIA_RAVEN_SPYSECT_10_01.wav|We do a lot of trade with the Brotherhood. That doesn't mean to say we trust 'em.
+DUMMY/DIA_RAVEN_SPYSECT_10_02.wav|Go to the swamp.
+DUMMY/DIA_RAVEN_SPYSECT_10_03.wav|When you get to the Camp, keep your ears open. Anything you pick up might be useful for us.
+DUMMY/DIA_RAVEN_SPYSECT_10_04.wav|The more you find out, the better. It'll take a bit of tact, if you know what I mean.
+DUMMY/DIA_RAVEN_EQUIPMENT_10_01.wav|Go and see Diego, he'll give you some armor. It'll stop you from getting killed and it'll serve as an ID at the same time.
+DUMMY/DIA_RAVEN_EQUIPMENT_10_02.wav|Your armor should give you access to all the places you need to go.
+DUMMY/DIA_RAVEN_EQUIPMENT_10_03.wav|If you need any weapons, go and talk to Skip. You'll find him in the big shed right at the back, left of the castle courtyard.
+DUMMY/DIA_RAVEN_SPYBERICHT_10_01.wav|Good. I like being kept up to date.
+DUMMY/DIA_RAVEN_SPYBERICHT_10_04.wav|Du hast deine Sache gut gemacht.
+DUMMY/DIA_RAVEN_SPYBERICHT_10_03.wav|Very interesting. I wonder if it will work. Bring the eggs to the temple.
+DUMMY/DIA_RAVEN_SPYBERICHT_10_06.wav|Then why are you bothering me?

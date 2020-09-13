@@ -1,0 +1,30 @@
+DUMMY/DIA_FINGERS_LEHRER_PICKPOCKET2_05_03.wav|Take care.
+DUMMY/DIA_FINGERS_BECOMESHADOW_ANYTIPS_05_01.wav|I wouldn't know how...
+DUMMY/DIA_FINGERS_BECOMESHADOW_TEACHME_05_01.wav|Why have you come to me?
+DUMMY/DIA_FINGERS_BECOMESHADOW_TEACHME_05_03.wav|You should have said that before.
+DUMMY/DIA_FINGERS_BECOMESHADOW_TEACHME_05_04.wav|If you wanna join the Camp, it's an advantage to be a good fighter or thief.
+DUMMY/DIA_FINGERS_BECOMESHADOW_TEACHME_05_05.wav|If the influential Shadows in this camp test you, they'll give you tasks you'd better not get caught doing.
+DUMMY/DIA_FINGERS_BECOMESHADOW_TEACHME_05_06.wav|That's why the way of the thief would be a good start to you.
+DUMMY/DIA_FINGERS_BECOMESHADOW_TEACHME_05_07.wav|Incidentally, I'm the best thief in the whole of the Old Camp.
+DUMMY/DIA_FINGERS_LEHRER_05_02.wav|That depends on what you want to know.
+DUMMY/DIA_FINGERS_LEHRER_SCHLEICHEN_05_01.wav|I believe - no false modesty - that I'm one of the best thieves they ever chucked into this colony.
+DUMMY/DIA_FINGERS_LEHRER_SCHLEICHEN_05_02.wav|But when it comes to teaching how to sneak around, Cavalorn is the better man for you!
+DUMMY/DIA_FINGERS_LEHRER_LOCKPICK_05_01.wav|You'd like to know that, wouldn't you! It's not too difficult to begin with.
+DUMMY/DIA_FINGERS_LEHRER_LOCKPICK_05_02.wav|Above all, you have to make sure that your lockpick doesn't break off.
+DUMMY/DIA_FINGERS_LEHRER_LOCKPICK_05_03.wav|If you're a little bit more patient in future, you'll see that you won't need that many lockpicks any more!
+DUMMY/DIA_FINGERS_LEHRER_LOCKPICK2_05_01.wav|Only when you've gained some experience can you tell when a lockpick is going to break. It makes a different sound!
+DUMMY/DIA_FINGERS_LEHRER_LOCKPICK2_05_02.wav|I think you have it. Learn to listen for the gentle clicking of the lock and you won't lose so many lockpicks in future.
+DUMMY/DIA_FINGERS_LEHRER_LOCKPICK2_05_03.wav|An expert in this field stands a good chance of opening a trunk without breaking his lockpick.
+DUMMY/DIA_FINGERS_LEHRER_PICKPOCKET_05_01.wav|So you want to relieve a few people of their belongings? Well then.
+DUMMY/DIA_FINGERS_LEHRER_PICKPOCKET_05_02.wav|I'll teach you how to improve your skills, but it's still very likely that you'll get caught.
+DUMMY/DIA_FINGERS_LEHRER_PICKPOCKET_05_03.wav|You should only take the risk if nobody but your victim is around.
+DUMMY/DIA_FINGERS_LEHRER_PICKPOCKET_05_04.wav|Only an expert can take things from people's pockets without them noticing!
+DUMMY/DIA_FINGERS_LEHRER_PICKPOCKET2_05_01.wav|I think you've progressed far enough to be taught the final tricks of the trade.
+DUMMY/DIA_FINGERS_LEHRER_PICKPOCKET2_05_02.wav|But you should know that even the best can get caught sometimes.
+DUMMY/DIA_FINGERS_WHERECAVALORN_05_01.wav|He's hunting out in the wild. You'll find him at the path to the New Camp. Westwards of the Old Camp there's a wide canyon.
+DUMMY/DIA_FINGERS_WHERECAVALORN_05_02.wav|In this canyon there's an old woodcutters' hut. You'll find him there.
+DUMMY/DIA_FINGERS_LEARNT_05_01.wav|Yes. You've learned something which makes you quite useful to us.
+DUMMY/DIA_FINGERS_LEARNT_05_02.wav|We can make use of skilled thieves in this camp here. You'll have my vote.
+DUMMY/DIA_FINGERS_LEARNT_05_03.wav|Depends...
+DUMMY/DIA_FINGERS_LEARNT_05_04.wav|If you demonstrate that you've learned something as a thief, we could make use of you!
+DUMMY/DIA_FINGERS_LEARNT_05_06.wav|Learn a thief's skill! You need to become more skilled in sneaking around, pickpocketing or opening locks. Then you'll have my vote.

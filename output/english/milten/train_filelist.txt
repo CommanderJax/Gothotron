@@ -1,0 +1,116 @@
+DUMMY/DIA_MILTEN_EXIT_02_00.wav|On we go.
+DUMMY/DIA_MILTEN_EXIT_02_01.wav|See you later.
+DUMMY/DIA_MILTEN_FIRST_02_00.wav|You may not cross this doorstep unless Master Corristo allows it.
+DUMMY/DIA_MILTEN_HELLO_02_01.wav|That is Corristo. What do you want with him?
+DUMMY/DIA_MILTEN_LETTER_02_03.wav|Show me the letter.
+DUMMY/INFO_MILTEN_SHSEAL_02_05.wav|There will be no need for that now.
+DUMMY/DIA_MILTEN_GOTOCORRISTO_02_01.wav|We have heard what you achieved in the Old Mine. Without the minecrawlers, ore mining has become much safer.
+DUMMY/DIA_MILTEN_GOTOCORRISTO_02_02.wav|Corristo knows of your achievements, too. He wishes to speak to you. Go to him.
+DUMMY/DIA_MILTEN_LETTER_02_01.wav|Are you a messenger from the outside world?
+DUMMY/DIA_MILTEN_LETTER_GIVE_02_03.wav|This letter is addressed to Xardas!
+DUMMY/DIA_MILTEN_LETTER_GIVE_02_05.wav|Xardas has not been a servant of Innos for ages. He left us some years ago and turned towards black magic.
+DUMMY/DIA_MILTEN_LETTER_GIVE_02_06.wav|He lives in a tower in the middle of the Orc land and concentrates on his studies.
+DUMMY/DIA_MILTEN_LETTER_GIVE_02_07.wav|He said he would go his own way to find out what went wrong with the Barrier.
+DUMMY/DIA_MILTEN_LETTER_GIVE_02_08.wav|Wait here. I'll be back in a moment.
+DUMMY/DIA_MILTEN_LETTER_NO_02_01.wav|Corristo will ask Torrez to give it to you as soon as he has the letter.
+DUMMY/DIA_MILTEN_LETTER_NO_02_02.wav|I'm a servant of Innos - I never lie. Now give me the letter.
+DUMMY/DIA_MILTEN_LETTER_NO_AGAIN_02_01.wav|I can't talk you out of that, can I?
+DUMMY/DIA_MILTEN_LETTER_NO_AGAIN_02_03.wav|Well then. If that's what you want. Wait here.
+DUMMY/DIA_MILTEN_COMESBACK_02_01.wav|But he says you may go to Torrez and let him give you the usual reward.
+DUMMY/DIA_MILTEN_COMESBACK_02_02.wav|Corristo was beside himself with delight. He said that you may go to Torrez and choose your reward.
+DUMMY/DIA_MILTEN_WOTORREZ_02_01.wav|He is in front of the temple building all day.
+DUMMY/DIA_MILTEN_WOTORREZ_02_02.wav|At night he is inside like all the others - but only magicians may enter the temple house, so you can only speak to him during the day.
+DUMMY/DIA_MILTEN_NOCHEINBRIEF_02_01.wav|Ah! Very good! I'll give it to Corristo.
+DUMMY/DIA_MILTEN_NOCHEINBRIEF_02_02.wav|When you're back in the New Camp, the Magicians of Water will surely reward you for your efforts.
+DUMMY/DIA_MILTEN_PERM_02_01.wav|The Circle of Fire takes its powers from the grace of Innos. The god of light, truth and justice watches over us.
+DUMMY/DIA_MILTEN_PERM_02_02.wav|The magicians consider themselves to be the chosen ones - and that's how they treat others.
+DUMMY/DIA_MILTEN_PERM_02_03.wav|I was lucky to be admitted. Corristo made me his apprentice. He probably just wanted some entertainment.
+DUMMY/DIA_MILTEN_PERM_02_04.wav|Since then, I've been trying to improve my magic skills every day in order to be admitted to the next Circle.
+DUMMY/DIA_MILTEN_WANNAMAGE_02_01.wav|Corristo chose me because I did something special for the Ore Barons.
+DUMMY/DIA_MILTEN_WANNAMAGE_02_02.wav|Unless you do something truly exceptional, he will never consider you for apprenticeship.
+DUMMY/DIA_MILTEN_WANNAMAGE_02_03.wav|Besides, you must belong to the Old Camp. I doubt if Corristo would take a member of any other camp for his apprentice.
+DUMMY/INFO_MILTEN_SHWAIT_02_01.wav|Greetings! My friend Lester from the swamp camp told me about your great deeds there!
+DUMMY/INFO_MILTEN_SHWAIT_02_02.wav|I am impressed. You have become very strong.
+DUMMY/INFO_MILTEN_SHGORN_02_02.wav|Really? Where?
+DUMMY/INFO_MILTEN_SHGORN_02_04.wav|I am sure he'll tell me all about it when we meet again.
+DUMMY/INFO_MILTEN_SHLESTER_02_02.wav|He told me about it. Apparently you can be trusted.
+DUMMY/INFO_MILTEN_SHLESTER_02_04.wav|Oh, here and there. We meet in a lot of different places.
+DUMMY/INFO_MILTEN_SHYOU_02_02.wav|There is an ancient ring of stone not far from here. In its center lies the entrance to an underground vault.
+DUMMY/INFO_MILTEN_SHYOU_02_04.wav|Yes, something like that.
+DUMMY/INFO_MILTEN_SHYOU_02_05.wav|There is something in that tomb that I'd like to have.
+DUMMY/INFO_MILTEN_SHME_02_02.wav|That almost sounds as if we were both looking for something in the same place.
+DUMMY/INFO_MILTEN_SHPROBLEM_02_02.wav|Oh, that's a long story. I'd have to go a long way back to explain.
+DUMMY/INFO_MILTEN_SHPROBLEM_02_04.wav|Alright! After the creation of the Magic Barrier which imprisons us all...
+DUMMY/INFO_MILTEN_SHPROBLEM_02_05.wav|... one of the magicians sealed a magic artefact down there.
+DUMMY/INFO_MILTEN_SHFOCUS_02_02.wav|Exactly! So you already know the story of the five focus stones?
+DUMMY/INFO_MILTEN_SHSEAL_02_02.wav|Yes. A powerful spell protects it. The first grave robber trying to swipe the focus...
+DUMMY/INFO_MILTEN_SHSEAL_02_03.wav|... will be cursed, and doomed to an existence as a restless undead, who will have to protect the tomb from other grave robbers.
+DUMMY/INFO_MILTEN_SHSEAL_02_06.wav|Some years ago, an Ore Baron out pleasure hunting for Orcs was careless enough to enter the tomb.
+DUMMY/INFO_MILTEN_SHSEAL_02_07.wav|Now HE is the guard of the treasures down there.
+DUMMY/INFO_MILTEN_SHTALISMAN_02_02.wav|I believe its former owner used it to defend himself against angry Orcs.
+DUMMY/INFO_MILTEN_SHTALISMAN_02_03.wav|If I'm right, the talisman may be of great use.
+DUMMY/INFO_MILTEN_SHOFFER_02_02.wav|Alright, but there is one little problem...
+DUMMY/INFO_MILTEN_SHOFFER_02_04.wav|Yes. The guard down there in the tomb...
+DUMMY/INFO_MILTEN_SHOFFER_02_06.wav|That wouldn't be too easy. He seems to be extremely resistant against the effects of normal weapons.
+DUMMY/INFO_MILTEN_SHOFFER_02_08.wav|Uhm... well... I have a plan but I can't carry it out on my own.
+DUMMY/INFO_MILTEN_SHOFFER2_02_02.wav|I have a spell scroll with a very powerful spell here.
+DUMMY/INFO_MILTEN_SHOFFER2_02_03.wav|The spell will destroy all the undead who fall under it.
+DUMMY/INFO_MILTEN_SHOFFER2_02_05.wav|Mhmm... Well... Not quite! The guard is not on his own any longer.
+DUMMY/INFO_MILTEN_SHOFFER2_02_06.wav|Probably later grave robbers who were no more successful than he was.
+DUMMY/INFO_MILTEN_SHACCEPT_02_02.wav|Good, very good. I hoped you would say that!
+DUMMY/INFO_MILTEN_SHACCEPT_02_03.wav|However, we only have one spell scroll. Use it for the guard!
+DUMMY/INFO_MILTEN_SHACCEPT_02_04.wav|The other undead can be defeated in normal fights as well.
+DUMMY/INFO_MILTEN_SHACCEPT_02_06.wav|Follow me.
+DUMMY/INFO_MILTEN_SHARRIVED_02_01.wav|Here we are. The tunnel here leads directly to the tomb.
+DUMMY/INFO_MILTEN_SHHEAL_02_02.wav|Take this healing potion.
+DUMMY/INFO_MILTEN_SHHEAL_02_03.wav|I don't have any healing potion left.
+DUMMY/INFO_MILTEN_SHRUNNING_02_02.wav|Then destroy him with the spell scroll.
+DUMMY/INFO_MILTEN_SHSCROLL_02_03.wav|Perhaps you can buy another spell scroll or a rune in one of the camps.
+DUMMY/INFO_MILTEN_SHSCROLL_02_04.wav|I'll wait for you over there, where we met.
+DUMMY/INFO_MILTEN_SHNEWSCROLL_02_02.wav|Very good. Now we can pay another visit to the guard.
+DUMMY/INFO_MILTEN_SHNEWSCROLL_02_03.wav|Go first, I'll follow.
+DUMMY/INFO_MILTEN_SHLEAVE_02_01.wav|You seem to have lost interest in the tomb.
+DUMMY/INFO_MILTEN_SHLEAVE_02_02.wav|If you change your mind, you can meet me where we met before.
+DUMMY/INFO_MILTEN_SHCONTINUE_02_02.wav|I'm ready. Go ahead, I'll follow.
+DUMMY/INFO_MILTEN_SHSUCCESS_02_01.wav|Good. You have the talisman.
+DUMMY/INFO_MILTEN_SHSUCCESS_02_03.wav|Thank you, my friend. I never forget anybody who helped me.
+DUMMY/INFO_MILTEN_SHSUCCESS_02_04.wav|I'll go back to the Old Camp, perhaps we'll meet there.
+DUMMY/INFO_MILTEN_OCWARN_02_01.wav|They... They are all dead  .. all DEAD. I couldn't help them... I was... was not there... I...
+DUMMY/INFO_MILTEN_OCWARN_02_03.wav|Good, then you know. What did Diego say?
+DUMMY/INFO_MILTEN_OCWARN_02_05.wav|Good luck and take care!
+DUMMY/INFO_MILTEN_OCWARN_02_07.wav|They killed the Magicians of Fire. ALL OF THEM apart from me, and I was close to death as well.
+DUMMY/INFO_MILTEN_OCWARN_02_09.wav|Okay. Keep cool, Milten, keep cool...
+DUMMY/INFO_MILTEN_OCWARN_02_10.wav|It all started with the Old Mine caving in...
+DUMMY/INFO_MILTEN_OCWARN_02_12.wav|Yes. It all happened very fast. Nobody in the mine made it out.
+DUMMY/INFO_MILTEN_OCMINE_02_02.wav|I've no idea. Some of the diggers who were waiting in front of the entrance said something about a massive earthquake and a huge cloud of dust coming from the tunnel.
+DUMMY/INFO_MILTEN_OCMINE_02_04.wav|Yes. That's where I learned about the cave-in.
+DUMMY/INFO_MILTEN_OCKDW_02_02.wav|I only know that they were all killed by the Ore Barons shortly after the mine caved in.
+DUMMY/INFO_MILTEN_OCKDW_02_03.wav|When I returned from our adventure under the ring of stone, the guards at the gate suddenly attacked me.
+DUMMY/INFO_MILTEN_OCKDW_02_04.wav|They shouted words like 'traitor' and 'collaborator' at me. I had a very narrow escape.
+DUMMY/INFO_MILTEN_OCWHY_02_02.wav|That's right. The guards just didn't give me any opportunity to ask. They drew their swords immediately.
+DUMMY/INFO_MILTEN_OCWHY_02_03.wav|Perhaps Diego knows more. He was in the Camp when things got worse.
+DUMMY/INFO_MILTEN_OCYOU_02_02.wav|No. Diego and I agreed to keep an eye on the two gates and to warn our unsuspecting friends from the other camps.
+DUMMY/INFO_MILTEN_OCYOU_02_03.wav|Please talk to Diego!
+DUMMY/INFO_MILTEN_OCDIEGO_02_02.wav|He's hiding on the other side of the Old Camp, near the back gate.
+DUMMY/INFO_MILTEN_OCDIEGO_02_03.wav|Please talk to him!
+DUMMY/INFO_MILTEN_LOADSWORD_02_01.wav|Greetings, my friend, I haven't seen you for ages.
+DUMMY/INFO_MILTEN_LOADSWORD1_02_02.wav|What's up? How can I help you?
+DUMMY/INFO_MILTEN_LOADSWORD1_02_04.wav|Fine. Follow me.
+DUMMY/INFO_MILTEN_LSAWAY_02_01.wav|Now tell me, what is it?
+DUMMY/INFO_MILTEN_LSAWAY_02_03.wav|You're joking!
+DUMMY/INFO_MILTEN_LSAWAY_02_07.wav|XARDAS??? You're beginning to scare me!
+DUMMY/INFO_MILTEN_LSAWAY_02_08.wav|Nobody has spoken to him since he left the Old Camp.
+DUMMY/INFO_MILTEN_LSAWAY_02_10.wav|What do you need the powers of the ore mound for?
+DUMMY/INFO_MILTEN_LSAWAY_02_12.wav|Wow, what a weapon!
+DUMMY/INFO_MILTEN_LOADSWORD4_02_03.wav|Mmmm... Mmmm... It looks as if I only have to read out this spell ...
+DUMMY/INFO_MILTEN_LOADSWORD4_02_04.wav|But we'll get into trouble with Saturas and the other magicians!
+DUMMY/INFO_MILTEN_LSRISK_02_04.wav|I don't understand...
+DUMMY/INFO_MILTEN_LSRISK_02_07.wav|Besides, it seems Xardas trusts you as well.
+DUMMY/INFO_MILTEN_LSRISK_02_08.wav|Meet me down at the ore mound, and... Don't tell anybody!
+DUMMY/INFO_MILTEN_LSOREHEAP_02_01.wav|Have you got the sword and the spell?
+DUMMY/INFO_MILTEN_LSNOW_02_03.wav|As ready as one can be for this crazy plan.
+DUMMY/INFO_MILTEN_LSDONE_02_01.wav|It's done!
+DUMMY/INFO_MILTEN_LSDONE_02_03.wav|That's a good sign! The magic powers of the ore mound really seem to be in the old sword now!
+DUMMY/INFO_MILTEN_LSDONE_02_04.wav|But our little operation here seems to have attracted some attention.
+DUMMY/INFO_MILTEN_LSDONE_02_05.wav|You should teleport yourself directly out of here!
+DUMMY/INFO_MILTEN_LSDONE_02_07.wav|Don't worry about me, I'll think of something. Go now!

@@ -1,0 +1,3 @@
+DUMMY/INFO_BLOODWYN_HELLO_08_06.wav|That's why I'm asking you for some ore. Look at it as a kind of token of friendship. You help us, and we'll help you. If you get in trouble, we'll be there for you.
+DUMMY/INFO_BLOODWYN_HELLO_NOTNOW_08_02.wav|Let me see...
+DUMMY/INFO_BLOODWYN_PAYDAY_DEN_08_03.wav|Just 10 ore, and you're in - what d'you say?

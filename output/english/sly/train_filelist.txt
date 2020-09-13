@@ -1,0 +1,16 @@
+DUMMY/DIA_STT_315_SLY_10_01.wav|New here, are you? I don't know your face.
+DUMMY/DIA_STT_315_SLY_10_02.wav|I'm Sly. I have a job on offer for a newcomer.
+DUMMY/DIA_STT_315_LOSTNEK_10_01.wav|One of our guards has disappeared! He's called Nek. He might have gone over to the New Camp.
+DUMMY/DIA_STT_315_LOSTNEK_10_02.wav|You're new here and you'll get around quite a lot. So keep your eyes peeled.
+DUMMY/DIA_STT_315_LOSTNEK_10_03.wav|If you find him, I'll speak up for you in the Camp.
+DUMMY/DIA_STT_315_LOSTNEK_WHY_10_01.wav|If you wannna join the Camp, you need people to speak up for you.
+DUMMY/DIA_STT_315_LOSTNEK_WHY_10_02.wav|If I speak up for you with Diego, that'd be a great help for you.
+DUMMY/DIA_STT_315_LOSTNEK_DOIT_10_01.wav|If you meet Fletcher, ask him about Nek. He's taken over his distric' since Nek disappeared.
+DUMMY/DIA_STT_315_LOSTNEK_DOIT_10_03.wav|His district is the district of the arena.
+DUMMY/DIA_STT_315_LOSTNEKSUCCESS_10_01.wav|Good! Have you got any evidence for that?
+DUMMY/DIA_STT_315_LOSTNEKSUCCESS_PROOF_10_01.wav|It was actually the amulet the whole thing was about. You're a clever guy.
+DUMMY/DIA_STT_315_LOSTNEKSUCCESS_PROOF_10_02.wav|You might have had the idea to keep the amulet yourself, but you've made the right decision.
+DUMMY/DIA_STT_315_LOSTNEKSUCCESS_PROOF_10_03.wav|If Diego asks me about you, I'll vote in your favor.
+DUMMY/DIA_STT_315_LOSTNEKSUCCESS_NOPROOF_10_01.wav|Oh? You're not hiding anything from me, are you? Nek had an amulet on him.
+DUMMY/DIA_STT_315_SLY_AFTERSUCCESS_10_01.wav|Good! With me you don't need to worry about Diego any more!
+DUMMY/DIA_STT_315_SLY_AFTERSUCCESS_10_03.wav|That's the way it is.

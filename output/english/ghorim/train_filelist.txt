@@ -1,0 +1,6 @@
+DUMMY/DIA_GHORIM_MISSINGHARLOK_02_01.wav|I'm dead on my feet, man. I've been working for two days without a single break.
+DUMMY/DIA_GHORIM_MISSINGHARLOK_02_03.wav|He's probably lying in his hut, fast asleep!
+DUMMY/DIA_GHORIM_MISSINGHARLOK_02_05.wav|Can't leave here while Baal Orun is in charge - the work has to be done either way!
+DUMMY/DIA_GHORIM_MISSINGHARLOK_02_06.wav|But you could go there for me - he's staying right under Cor Kalom's alchemy lab, at Fortuno's.
+DUMMY/DIA_GHORIM_MISSINGHARLOK_02_07.wav|Tell him to get his butt over here.
+DUMMY/DIA_GHORIM_SUCCESS_02_01.wav|Yeah - finally I can get to sleep. Thanks, man!

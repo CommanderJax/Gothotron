@@ -1,0 +1,11 @@
+DUMMY/SLD_709_CORD_TRAINOFFER_INFO_14_02.wav|Of course. It'll cost you, though. I want 30 ore.
+DUMMY/SLD_709_CORD_TRAIN_14_01.wav|That's a good decision! Before you can improve your technique, you'll have to learn how to hold the weapon right.
+DUMMY/SLD_709_CORD_TRAIN_14_02.wav|Beginners often tend to hold one-handed weapons with both hands. Now, you'd better not even start getting into that habit, it'd only get in the way.
+DUMMY/SLD_709_CORD_TRAIN_14_03.wav|Hold the weapon with one hand, blade up, and keep swinging it.
+DUMMY/SLD_709_CORD_TRAIN_14_04.wav|You'll have to learn to harmonize your weapon's swing with your own movements. That'll make you faster in the attack.
+DUMMY/SLD_709_CORD_TRAIN_14_05.wav|If you keep in mind what I've taught you, your fights will be more elegant and a lot faster in future.
+DUMMY/SLD_709_CORD_TRAIN_14_07.wav|But the further you progress, the better you get.
+DUMMY/SLD_709_CORD_TRAINAGAIN_INFO_14_02.wav|Okay, you know the basics. Holding the weapon lower down will put more force into your first strike.
+DUMMY/SLD_709_CORD_TRAINAGAIN_INFO_14_03.wav|Use the swing, remember? Now you need to use your body more. When you've struck twice, spin around. That'll confuse the opponent and put you in an excellent position.
+DUMMY/SLD_709_CORD_TRAINAGAIN_INFO_14_04.wav|Then bring your blade across from right to left once more.
+DUMMY/SLD_709_CORD_TRAINAGAIN_INFO_14_05.wav|And back to the front. Don't forget: practice makes perfect. So, get going and become a real master of the art of one-handed fighting.

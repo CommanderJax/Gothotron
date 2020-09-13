@@ -1,0 +1,2 @@
+DUMMY/STT_311_FISK_FIRST_12_00.wav|Hey, man! I'm Fisk. I trade goods of all kinds. If you ever need anything - you're in the right place here.
+DUMMY/STT_311_FISK_MORDRAGKO_PETZE_12_01.wav|Don't try it on, pal!

@@ -1,0 +1,2 @@
+DUMMY/INFO_SFB_2_EINERVONEUCHWERDEN_02_00.wav|What do you want? I don't want to get into any trouble.
+DUMMY/INFO_SFB_5_DASLAGER_02_01.wav|Whatever you make of it. For some nothing but work, for others a hell of a lot of fun.

@@ -1,0 +1,31 @@
+DUMMY/DIA_SCATTY_WHATDOYOUDO_01_01.wav|I'm in charge of the arena. I organize the bets, hire new fighters... You know.
+DUMMY/DIA_SCATTY_JOINOC_01_01.wav|I might be able to, if you manage to impress me.
+DUMMY/DIA_SCATTY_JOINOC_01_02.wav|Some of the best fighters from all three camps come here to compete against each other.
+DUMMY/DIA_SCATTY_JOINOC_01_03.wav|Challenge one of them to a fight. I'll watch you, and if you're good maybe I'll think about it.
+DUMMY/DIA_SCATTY_KIRGOSUCCESS_01_02.wav|Surely you don't expect me to be impressed by that...
+DUMMY/DIA_SCATTY_KIRGOSUCCESS_01_03.wav|And you defeated him! That's not bad for a beginner like you! I'm impressed!
+DUMMY/DIA_SCATTY_KHARIMSUCCESS_01_01.wav|And boy, did he whack you!
+DUMMY/DIA_SCATTY_KHARIMSUCCESS_01_02.wav|Still, you chose the right opponent! I just can't stand those bastards from the New Camp.
+DUMMY/DIA_SCATTY_KHARIMSUCCESS_01_04.wav|And you knocked him down! I have to admit that wasn't bad going. He's always been known as one of the toughest fighters.
+DUMMY/DIA_SCATTY_KHARIMSUCCESS_01_05.wav|I'm deeply impressed!
+DUMMY/DIA_SCATTY_OTHERCAMPS_01_01.wav|It's simple: There's fights here once a week, and the diggers always like to see one of the rogues from the New Camp get flattened.
+DUMMY/DIA_SCATTY_OTHERCAMPS_01_02.wav|If one of them fights, there's more bets - and that's good for business!
+DUMMY/DIA_SCATTY_OTHERCAMPS_01_03.wav|Personally, I can't stand the swines from the New Camp - but business is business...
+DUMMY/DIA_SCATTY_WANNABET_01_01.wav|But there's no fight on.
+DUMMY/DIA_SCATTY_WANNABET_01_02.wav|The next fight's due in a couple of days. There'll be an announcement.
+DUMMY/DIA_SCATTY_WANNAFIGHT_01_01.wav|I can't let you fight until you've joined one of the camps!
+DUMMY/DIA_SCATTY_WANNAFIGHT_01_02.wav|Nobody wants to see an independent fighter!
+DUMMY/DIA_SCATTY_TRAIN_01_01.wav|Yeah, but not just for fun. If you want me to train you, you'll have to pay for it.
+DUMMY/DIA_SCATTY_TRAIN_1H_01_01.wav|That's a good decision! Before you can improve your technique, you'll have to learn how to hold the weapon right.
+DUMMY/DIA_SCATTY_TRAIN_1H_01_02.wav|Beginners often tend to hold one-handed weapons with both hands. Now, don't even start getting into that habit, it'll do you no good.
+DUMMY/DIA_SCATTY_TRAIN_1H_01_03.wav|Hold the weapon with one hand, blade up, and keep swinging it.
+DUMMY/DIA_SCATTY_TRAIN_1H_01_04.wav|You have to learn to harmonize your weapon's swing with your own movements. That'll make you faster in the attack.
+DUMMY/DIA_SCATTY_TRAIN_1H_01_05.wav|If you keep in mind what I've taught you, your fights will be more elegant and a lot faster in future.
+DUMMY/DIA_SCATTY_TRAIN_1H_01_06.wav|Oh yeah, one more thing: Some hits cause more damage than others! As a beginner, you don't stand much of a chance of making critical hits.
+DUMMY/DIA_SCATTY_TRAIN_1H_01_07.wav|But the further you progress, the better you get.
+DUMMY/DIA_SCATTY_TRAIN_1H_NOORE_01_00.wav|You don't have enough ore!
+DUMMY/DIA_SCATTY_TRAIN_2H_INFO_01_02.wav|Okay, you know the basics. Holding the weapon lower down will let you put more force into your first strike.
+DUMMY/DIA_SCATTY_TRAIN_2H_INFO_01_03.wav|Use the swing, remember? Okay, now you need to use your body more. When you've struck twice, spin around. That'll confuse the opponent and put you in an excellent position.
+DUMMY/DIA_SCATTY_TRAIN_2H_INFO_01_04.wav|Then bring your blade across from right to left once more.
+DUMMY/DIA_SCATTY_TRAIN_2H_INFO_01_05.wav|And back to the front. Don't forget: practice makes perfect. So, get going and master the art of one-handed fighting.
+DUMMY/DIA_SCATTY_TRAIN_2H_NOORE_01_00.wav|Come back when you have enough ore!

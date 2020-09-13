@@ -1,0 +1,17 @@
+DUMMY/DIA_BALOR_FETCHWEED_01_01.wav|Good. Then I don't need to go myself. Here, take it.
+DUMMY/DIA_BALOR_FETCHWEED_01_02.wav|Don't forget to go to Viran on the other side of the swamp, if you haven't been there yet.
+DUMMY/DIA_BALOR_FETCHWEED_01_03.wav|Otherwise your load might be a bit small and people might think you'd sold the other half of it, hee, hee.
+DUMMY/DIA_BALOR_SELLUNDER_01_01.wav|Oh-oh! Now I've been puttin' ideas in your head, haven't I?
+DUMMY/DIA_BALOR_SELLUNDER_HALFHALF_01_01.wav|Well, I'd know somebody in the New Camp, he'd be interested in weed...
+DUMMY/DIA_BALOR_SELLUNDER_HALFHALF_01_02.wav|But if the Gurus catch you at it, they'll feed you to the swampsharks! I don't know anything, okay?!
+DUMMY/DIA_BALOR_SELLUNDER_COMEON_01_01.wav|You have something in mind? I'm telling you: If the stuff doesn't arrive at Cor Kalom's, we'll both be in real trouble!
+DUMMY/DIA_BALOR_TELLDEALER_01_01.wav|You think I'll give you the name and you can just make a run with the weed - it doesn't work quite like that!
+DUMMY/DIA_BALOR_TELLDEALER_01_02.wav|I wanna see 50 ore as an advance payment. Then we'll see.
+DUMMY/DIA_BALOR_TELLDEALER_PAY_01_01.wav|Good... Listen. His name's Cipher. You'll probably find him in the bar on the lake.
+DUMMY/DIA_BALOR_TELLDEALER_PAY_01_02.wav|Be careful and don't let anybody fool you.
+DUMMY/DIA_BALOR_TELLDEALER_PAY_NOORE_01_00.wav|I don't see any 50 ore. I want 50 ore and not a nugget less, okay?
+DUMMY/DIA_BALOR_TELLDEALER_FORGETIT_01_01.wav|Don't think you can simply walk into the New Camp and sell it to anybody! If you don't know the right name, you'll never get rid of it.
+DUMMY/DIA_BALOR_TELLDEALER_FORGETIT_01_02.wav|Unless you let some rogue whack you on the nut.
+DUMMY/DIA_BALOR_RIPOFF_01_01.wav|Of course! To sell it off to the New Camp again?
+DUMMY/DIA_BALOR_RIPOFF_01_02.wav|I wanna see 50 ore - my usual advance payment.
+DUMMY/DIA_BALOR_RIPOFF_01_03.wav|You again? Well then, here, take it, but don't do anything stupid, you got that?
